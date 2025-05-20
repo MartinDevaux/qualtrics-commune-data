@@ -9,11 +9,11 @@ respondent.commune,business_name,place_id,fr_categories,business_address,treatme
 92002,Loulou Antony,ChIJC2iDN5B35kcRAZekqgKvJrk,"Restaurant, Café D'art, Bar, Brasserie, Restaurant Brunch, Café, Restaurant De Poisson-Frites, Restaurant De Hamburgers, Magasin De Jus, Bar Sportif","12 Pl. Du Marché, Antony",0
 92002,Les Galopins,ChIJIcBqRhp35kcRdYDdWxKAMmI,"Restaurant Français, Brasserie","56 Av. De La Division Leclerc, Antony",0
 92002,Jules Bistrot Gourmand,ChIJRwhXgBZ35kcRMZfxiDrBmZc,"Restaurant, Bistro, Restaurant Français, Restaurant Français Moderne, Cave À Vin","8 Rue De L'église, Antony",0
-92002,Narisawa,ChIJq6rOPwZ35kcRwvPnG5lYB0E,"Restaurant Japonais, Restaurant De Sushis","177 Av. De La Division Leclerc, Antony",NA
-92002,Tiger Asian Food,ChIJgzNKjMl35kcRE6xIGw1c3Gk,"Restaurant, Restaurant Asiatique, Restaurant Japonais, Restaurant Coréen, Restaurant Mandarin, Restaurant Panasiatique, Restaurant Thaïlandais, Restaurant Vietnamien, Restaurant De Wok","142 Av. Aristide Briand, Antony",NA
-92002,Chez Quyên-Chi,ChIJjWRE-hp35kcRflP8geJ6b2g,Restaurant Vietnamien,"53 Av. De La Division Leclerc, Antony",NA
-92002,Saïgon,ChIJ1SvMS_125kcR7iUoRKYXXl8,"Restaurant Vietnamien, Restaurant Asiatique, Restaurant Chinois, Restaurant","2 Rue Des Rabats, Antony",NA
-92002,Pho Antony,ChIJjwY9xgd35kcRCtOMRy_MUG8,"Restaurant Vietnamien, Bar, Brasserie, Brasserie, Café, Restaurant Pho","205 Av. De La Division Leclerc, Antony",NA
+92002,Narisawa,ChIJq6rOPwZ35kcRwvPnG5lYB0E,"Restaurant Japonais, Restaurant De Sushis","177 Av. De La Division Leclerc, Antony",2
+92002,Tiger Asian Food,ChIJgzNKjMl35kcRE6xIGw1c3Gk,"Restaurant, Restaurant Asiatique, Restaurant Japonais, Restaurant Coréen, Restaurant Mandarin, Restaurant Panasiatique, Restaurant Thaïlandais, Restaurant Vietnamien, Restaurant De Wok","142 Av. Aristide Briand, Antony",2
+92002,Chez Quyên-Chi,ChIJjWRE-hp35kcRflP8geJ6b2g,Restaurant Vietnamien,"53 Av. De La Division Leclerc, Antony",2
+92002,Saïgon,ChIJ1SvMS_125kcR7iUoRKYXXl8,"Restaurant Vietnamien, Restaurant Asiatique, Restaurant Chinois, Restaurant","2 Rue Des Rabats, Antony",2
+92002,Pho Antony,ChIJjwY9xgd35kcRCtOMRy_MUG8,"Restaurant Vietnamien, Bar, Brasserie, Brasserie, Café, Restaurant Pho","205 Av. De La Division Leclerc, Antony",2
 92004,Le Riyad Khalti,ChIJWVQrPvVl5kcRY01S-Rv4Rfg,"Restaurant Marocain, Restaurant De Restauration Rapide","176 Av. D'argenteuil, Asnières-sur-Seine",1
 92004,Stone House,ChIJVVXJ5F9v5kcRbZ9jn4fI4Ss,Restaurant Marocain,"177 Bd Voltaire, Asnières-sur-Seine",1
 92004,Restaurant L'espoir,ChIJ7aRUqmFv5kcRDbKz22pdto4,Restaurant Marocain,"9 Bd Voltaire, Asnières-sur-Seine",1
@@ -24,11 +24,11 @@ respondent.commune,business_name,place_id,fr_categories,business_address,treatme
 92004,Chez Nous,ChIJQVD9tWZv5kcRS3wYuHPNhx8,Brasserie,"34 Rue Du Révérend Père Christian Gilbert, Asnières-sur-Seine",0
 92004,Restaurant L'appart,ChIJQfDiV2Vv5kcR25Y16BFehyk,Restaurant Français,"105 Quai Du Dr Dervaux, Asnières-sur-Seine",0
 92004,Saisons - Cuisine Du Marché,ChIJnwaUO2Vv5kcReYlzujGt1VM,"Restaurant, Restaurant Français, Restaurant Français Moderne","50 Rue Du Château, Asnières-sur-Seine",0
-92004,Hanh,ChIJZeVW6Xxv5kcRgvEgs4rUrQ0,"Restaurant Vietnamien, Restaurant","28 Rue De Normandie, Asnières-sur-Seine",NA
-92004,Restaurant Vietnamien Hanoi,ChIJW6C6XPVl5kcR4f54XZyjGgc,"Restaurant Vietnamien, Restaurant Asiatique","198 Bd Voltaire, Asnières-sur-Seine",NA
-92004,Nouilles 92,ChIJ-ZbtmmRv5kcRBCUlCQurKA0,Restaurant Chinois,"26 Rue Bapst, Asnières-sur-Seine",NA
-92004,Bistro Thaï,ChIJZeKln3xv5kcRMqyiCxdezdA,Restaurant Thaïlandais,"20 Gd Rue Charles De Gaulle, Asnières-sur-Seine",NA
-92004,Noo Wok,ChIJHXmLibFv5kcRJmSl6aGXOIw,"Restaurant Thaïlandais, Restaurant","47 Rue De Bretagne, Asnières-sur-Seine",NA
+92004,Hanh,ChIJZeVW6Xxv5kcRgvEgs4rUrQ0,"Restaurant Vietnamien, Restaurant","28 Rue De Normandie, Asnières-sur-Seine",2
+92004,Restaurant Vietnamien Hanoi,ChIJW6C6XPVl5kcR4f54XZyjGgc,"Restaurant Vietnamien, Restaurant Asiatique","198 Bd Voltaire, Asnières-sur-Seine",2
+92004,Nouilles 92,ChIJ-ZbtmmRv5kcRBCUlCQurKA0,Restaurant Chinois,"26 Rue Bapst, Asnières-sur-Seine",2
+92004,Bistro Thaï,ChIJZeKln3xv5kcRMqyiCxdezdA,Restaurant Thaïlandais,"20 Gd Rue Charles De Gaulle, Asnières-sur-Seine",2
+92004,Noo Wok,ChIJHXmLibFv5kcRJmSl6aGXOIw,"Restaurant Thaïlandais, Restaurant","47 Rue De Bretagne, Asnières-sur-Seine",2
 92007,El Bibene,ChIJy1_uR3Rx5kcRDeVbG9wTAMs,Restaurant Tunisien,"10 Av. Henri Barbusse, Bagneux",1
 92007,Naan Stop,ChIJEcUf4SFx5kcRL7zuoKLPEWM,"Restaurant De Restauration Rapide, Restaurant De Hamburgers, Restaurant Indien, Kebab, Sandwicherie","108 Av. Albert Petit, Bagneux",1
 92007,Lanta Wok,ChIJYePQfe9x5kcRr0QQhALJADw,"Restaurant Thaïlandais, Restaurant Halal, Restaurant De Livraison, Restaurant","90 Av. Albert Petit, Bagneux",1
@@ -39,11 +39,11 @@ respondent.commune,business_name,place_id,fr_categories,business_address,treatme
 92007,Le Dibier,ChIJR9oVI_tx5kcRgyu9cGV517U,Restaurant Barbecue,"79 Av. Henri Ravera, Bagneux",0
 92007,Le Dampierre,ChIJ-a701Jtx5kcR50sXxzG_gHQ,Brasserie,"1 Av. Henri Ravera, Bagneux",0
 92007,La Ferme De Garlande,ChIJ4W7HG-Zw5kcReEGipJb2R_Y,"Café, Restaurant Français","21 All. Pablo Picasso, Bagneux",0
-92007,Restaurant Everest,ChIJdQTZtOBx5kcRljbys3eR2w8,"Restaurant Indien, Restaurant Népalais, Restaurant Tibétain","10 Av. Henri Ravera, Bagneux",NA
-92007,Z Sushi,ChIJZ2u0IuBw5kcR4AV7iipTGf8,Restaurant Japonais,"76 Rue Des Meuniers, Bagneux",NA
-92007,Muki Sushi,ChIJu1biO91w5kcRawgqoF8q4EQ,Restaurant Japonais,"2 Av. Albert Petit, Bagneux",NA
-92007,Sushi Hikari,ChIJdXbwRR9x5kcRj80e8vx2jiw,Restaurant Japonais,"142 Av. Aristide Briand, Bagneux",NA
-92007,Dream Sushi,ChIJhVF4BCdx5kcRXMh2h6qrc3E,"Restaurant De Sushis, Restaurant Régional Japonais","286 Av. Aristide Briand, Bagneux",NA
+92007,Restaurant Everest,ChIJdQTZtOBx5kcRljbys3eR2w8,"Restaurant Indien, Restaurant Népalais, Restaurant Tibétain","10 Av. Henri Ravera, Bagneux",2
+92007,Z Sushi,ChIJZ2u0IuBw5kcR4AV7iipTGf8,Restaurant Japonais,"76 Rue Des Meuniers, Bagneux",2
+92007,Muki Sushi,ChIJu1biO91w5kcRawgqoF8q4EQ,Restaurant Japonais,"2 Av. Albert Petit, Bagneux",2
+92007,Sushi Hikari,ChIJdXbwRR9x5kcRj80e8vx2jiw,Restaurant Japonais,"142 Av. Aristide Briand, Bagneux",2
+92007,Dream Sushi,ChIJhVF4BCdx5kcRXMh2h6qrc3E,"Restaurant De Sushis, Restaurant Régional Japonais","286 Av. Aristide Briand, Bagneux",2
 92009,Oriental Corner Couscous À Domicile Et Cuisine Marocaine,ChIJ-RHlRI5l5kcRFlbaHeU4M0c,"Restaurant Marocain, Bar Et Grill, Traiteur, Restaurant De Couscous","16 Rue Des Bourguignons, Asnières-sur-Seine",1
 92009,Crêpe King,ChIJVVWFZY5l5kcRjpd2RSzM0oM,"Crêperie, Restaurant Américain, Dîner, Restaurant De Restauration Rapide, Restaurant Français, Restaurant Grec, Restaurant Halal, Restaurant De Hamburgers, Restaurant Indien, Kebab, Restaurant De Livraison, Restaurant, Sandwicherie, Service D'expédition","28 Rue Des Bourguignons, Asnières-sur-Seine",1
 92009,Maison Kebab Canteen,ChIJvXpzeFVl5kcRXOzT4-Kmr8U,Restaurant,"28 Rue Des Bourguignons, Asnières-sur-Seine",1
@@ -54,11 +54,11 @@ respondent.commune,business_name,place_id,fr_categories,business_address,treatme
 92009,Cocottes,ChIJI7eU7iBl5kcRZR7k5lPuo4k,"Restaurant, Bistro, Restaurant Français, Restaurant Français Moderne","5 Rue Eugénie Carmignat, Bois-Colombes",0
 92009,Mb Mon Bistrot,ChIJq6oaZZJl5kcRBmQAGdIx4IM,"Bistro, Bar, Restaurant Français","43 Rue Du Général Leclerc, Bois-Colombes",0
 92009,Sista Place,ChIJlYhrYBJl5kcR8TejzSqnmus,Restaurant Brunch,"203 Av. D'argenteuil, Bois-Colombes",0
-92009,Shinobi,ChIJzYPIb45l5kcRanZQJRx-pTg,Restaurant Japonais,"30 Rue Des Bourguignons, Asnières-sur-Seine",NA
-92009,Msushi - Bois Colombes - Cantine Japonaise,ChIJ68irVppl5kcRhl-x-tzcnmg,Restaurant Japonais,"51 Rue Charles Chefson, Bois-Colombes",NA
-92009,Royal Bois Colombes,ChIJ2bnRPotl5kcRaru4qtZ_7Do,"Restaurant, Bar, Restaurant Chinois, Restaurant Thaïlandais","105 Rue Des Bourguignons, Bois-Colombes",NA
-92009,Côté Sushi Bois-Colombes,ChIJ-7HbZoxl5kcR5eWtwSl6OMw,"Restaurant De Sushis, Restaurant Asiatique, Restaurant De Poissons, Restaurant Fusion, Restaurant Japonais, Restaurant Panasiatique, Restaurant Péruvien, Sushis À Emporter","65 Rue Des Bourguignons, Bois-Colombes",NA
-92009,Sushi Château,ChIJz9kdkIxl5kcRZvGHFga6mU8,Restaurant Japonais,"8 Rue Victor Hugo, Bois-Colombes",NA
+92009,Shinobi,ChIJzYPIb45l5kcRanZQJRx-pTg,Restaurant Japonais,"30 Rue Des Bourguignons, Asnières-sur-Seine",2
+92009,Msushi - Bois Colombes - Cantine Japonaise,ChIJ68irVppl5kcRhl-x-tzcnmg,Restaurant Japonais,"51 Rue Charles Chefson, Bois-Colombes",2
+92009,Royal Bois Colombes,ChIJ2bnRPotl5kcRaru4qtZ_7Do,"Restaurant, Bar, Restaurant Chinois, Restaurant Thaïlandais","105 Rue Des Bourguignons, Bois-Colombes",2
+92009,Côté Sushi Bois-Colombes,ChIJ-7HbZoxl5kcR5eWtwSl6OMw,"Restaurant De Sushis, Restaurant Asiatique, Restaurant De Poissons, Restaurant Fusion, Restaurant Japonais, Restaurant Panasiatique, Restaurant Péruvien, Sushis À Emporter","65 Rue Des Bourguignons, Bois-Colombes",2
+92009,Sushi Château,ChIJz9kdkIxl5kcRZvGHFga6mU8,Restaurant Japonais,"8 Rue Victor Hugo, Bois-Colombes",2
 92012,La Médina,ChIJeUXooON65kcRoevImjA4EnY,Restaurant Marocain,"110 Av. Du Général Leclerc, Boulogne-Billancourt",1
 92012,Usta,ChIJq6p-meN65kcRuz-q-o3PxyE,Restaurant Turc,"100 Av. Du Général Leclerc, Boulogne-Billancourt",1
 92012,Chez Madeleine,ChIJV557UMJ65kcR7jC6vni5PKU,"Restaurant Libanais, Restaurant Méditerranéen","39 Rue De Paris, Boulogne-Billancourt",1
@@ -69,11 +69,11 @@ respondent.commune,business_name,place_id,fr_categories,business_address,treatme
 92012,Big Fernand,ChIJNZL81R175kcRaXu48FwoDM8,"Restaurant De Hamburgers, Restaurant Américain, Restaurant Familial, Restaurant De Restauration Rapide, Restaurant Français, Restaurant De Livraison, Restaurant À Emporter, Restaurant","60 Rue De Sèvres, Boulogne-Billancourt",0
 92012,Mon Bistrot,ChIJ1wZYL5V65kcRKJwgI4HqG9U,"Bistro, Restaurant Gastronomique, Restaurant","33 Rue Marcel Dassault, Boulogne-Billancourt",0
 92012,La Grange,ChIJi3GCwB575kcRd4K9SoRUK6E,Restaurant Français,"34 Bis Quai Alphonse Le Gallo, Boulogne-Billancourt",0
-92012,Tokoyama,ChIJ--fjcx575kcRDUEI4NtoJYk,Restaurant Japonais,"56-58 Rue De Sèvres, Boulogne-Billancourt",NA
-92012,Good Morning Vietnam,ChIJNZL81R175kcRerDUXAaoHr8,Restaurant Vietnamien,"60 Rue De Sèvres, Boulogne-Billancourt",NA
-92012,Frères Zhou,ChIJ88UAtup65kcRM0E4zL7QMdo,"Restaurant Chinois, Restaurant Asiatique","26 Av. Édouard Vaillant, Boulogne-Billancourt",NA
-92012,Restaurant Kayani,ChIJzyshBeV65kcRZ8k1EfwQx6o,Restaurant Indien,"8 Pl. De Bir Hakeim, Boulogne-Billancourt",NA
-92012,Shiki Boulogne-Billancourt,ChIJ7TB9D-p65kcRtjz6L2S9rmk,"Restaurant Japonais, Restaurant, Restaurant De Sushis","Angle, Boulogne-Billancourt",NA
+92012,Tokoyama,ChIJ--fjcx575kcRDUEI4NtoJYk,Restaurant Japonais,"56-58 Rue De Sèvres, Boulogne-Billancourt",2
+92012,Good Morning Vietnam,ChIJNZL81R175kcRerDUXAaoHr8,Restaurant Vietnamien,"60 Rue De Sèvres, Boulogne-Billancourt",2
+92012,Frères Zhou,ChIJ88UAtup65kcRM0E4zL7QMdo,"Restaurant Chinois, Restaurant Asiatique","26 Av. Édouard Vaillant, Boulogne-Billancourt",2
+92012,Restaurant Kayani,ChIJzyshBeV65kcRZ8k1EfwQx6o,Restaurant Indien,"8 Pl. De Bir Hakeim, Boulogne-Billancourt",2
+92012,Shiki Boulogne-Billancourt,ChIJ7TB9D-p65kcRtjz6L2S9rmk,"Restaurant Japonais, Restaurant, Restaurant De Sushis","Angle, Boulogne-Billancourt",2
 92014,Mezzé Du Village,ChIJNfcYpRNx5kcRxI83Snw07Ns,Restaurant Libanais,"3 Rue René Roeckel, Bourg-la-Reine",1
 92014,Pizza Time Bourg La Reine,ChIJQVOw6ntx5kcR5uXFaiP6TVk,"Restaurant De Pizzas, Restaurant Halal, Livraison De Pizzas, Pizza À Emporter, Restaurant","6 Bd Du Maréchal Joffre, Bourg-la-Reine",1
 92014,Chez Memo,ChIJNca49NVw5kcRx3_gnA7GtbY,"Kebab, Restaurant De Restauration Rapide","94 Av. Du Général Leclerc, Bourg-la-Reine",1
@@ -84,11 +84,11 @@ respondent.commune,business_name,place_id,fr_categories,business_address,treatme
 92014,Archie - Bourg-La-Reine,ChIJ1yGaUOhx5kcRdFo2wECsmos,"Restaurant, Restaurant Australien, Restaurant Brunch, Café, Dîner","68 Bd Du Maréchal Joffre, Bourg-la-Reine",0
 92014,Le Grove,ChIJJ4e6XR1x5kcRSo1uvmUrlW4,"Brasserie, Bar","97 Av. Du Général Leclerc, Bourg-la-Reine",0
 92014,Doughnuts Factory,ChIJ49kmCABx5kcRpk2s_p_Z8yM,Restaurant Américain,"23 Rue De La Bièvre, Bourg-la-Reine",0
-92014,Hatori,ChIJJaqpySdx5kcRIZNeRi1OV3E,"Restaurant Japonais, Restaurant De Sushis","5 Av. Du Général Leclerc, Bourg-la-Reine",NA
-92014,Aux Saveurs De L'inde,ChIJIT9luixx5kcRrNx_qLFJ1vo,"Restaurant Indien, Traiteur","39 Av. Galois, Bourg-la-Reine",NA
-92014,Fou Lo,ChIJH_M5bChx5kcRiSU_03mEZMA,"Restaurant De Fondue Chinoise, Restaurant Asiatique, Restaurant Chinois, Restaurant Thaïlandais","27 Av. Du Général Leclerc, Bourg-la-Reine",NA
-92014,Fusion N'rolls Sushi,ChIJuxsMm9Vw5kcRwBuSwnnPJos,"Restaurant Japonais, Restaurant De Sushis","106 Av. Du Général Leclerc, Bourg-la-Reine",NA
-92014,Le Séoul,ChIJoX707kVx5kcRHN197fFqdIU,Restaurant De Barbecue Coréen,"80 Av. Du Général Leclerc, Bourg-la-Reine",NA
+92014,Hatori,ChIJJaqpySdx5kcRIZNeRi1OV3E,"Restaurant Japonais, Restaurant De Sushis","5 Av. Du Général Leclerc, Bourg-la-Reine",2
+92014,Aux Saveurs De L'inde,ChIJIT9luixx5kcRrNx_qLFJ1vo,"Restaurant Indien, Traiteur","39 Av. Galois, Bourg-la-Reine",2
+92014,Fou Lo,ChIJH_M5bChx5kcRiSU_03mEZMA,"Restaurant De Fondue Chinoise, Restaurant Asiatique, Restaurant Chinois, Restaurant Thaïlandais","27 Av. Du Général Leclerc, Bourg-la-Reine",2
+92014,Fusion N'rolls Sushi,ChIJuxsMm9Vw5kcRwBuSwnnPJos,"Restaurant Japonais, Restaurant De Sushis","106 Av. Du Général Leclerc, Bourg-la-Reine",2
+92014,Le Séoul,ChIJoX707kVx5kcRHN197fFqdIU,Restaurant De Barbecue Coréen,"80 Av. Du Général Leclerc, Bourg-la-Reine",2
 92019,Restaurant Franco Italien,ChIJq7uvEOV55kcRawJhHwt9Zj0,Restaurant Halal,"358 Av. De La Division Leclerc, Châtenay-Malabry",1
 92019,Restaurant El Bahia,ChIJDU_b91d35kcRLHmzkZGv9w0,Restaurant Marocain,"192 Av. De La Division Leclerc, Châtenay-Malabry",1
 92019,Cedre D'or,ChIJ_W0DMux35kcRtom1FPVUzcg,Restaurant Libanais,"1 Chem. De La Croix Blanche, Châtenay-Malabry",1
@@ -99,11 +99,11 @@ respondent.commune,business_name,place_id,fr_categories,business_address,treatme
 92019,Le Voltaire,ChIJJbIml1p35kcR-gkJRrW1hug,"Brasserie, Bar","1 Rue Voltaire, Châtenay-Malabry",0
 92019,Burger King,ChIJmVHg2fJ55kcRt2JQu1eh4NU,"Restaurant De Restauration Rapide, Restaurant Américain, Bar Et Grill, Restaurant Familial, Restaurant De Hamburgers, Restaurant À Emporter","359 Av. De La Division Leclerc, Châtenay-Malabry",0
 92019,L'horizon,ChIJT8cmaVl35kcR48p7HpQIXvQ,"Restaurant, Bar, Crêperie, Restaurant De Fondue, Restaurant De Pizzas, Pizza À Emporter, Restaurant De Raclette","193-197 Av. De La Division Leclerc, Châtenay-Malabry",0
-92019,Yamasa 92,ChIJ5U5TFu555kcRu41RJpcmZoI,"Restaurant Japonais, Restaurant De Sushis","416 Av. De La Division Leclerc, Châtenay-Malabry",NA
-92019,Yuzu,ChIJ8zAfdo535kcRobxu2mrwTPw,Restaurant Asiatique,"159-163 Av. De La Division Leclerc, Châtenay-Malabry",NA
-92019,Le Bangalore,ChIJv9iXWw135kcRW1dHdx4OSKI,Restaurant Indien,"197 Av. De La Division Leclerc, Châtenay-Malabry",NA
-92019,Royal Sushi,ChIJ67RtFOV55kcRiw0XckMNULQ,"Restaurant Japonais, Restaurant Asiatique, Restaurant Chinois, Restaurant De Sushis","362 Av. De La Division Leclerc, Châtenay-Malabry",NA
-92019,Chez Lily,ChIJ8STMbFB35kcRuCwg-izvHQo,"Plats Chinois À Emporter, Restaurant Chinois","84 Rue Jean Longuet, Châtenay-Malabry",NA
+92019,Yamasa 92,ChIJ5U5TFu555kcRu41RJpcmZoI,"Restaurant Japonais, Restaurant De Sushis","416 Av. De La Division Leclerc, Châtenay-Malabry",2
+92019,Yuzu,ChIJ8zAfdo535kcRobxu2mrwTPw,Restaurant Asiatique,"159-163 Av. De La Division Leclerc, Châtenay-Malabry",2
+92019,Le Bangalore,ChIJv9iXWw135kcRW1dHdx4OSKI,Restaurant Indien,"197 Av. De La Division Leclerc, Châtenay-Malabry",2
+92019,Royal Sushi,ChIJ67RtFOV55kcRiw0XckMNULQ,"Restaurant Japonais, Restaurant Asiatique, Restaurant Chinois, Restaurant De Sushis","362 Av. De La Division Leclerc, Châtenay-Malabry",2
+92019,Chez Lily,ChIJ8STMbFB35kcRuCwg-izvHQo,"Plats Chinois À Emporter, Restaurant Chinois","84 Rue Jean Longuet, Châtenay-Malabry",2
 92020,La Casbah Des Délices,ChIJhwPj-8hx5kcR1ihSh3SQQ58,Restaurant Algérien,"10 Rue Gabriel Péri, Châtillon",1
 92020,Kotlet - Boucherie & Restaurant Châtillon,ChIJo8HjHadx5kcR4DQutsBCSIg,"Restaurant, Boucherie Charcuterie, Traiteur, Charcuterie, Restaurant Halal, Restaurant À Emporter, Boucherie","88 Av. De Paris, Châtillon",1
 92020,Sushi In Châtillon,ChIJAexyQJFw5kcRBNsG8Ku_M_Y,"Restaurant De Sushis, Restaurant De Sushis À Tapis Roulant, Restaurant Halal, Restaurant Japonais, Restaurant De Livraison, Sushis À Emporter, Restaurant Végétarien","12 Rue Gabriel Péri, Châtillon",1
@@ -114,11 +114,11 @@ respondent.commune,business_name,place_id,fr_categories,business_address,treatme
 92020,C'est Mon Plaisir,ChIJG8g-t0xw5kcRF9JlDiMA_5w,"Restaurant Français, Café, Restaurant De Restauration Rapide, Restaurant","35 Rue Gabriel Péri, Châtillon",0
 92020,Le Castellio,ChIJs9GMbpFw5kcRbE2NeKhLQTc,"Restaurant, Restaurant Français, Brasserie","3 Av. De Verdun, Châtillon",0
 92020,Le Saint Malo,ChIJawPRhpFw5kcRGyJi6ilPcQY,Restaurant Français,"3 Rue Victor Hugo, Châtillon",0
-92020,Le Neuf De Thaï,ChIJq7vqf5Fw5kcR_9Qri1ehAMw,"Restaurant Thaïlandais, Restaurant Asiatique","12 Av. De Paris, Châtillon",NA
-92020,Le Commerce Brasserie Et Restaurant Thaïlandais,ChIJpWrVeJFw5kcR0t_FDxXaKFE,"Restaurant Thaïlandais, Bar","France, Châtillon",NA
-92020,Etoile De L'inde,ChIJ6bYal5Zw5kcRvfWnrhdnOHg,Restaurant Indien,"11 Rue De La Mairie, Châtillon",NA
-92020,Chez Shan,ChIJM2HGGpdw5kcRPisu90BAwrk,Restaurant Chinois,"72 Rue Gabriel Péri, Châtillon",NA
-92020,Le Jade Royal,ChIJdYsSQJFw5kcRcwhnd-BT0kI,"Restaurant Asiatique, Restaurant Chinois, Restaurant Thaïlandais","10 Rue Gabriel Péri, Châtillon",NA
+92020,Le Neuf De Thaï,ChIJq7vqf5Fw5kcR_9Qri1ehAMw,"Restaurant Thaïlandais, Restaurant Asiatique","12 Av. De Paris, Châtillon",2
+92020,Le Commerce Brasserie Et Restaurant Thaïlandais,ChIJpWrVeJFw5kcR0t_FDxXaKFE,"Restaurant Thaïlandais, Bar","France, Châtillon",2
+92020,Etoile De L'inde,ChIJ6bYal5Zw5kcRvfWnrhdnOHg,Restaurant Indien,"11 Rue De La Mairie, Châtillon",2
+92020,Chez Shan,ChIJM2HGGpdw5kcRPisu90BAwrk,Restaurant Chinois,"72 Rue Gabriel Péri, Châtillon",2
+92020,Le Jade Royal,ChIJdYsSQJFw5kcRcwhnd-BT0kI,"Restaurant Asiatique, Restaurant Chinois, Restaurant Thaïlandais","10 Rue Gabriel Péri, Châtillon",2
 92022,King Food,ChIJDXx46Yp75kcRbyTnWYB65LI,Kebab,"8 Bd De La Libération, Viroflay",1
 92022,Le Palais D'ali Baba,ChIJRVmFioh75kcRYSvuRd_TWOk,"Restaurant Marocain, Bar","1712 Av. Roger Salengro, Chaville",1
 92022,Anamour Grill,ChIJT8QL-BV75kcRhFt_odRCR3w,Restaurant Turc,"136 Grande Rue, Sèvres",1
@@ -129,11 +129,11 @@ respondent.commune,business_name,place_id,fr_categories,business_address,treatme
 92022,Les Burgers De Colette - Chaville,ChIJF1zetYF75kcRDGUNjA7q7Og,"Restaurant De Hamburgers, Restaurant Américain, Restaurant Familial, Restaurant De Restauration Rapide, Restaurant Français, Restaurant De Livraison, Restaurant À Emporter, Restaurant, Snack-Bar","19 Rue De Jouy, Chaville",0
 92022,Café Du Théâtre,ChIJGz8OgIN75kcRz3_lvmhftnA,Brasserie,"840 Av. Roger Salengro, Chaville",0
 92022,La Pergola,ChIJ-UTgyux75kcR6QvqxNk0K4Q,"Restaurant, Restaurant Français","15 Rte Sablée, Chaville",0
-92022,Palais Nippon,ChIJs-hm6op75kcRp7oC5czDcFw,"Restaurant Japonais, Restaurant De Sushis","3 Bd De La Libération, Viroflay",NA
-92022,Yamada Restaurant,ChIJTZnhIoN75kcRItYoBJYw0rg,"Restaurant Japonais, Restaurant Coréen, Restaurant, Restaurant De Sushis","585 Av. Roger Salengro, Chaville",NA
-92022,Le Palais De Maharajah,ChIJX_4V3ol75kcRhMQPcPzuByM,Restaurant Indien,"2049 Av. Roger Salengro, Chaville",NA
-92022,Bollywood,ChIJ8SMCHSJ75kcRu1ZI7SJ8Kqg,"Restaurant Indien, Restaurant Pakistanais","Av. Roger Salengro 204, Chaville",NA
-92022,Kim Yang,ChIJfVxWJ4N75kcRLMLcrvNBg2M,"Restaurant, Bar, Restaurant Chinois","536 Av. Roger Salengro, Chaville",NA
+92022,Palais Nippon,ChIJs-hm6op75kcRp7oC5czDcFw,"Restaurant Japonais, Restaurant De Sushis","3 Bd De La Libération, Viroflay",2
+92022,Yamada Restaurant,ChIJTZnhIoN75kcRItYoBJYw0rg,"Restaurant Japonais, Restaurant Coréen, Restaurant, Restaurant De Sushis","585 Av. Roger Salengro, Chaville",2
+92022,Le Palais De Maharajah,ChIJX_4V3ol75kcRhMQPcPzuByM,Restaurant Indien,"2049 Av. Roger Salengro, Chaville",2
+92022,Bollywood,ChIJ8SMCHSJ75kcRu1ZI7SJ8Kqg,"Restaurant Indien, Restaurant Pakistanais","Av. Roger Salengro 204, Chaville",2
+92022,Kim Yang,ChIJfVxWJ4N75kcRLMLcrvNBg2M,"Restaurant, Bar, Restaurant Chinois","536 Av. Roger Salengro, Chaville",2
 92023,Le Maroc,ChIJVX24k3R65kcRx2RfZ4P_lMw,"Restaurant, Restaurant Marocain","25 Bis Av. Jean Baptiste Clément, Clamart",1
 92023,Le Marrakech,ChIJe0UYFg565kcRB7JeQPxemZs,"Restaurant Marocain, Bar","69 Rue De La Prte De Trivaux, Clamart",1
 92023,La Méditerranéenne - Traiteur Libanais,ChIJVz3VAXN65kcRnLLgroUZUq8,Restaurant Libanais,"5 Rue Du Trosy, Clamart",1
@@ -144,11 +144,11 @@ respondent.commune,business_name,place_id,fr_categories,business_address,treatme
 92023,Brasserie Café Restaurant Les Frangins Clamart,ChIJdXRXPAB75kcRQQIIBRNYou0,"Restaurant Français, Bar","23 Rue Paul Vaillant Couturier, Clamart",0
 92023,Cinq,ChIJRT_Cqcp75kcRu3YUki2LSck,"Restaurant, Restaurant Français","5 Rue Hébert, Clamart",0
 92023,Ouichef !,ChIJo4QoZ3h65kcRMDlPoygYHcQ,"Restaurant, Restaurant Américain, Restaurant De Restauration Rapide, Restaurant De Hamburgers","176 Av. Victor Hugo, Clamart",0
-92023,Ayako Teppanyaki (Clamart),ChIJSR6Ym5975kcRKX9_kXYfOKE,"Restaurant Japonais, Restaurant Yakiniku","18 Pl. Du Panorama, Clamart",NA
-92023,Restaurant Le Nouveau Jardin Thaïlandais,ChIJmdy3bGR65kcR-VVRYkGhAas,Restaurant Thaïlandais,"83 Av. Henri Barbusse, Clamart",NA
-92023,T&T Bubble Tea | Plats À Emporter,ChIJ94UvhYFx5kcR9WQHaeT2j7E,"Restaurant, Restaurant De Fusion Asiatique, Magasin De Thé Aux Perles, Traiteur, Restaurant De Restauration Rapide, Restaurant De Livraison, Restaurant À Emporter, Sandwicherie, Salon De Thé, Restaurant Vietnamien","62 Rue De Châtillon, Clamart",NA
-92023,Muskan,ChIJYXzqQHh65kcRi8Ll1jbw4AU,Restaurant Indien,"158 Av. Victor Hugo, Clamart",NA
-92023,Nem Shop Clamart,ChIJI_Rwrhl65kcR52bFENfkook,"Restaurant Asiatique, Restaurant De Fusion Asiatique, Restaurant Chinois, Restaurant De Sushis, Restaurant Thaïlandais","151 Avenue Du Général De Gaulle, Clamart",NA
+92023,Ayako Teppanyaki (Clamart),ChIJSR6Ym5975kcRKX9_kXYfOKE,"Restaurant Japonais, Restaurant Yakiniku","18 Pl. Du Panorama, Clamart",2
+92023,Restaurant Le Nouveau Jardin Thaïlandais,ChIJmdy3bGR65kcR-VVRYkGhAas,Restaurant Thaïlandais,"83 Av. Henri Barbusse, Clamart",2
+92023,T&T Bubble Tea | Plats À Emporter,ChIJ94UvhYFx5kcR9WQHaeT2j7E,"Restaurant, Restaurant De Fusion Asiatique, Magasin De Thé Aux Perles, Traiteur, Restaurant De Restauration Rapide, Restaurant De Livraison, Restaurant À Emporter, Sandwicherie, Salon De Thé, Restaurant Vietnamien","62 Rue De Châtillon, Clamart",2
+92023,Muskan,ChIJYXzqQHh65kcRi8Ll1jbw4AU,Restaurant Indien,"158 Av. Victor Hugo, Clamart",2
+92023,Nem Shop Clamart,ChIJI_Rwrhl65kcR52bFENfkook,"Restaurant Asiatique, Restaurant De Fusion Asiatique, Restaurant Chinois, Restaurant De Sushis, Restaurant Thaïlandais","151 Avenue Du Général De Gaulle, Clamart",2
 92024,Le Sahan,ChIJIWXZqgtv5kcR_PlvT_U5z2g,"Restaurant, Restaurant Méditerranéen, Restaurant Turc","42 Rue Henri Barbusse, Clichy",1
 92024,Crust - Clichy,ChIJBQ783zNv5kcRcgunvbI8a1M,"Restaurant, Restaurant Halal, Restaurant Indien Musulman","112 Bd Jean Jaurès, Clichy",1
 92024,L'arganier,ChIJTdgXLK5v5kcR61_lh_ePBgs,"Restaurant Marocain, Restaurant Buffet, Restaurant Français","114 Rue Martre, Clichy",1
@@ -159,11 +159,11 @@ respondent.commune,business_name,place_id,fr_categories,business_address,treatme
 92024,L'essentiel,ChIJ0VX9Tt9v5kcRIp4H0cCfxZM,Bistro,"9 Rue D'alsace, Clichy",0
 92024,Cantisserie,ChIJe0AA1Ydv5kcRWEexXvz8Fsg,"Restaurant, Restaurant Français","27 Rue De Neuilly, Clichy",0
 92024,La Tribu,ChIJFTT94GVv5kcRV3xbIxYfo9Q,Restaurant Français,"40 Bd Du Général Leclerc, Clichy",0
-92024,Le Jardin De Clichy,ChIJ_feVPwpv5kcRg3m0JYc06Ig,"Restaurant Mandarin, Restaurant Chinois De Livraison","29 Bd Jean Jaurès, Clichy",NA
-92024,Tasty Rice Clichy,ChIJVxGhnM5v5kcR18U50fPDZtQ,Restaurant Japonais,"76 Rue De Paris, Clichy",NA
-92024,Asian Food By Baze Clichy,ChIJNcquPQZv5kcRyN2vmRn4FVI,"Restaurant Asiatique, Restaurant De Sushis, Restaurant Thaïlandais","93 Bd Victor Hugo, Clichy",NA
-92024,Pho 32,ChIJY6uefg5v5kcRXy5_3ZF9Jt0,Restaurant Asiatique,"32 Rue Villeneuve, Clichy",NA
-92024,Saveurs De L'inde Halal,ChIJ0yX9xXZv5kcRVD-mGJgRLCw,Restaurant Indien,"27 Rue Jeanne D'asnières, Clichy",NA
+92024,Le Jardin De Clichy,ChIJ_feVPwpv5kcRg3m0JYc06Ig,"Restaurant Mandarin, Restaurant Chinois De Livraison","29 Bd Jean Jaurès, Clichy",2
+92024,Tasty Rice Clichy,ChIJVxGhnM5v5kcR18U50fPDZtQ,Restaurant Japonais,"76 Rue De Paris, Clichy",2
+92024,Asian Food By Baze Clichy,ChIJNcquPQZv5kcRyN2vmRn4FVI,"Restaurant Asiatique, Restaurant De Sushis, Restaurant Thaïlandais","93 Bd Victor Hugo, Clichy",2
+92024,Pho 32,ChIJY6uefg5v5kcRXy5_3ZF9Jt0,Restaurant Asiatique,"32 Rue Villeneuve, Clichy",2
+92024,Saveurs De L'inde Halal,ChIJ0yX9xXZv5kcRVD-mGJgRLCw,Restaurant Indien,"27 Rue Jeanne D'asnières, Clichy",2
 92025,The Ranch Restaurant Colombes,ChIJ3ZQz6kdk5kcRljMqi9B6LmE,"Restaurant Halal, Restaurant Barbecue, Restaurant Chophouse, Restaurant Français, Restaurant De Hamburgers, Restaurant De Livraison, Restaurant De Plats De Viande, Restaurant, Département Du Shérif, Steak House","224 Bd Charles De Gaulle, Colombes",1
 92025,Restaurant Sidi Mansour Cuisine Tunisienne,ChIJ68EpKgBl5kcRAy2PUJCESqQ,Restaurant Tunisien,"59 Rue Du Bournard, Colombes",1
 92025,Rodizio Brazil - Colombes,ChIJG_5skkhk5kcRb972sjvTzmw,"Restaurant Halal, Restaurant Brésilien, Restaurant Buffet, Restaurant De Poulet, Restaurant Chophouse, Restaurant Familial, Restaurant De Plats De Viande, Restaurant, Restaurant Traditionnel, Restaurant Végétarien","157 Bd Charles De Gaulle, Colombes",1
@@ -174,11 +174,11 @@ respondent.commune,business_name,place_id,fr_categories,business_address,treatme
 92025,Au Bureau,ChIJPWCMRDxl5kcRiSs2wobRawU,"Restaurant, Bar, Restaurant Européen, Restaurant Français, Restaurant De Hamburgers, Restaurant Irlandais, Pub, Bar Sportif","1 Rue Saint-Denis, Colombes",0
 92025,Ethik Bistronomie,ChIJpxnyYcFl5kcRJ3fFj2uev0g,"Restaurant, Restaurant Français","1 Pl. Maurice Chavany, Colombes",0
 92025,Au Petit Châlet,ChIJuY15WEtk5kcREIvf8A0b1Kc,"Restaurant Portugais, Restaurant Français, Restaurant Méditerranéen","102 Rue De Chatou, Colombes",0
-92025,Vinobah,ChIJD66j1MFl5kcRT5ExPEz8bIc,Restaurant Indien,"98 Rue Du Maréchal Joffre, Colombes",NA
-92025,Asian Touch,ChIJD2lSodJl5kcR6I4twPoAsIM,"Restaurant Asiatique, Restaurant","85 Bd Charles De Gaulle, Colombes",NA
-92025,Oishi Sushi,ChIJeUs9F99l5kcRfT_RSw10lMY,Restaurant Japonais,"55 Rue Du Bournard, Colombes",NA
-92025,Chez Kimi Restaurant Vietnamien,ChIJ3T5CQbJl5kcRS1dIYcOONyI,Restaurant Vietnamien,"143 Rue Moslard, Colombes",NA
-92025,Le Jardin De Bambou,ChIJ0UzLO7ll5kcRhAdwDrvQr3Y,"Restaurant Thaïlandais, Restaurant Asiatique, Restaurant Chinois, Restaurant Indonésien, Restaurant","136 Av. Henri Barbusse, Colombes",NA
+92025,Vinobah,ChIJD66j1MFl5kcRT5ExPEz8bIc,Restaurant Indien,"98 Rue Du Maréchal Joffre, Colombes",2
+92025,Asian Touch,ChIJD2lSodJl5kcR6I4twPoAsIM,"Restaurant Asiatique, Restaurant","85 Bd Charles De Gaulle, Colombes",2
+92025,Oishi Sushi,ChIJeUs9F99l5kcRfT_RSw10lMY,Restaurant Japonais,"55 Rue Du Bournard, Colombes",2
+92025,Chez Kimi Restaurant Vietnamien,ChIJ3T5CQbJl5kcRS1dIYcOONyI,Restaurant Vietnamien,"143 Rue Moslard, Colombes",2
+92025,Le Jardin De Bambou,ChIJ0UzLO7ll5kcRhAdwDrvQr3Y,"Restaurant Thaïlandais, Restaurant Asiatique, Restaurant Chinois, Restaurant Indonésien, Restaurant","136 Av. Henri Barbusse, Colombes",2
 92026,Tomahawk Restaurant,ChIJfVe9Abhl5kcRt8vpEV3SfjU,"Restaurant Halal, Restaurant De Fusion Asiatique, Restaurant De Plats De Viande","15 Rue De L'abreuvoir, Courbevoie",1
 92026,Le Timgad,ChIJ2-W3Jwpl5kcR8j7qzrUIhTc,"Restaurant Méditerranéen, Restaurant Algérien, Restaurant Barbecue, Restaurant Marocain","37 Rue De L'alma, Courbevoie",1
 92026,Le Dattier,ChIJv8yDtqdl5kcRjVD2u9JkzSs,"Restaurant Marocain, Gril, Restaurant De Couscous, Restaurant Méditerranéen, Restaurant","39 Av. De La République, Courbevoie",1
@@ -189,11 +189,11 @@ respondent.commune,business_name,place_id,fr_categories,business_address,treatme
 92026,La Table Des Artistes,ChIJ6-iH2gBl5kcR_8dVpV-kiCE,Restaurant Français,"1 Rue Alexis Séon, Courbevoie",0
 92026,Rastignac,ChIJg4T_hgll5kcRVHbsqkKn-LI,"Lieu De L'événement, Restaurant Français","18 Rue Baudin, Courbevoie",0
 92026,Palermo,ChIJC_08Jvll5kcR03wDIdj9Bsw,"Restaurant, Boulangerie, Café, Pâtisserie, Fromagerie, Café, Restaurant Français, Restaurant De Hamburgers, Restaurant De Fruits De Mer","35 Rue Victor Hugo, Courbevoie",0
-92026,Restaurant Le Lassani,ChIJO8rx851l5kcRxdE14ZrZ74E,Restaurant Indien,"121 Bd Saint-Denis, Courbevoie",NA
-92026,Kelbol,ChIJMZTDXjxl5kcRox9fLuxA4Vg,Restaurant Chinois,"6 Rue De Bezons, Courbevoie",NA
-92026,Muzi,ChIJcxGj1Y1l5kcRZRLJKFtmX4Y,"Restaurant Japonais, Restaurant","47 Av. Gambetta, Courbevoie",NA
-92026,Villa Min,ChIJQ4BNC_1u5kcReJCGHQ74NxA,Restaurant Coréen,"29 Av. Marceau, Courbevoie",NA
-92026,Sushibar,ChIJzWq6Vqhl5kcRHHWBGUQ-0Iw,"Restaurant Japonais, Bar, Restaurant De Sushis","59 Av. Marceau, Courbevoie",NA
+92026,Restaurant Le Lassani,ChIJO8rx851l5kcRxdE14ZrZ74E,Restaurant Indien,"121 Bd Saint-Denis, Courbevoie",2
+92026,Kelbol,ChIJMZTDXjxl5kcRox9fLuxA4Vg,Restaurant Chinois,"6 Rue De Bezons, Courbevoie",2
+92026,Muzi,ChIJcxGj1Y1l5kcRZRLJKFtmX4Y,"Restaurant Japonais, Restaurant","47 Av. Gambetta, Courbevoie",2
+92026,Villa Min,ChIJQ4BNC_1u5kcReJCGHQ74NxA,Restaurant Coréen,"29 Av. Marceau, Courbevoie",2
+92026,Sushibar,ChIJzWq6Vqhl5kcRHHWBGUQ-0Iw,"Restaurant Japonais, Bar, Restaurant De Sushis","59 Av. Marceau, Courbevoie",2
 92032,Restaurant L'arganier,ChIJB8VXGrlw5kcRNdn6k26BwKI,Restaurant Marocain,"15 Pl. Du Château Sainte-Barbe, Fontenay-aux-Roses",1
 92032,İstanbul Grill,ChIJ1_oYBh9x5kcRHSfMkNUmmLU,Restaurant Turc,"105 Rue Boucicaut, Fontenay-aux-Roses",1
 92032,Pizza Di Napoli,ChIJawK_fLtw5kcRN6U-2i5cKjg,"Restaurant De Pizzas, Restaurant Halal","91 Rue Boucicaut, Fontenay-aux-Roses",1
@@ -204,11 +204,11 @@ respondent.commune,business_name,place_id,fr_categories,business_address,treatme
 92032,L’odyssée,ChIJkb_Hablw5kcRW05u_-mTZFs,"Restaurant, Bar, Café, Restaurant Français, Brasserie","34 Rue Boucicaut, Fontenay-aux-Roses",0
 92032,Biboon Foodtruck,ChIJS8_JJ-hx5kcRlKDiLH8VLp0,"Restaurant De Hamburgers, Crêperie","34 Rue Des Bénards, Fontenay-aux-Roses",0
 92032,Be New,ChIJ7S4fe9B75kcRbnzbjMbkT50,Crêperie,"4 All. Du Tour Du Lac, Clamart",0
-92032,Rollroll Fontenay-Aux-Roses Japanese Food,ChIJzVUvyHVx5kcRlsPD6ezHI80,"Restaurant Japonais, Restaurant Asiatique, Restaurant De Restauration Rapide, Restaurant De Livraison, Restaurant À Emporter, Restaurant, Restaurant De Sushis, Sushis À Emporter","21 Pl. Du Château Sainte-Barbe, Fontenay-aux-Roses",NA
-92032,Yamato,ChIJu7GUw7xw5kcRxU065YDSSKs,Restaurant Japonais,"114 Rue Boucicaut, Fontenay-aux-Roses",NA
-92032,Eté Edo,ChIJiee4_hhx5kcRTxMqhxgCt9s,"Restaurant De Sushis, Restaurant","Fr, Fontenay-aux-Roses",NA
-92032,Ye Xing Yuan,ChIJFbVtvrxw5kcR2AKd61-0inU,"Restaurant Asiatique, Restaurant Chinois, Restaurant De Pizzas","105 Rue Boucicaut, Fontenay-aux-Roses",NA
-92032,Saigon Traiteur,ChIJw2bRhbtw5kcR3UfgM6E_3ZQ,"Traiteur, Restaurant Asiatique, Restaurant À Emporter","77 Rue Boucicaut, Fontenay-aux-Roses",NA
+92032,Rollroll Fontenay-Aux-Roses Japanese Food,ChIJzVUvyHVx5kcRlsPD6ezHI80,"Restaurant Japonais, Restaurant Asiatique, Restaurant De Restauration Rapide, Restaurant De Livraison, Restaurant À Emporter, Restaurant, Restaurant De Sushis, Sushis À Emporter","21 Pl. Du Château Sainte-Barbe, Fontenay-aux-Roses",2
+92032,Yamato,ChIJu7GUw7xw5kcRxU065YDSSKs,Restaurant Japonais,"114 Rue Boucicaut, Fontenay-aux-Roses",2
+92032,Eté Edo,ChIJiee4_hhx5kcRTxMqhxgCt9s,"Restaurant De Sushis, Restaurant","Fr, Fontenay-aux-Roses",2
+92032,Ye Xing Yuan,ChIJFbVtvrxw5kcR2AKd61-0inU,"Restaurant Asiatique, Restaurant Chinois, Restaurant De Pizzas","105 Rue Boucicaut, Fontenay-aux-Roses",2
+92032,Saigon Traiteur,ChIJw2bRhbtw5kcR3UfgM6E_3ZQ,"Traiteur, Restaurant Asiatique, Restaurant À Emporter","77 Rue Boucicaut, Fontenay-aux-Roses",2
 92033,Libancoin,ChIJezCU_tV75kcRKnaFEgGNO24,"Restaurant Libanais, Fournisseur De Nourriture Et De Boissons Pour La Restauration, Traiteur, Restaurant De Falafels, Restaurant Halal, Restaurant À Emporter, Restaurant Méditerranéen, Restaurant Shawarma, Restaurant Traditionnel, Restaurant Végétarien","37 Rue Du Colonel De Rochebrune, Rueil-Malmaison",1
 92033,Côte D'azur,ChIJW9SOgLJk5kcR8kCChvugpwI,Restaurant Algérien,"115 Av. De Fouilleuse, Rueil-Malmaison",1
 92033,Table Du Maroc,ChIJMUQbM6h75kcRRb80QyxfUOo,Restaurant Marocain,"6 Parc De La Bérengère, Saint-Cloud",1
@@ -219,11 +219,11 @@ respondent.commune,business_name,place_id,fr_categories,business_address,treatme
 92033,Crêperie Les Tonnelles,ChIJZz_9OUZ75kcRbw2vqjC_LUg,"Crêperie, Restaurant Français","101 Av. Du Maréchal Foch, Saint-Cloud",0
 92033,Restaurant La Faisanderie,ChIJqTDNE2Z75kcRF6ZHZ2IFLhU,"Restaurant Français, Traiteur, Séminaire, Lieu De Mariage","All. De Chamillard, Saint-Cloud",0
 92033,Brasserie Café Tabac Le Crystal,ChIJ10RrD5V85kcRQEI_9LlQzkU,"Brasserie, Bar","6 Bd De La République, Vaucresson",0
-92033,Restaurant New Kathmandu,ChIJm1-956B85kcRinPs8dfblHQ,"Restaurant Indien, Restaurant Asiatique, Bar, Restaurant, Restaurant Sud-Asiatique","136 Grande Rue, Garches",NA
-92033,Jing Du,ChIJDXYtnqB85kcRxxGLzGuv1Xk,"Restaurant Chinois, Restaurant Asiatique, Bar","1 Av. Du Maréchal Leclerc, Garches",NA
-92033,92380 Garches,ChIJyW_AD2x95kcRBgK__0kyT6k,Restaurant Indien,"136 Grande Rue, Garches",NA
-92033,Japan Sakura,ChIJ4Y5mJUl75kcRWmzuZb_BTQ0,"Restaurant Japonais, Restaurant Asiatique, Restaurant, Restaurant De Sushis","109 Rue De Buzenval, Garches",NA
-92033,Thai Niyom Saint-Cloud,ChIJMWbo65F75kcR16hmmH12Yts,Restaurant Thaïlandais,"44 Bd De La République, Saint-Cloud",NA
+92033,Restaurant New Kathmandu,ChIJm1-956B85kcRinPs8dfblHQ,"Restaurant Indien, Restaurant Asiatique, Bar, Restaurant, Restaurant Sud-Asiatique","136 Grande Rue, Garches",2
+92033,Jing Du,ChIJDXYtnqB85kcRxxGLzGuv1Xk,"Restaurant Chinois, Restaurant Asiatique, Bar","1 Av. Du Maréchal Leclerc, Garches",2
+92033,92380 Garches,ChIJyW_AD2x95kcRBgK__0kyT6k,Restaurant Indien,"136 Grande Rue, Garches",2
+92033,Japan Sakura,ChIJ4Y5mJUl75kcRWmzuZb_BTQ0,"Restaurant Japonais, Restaurant Asiatique, Restaurant, Restaurant De Sushis","109 Rue De Buzenval, Garches",2
+92033,Thai Niyom Saint-Cloud,ChIJMWbo65F75kcR16hmmH12Yts,Restaurant Thaïlandais,"44 Bd De La République, Saint-Cloud",2
 92035,Restaurant Istanbul,ChIJA9gpr61l5kcR29Bk42rXGD0,"Restaurant Turc, Restaurant De Restauration Rapide, Kebab, Restaurant","3 Rue Kléber, La Garenne-Colombes",1
 92035,Smash 4 You,ChIJ01T_Rhxl5kcRv8Ad3OHqRj0,Restaurant Halal,"15 Rue Du Renard, La Garenne-Colombes",1
 92035,Sarrail,ChIJKU_JhbJl5kcRdFsBFaEUtco,"Restaurant, Traiteur, Restaurant De Restauration Rapide, Restaurant Libanais","74 Bd De La République, La Garenne-Colombes",1
@@ -234,11 +234,11 @@ respondent.commune,business_name,place_id,fr_categories,business_address,treatme
 92035,Le Cardinal,ChIJPQx3gKRl5kcRdTVOwCGbwXA,"Restaurant, Bar, Restaurant Français","16 Bd De La République, La Garenne-Colombes",0
 92035,Le Foch,ChIJgZ73fgBl5kcRdvs7s5S6LoQ,Restaurant Français,"102 Bis Bd De La République, La Garenne-Colombes",0
 92035,O11ze,ChIJpew6BrBl5kcRc7LrQ7g0Nrw,"Crêperie, Restaurant De Hamburgers, Magasin De Salades","11 Pl. De La Liberté, La Garenne-Colombes",0
-92035,Sushi Club,ChIJ7d4GTqRl5kcR2kCjBVCt9YY,Restaurant Japonais,"Fr, La Garenne-Colombes",NA
-92035,Unagi,ChIJsWNyDLxl5kcRqC_pCvS50wY,"Restaurant Japonais, Bar, Restaurant De Sushis","18 Ave. Du Général De Gaulle, La Garenne-Colombes",NA
-92035,La Lune D’or,ChIJQUz8tF1l5kcRwxf6P0hWq-U,"Restaurant Coréen, Restaurant","49 Rue Voltaire, La Garenne-Colombes",NA
-92035,Eurasia,ChIJWSkqSqll5kcRy2jDYktbT_Y,"Restaurant, Restaurant Chinois, Restaurant Japonais, Restaurant De Livraison, Restaurant De Sushis","16 Av. Rhin Et Danube, La Garenne-Colombes",NA
-92035,Nagoya,ChIJzUMUXqVl5kcRHPpeupoZazQ,Restaurant Japonais,"14 Rue Voltaire, La Garenne-Colombes",NA
+92035,Sushi Club,ChIJ7d4GTqRl5kcR2kCjBVCt9YY,Restaurant Japonais,"Fr, La Garenne-Colombes",2
+92035,Unagi,ChIJsWNyDLxl5kcRqC_pCvS50wY,"Restaurant Japonais, Bar, Restaurant De Sushis","18 Ave. Du Général De Gaulle, La Garenne-Colombes",2
+92035,La Lune D’or,ChIJQUz8tF1l5kcRwxf6P0hWq-U,"Restaurant Coréen, Restaurant","49 Rue Voltaire, La Garenne-Colombes",2
+92035,Eurasia,ChIJWSkqSqll5kcRy2jDYktbT_Y,"Restaurant, Restaurant Chinois, Restaurant Japonais, Restaurant De Livraison, Restaurant De Sushis","16 Av. Rhin Et Danube, La Garenne-Colombes",2
+92035,Nagoya,ChIJzUMUXqVl5kcRHPpeupoZazQ,Restaurant Japonais,"14 Rue Voltaire, La Garenne-Colombes",2
 92036,Arawukas- Restaurant,ChIJ3zwxz4Jl5kcRyFfGmgiI2HE,"Restaurant, Restaurant Barbecue, Traiteur, Restaurant De Poulet, Restaurant Familial, Restaurant Halal, Restaurant De Hamburgers, Restaurant De Plats De Viande, Restaurant Mexicain, Restaurant Yakiniku","9 Rue Teddy Riner, Asnières-sur-Seine",1
 92036,Okuriz,ChIJMe3wL0xv5kcRfASqcr0Z7JU,"Restaurant Indien, Restaurant Halal","51 Rue Pierre Timbaud, Gennevilliers",1
 92036,Le Toquet,ChIJAdIsC0Rv5kcRuyRoH6mZzII,"Restaurant Français, Restaurant Halal, Restaurant De Hamburgers","36 Av. Chandon, Gennevilliers",1
@@ -249,11 +249,11 @@ respondent.commune,business_name,place_id,fr_categories,business_address,treatme
 92036,Le Grandel,ChIJM3u71U1v5kcR1uN_SHhYMpY,Restaurant Français,"1 Rue Felicie, Gennevilliers",0
 92036,Le Bistrot D'edmond - Gennevilliers.,ChIJS38V40lv5kcRB_6PJAkkdZw,"Bistro, Bar, Restaurant Français, Restaurant","192 Av. Louis Roche, Gennevilliers",0
 92036,Koupe Dwet,ChIJdfvabgBv5kcRxjAwVB1z0jo,Restaurant Barbecue,"156 Av. Laurent Cély, Gennevilliers",0
-92036,Foodxl - Moshimo,ChIJJX2_rXll5kcRvvr1O2sTEhg,"Restaurant Japonais, Restaurant Chinois, Bar À Expresso, Restaurant Du Sichuan, Restaurant De Sushis","5 Parv. Pierre De Coubertin, Asnières-sur-Seine",NA
-92036,Thaï Corner Gennevilliers,ChIJCfrd79xv5kcRKlZRS_ssJxA,"Restaurant Thaïlandais, Restaurant Japonais","46 Av. Chandon, Gennevilliers",NA
-92036,Twilsons,ChIJH_DM8DZv5kcR56raHqWvo0s,"Bistro, Restaurant Américain, Restaurant Asiatique","1 Rue Georges Corete, Gennevilliers",NA
-92036,Sakura,ChIJJZBv_Fpv5kcROpUTMEgmdB8,"Restaurant Japonais, Restaurant De Sushis","23 Rue Louis Calmel, Gennevilliers",NA
-92036,Mayabi,ChIJHYx7QcFv5kcRER7vD119j_o,"Restaurant Thaïlandais, Restaurant De Hamburgers, Restaurant De Sushis","11 Rue Basly, Gennevilliers",NA
+92036,Foodxl - Moshimo,ChIJJX2_rXll5kcRvvr1O2sTEhg,"Restaurant Japonais, Restaurant Chinois, Bar À Expresso, Restaurant Du Sichuan, Restaurant De Sushis","5 Parv. Pierre De Coubertin, Asnières-sur-Seine",2
+92036,Thaï Corner Gennevilliers,ChIJCfrd79xv5kcRKlZRS_ssJxA,"Restaurant Thaïlandais, Restaurant Japonais","46 Av. Chandon, Gennevilliers",2
+92036,Twilsons,ChIJH_DM8DZv5kcR56raHqWvo0s,"Bistro, Restaurant Américain, Restaurant Asiatique","1 Rue Georges Corete, Gennevilliers",2
+92036,Sakura,ChIJJZBv_Fpv5kcROpUTMEgmdB8,"Restaurant Japonais, Restaurant De Sushis","23 Rue Louis Calmel, Gennevilliers",2
+92036,Mayabi,ChIJHYx7QcFv5kcRER7vD119j_o,"Restaurant Thaïlandais, Restaurant De Hamburgers, Restaurant De Sushis","11 Rue Basly, Gennevilliers",2
 92040,Restaurant Manaslu,ChIJixaqBvR75kcRDbF5Op7UFa4,"Restaurant, Service De Livraison, Restaurant Halal, Restaurant Indien, Restaurant Népalais, Restaurant Végétarien","5 Rue Aristide Briand, Issy-les-Moulineaux",1
 92040,La Factory Burger,ChIJyU8cKY965kcRBXo7xVtyfqA,"Restaurant De Hamburgers, Restaurant Américain, Restaurant De Restauration Rapide, Restaurant Halal, Steak House, Restaurant Américain Traditionnel","16 Rue René Jacques, Issy-les-Moulineaux",1
 92040,Laura,ChIJG_pbHoV65kcRcX3nBiLxPo4,Restaurant Libanais,"17 Rue Du Capitaine Ferber, Issy-les-Moulineaux",1
@@ -264,11 +264,11 @@ respondent.commune,business_name,place_id,fr_categories,business_address,treatme
 92040,"La Côte Et L'arête - Restaurant, Brasserie, Bar À Vin - Convivial, Chic Et Chaleureux",ChIJo-C4BSN75kcRz2w0IFDW7oo,"Restaurant, Brasserie, Bar À Vin","Face Au Cinéma Ugc Issy, Issy-les-Moulineaux",0
 92040,La Passerelle,ChIJn0ZwK4x65kcRNeGbsRSaLcE,"Restaurant, Restaurant Gastronomique, Restaurant Français, Restaurant Méditerranéen","172 Quai De Stalingrad, Issy-les-Moulineaux",0
 92040,Estelle Et Julien,ChIJb-_Sa8x75kcRXD1OG7pjKVc,"Restaurant Français, Restaurant Familial","30 Rue Du Général Leclerc, Issy-les-Moulineaux",0
-92040,Koji Restaurant Teppan Yaki,ChIJndq4xVlx5kcRrFFpMdnClLk,"Restaurant Teppanyaki, Restaurant Gastronomique, Restaurant Japonais Authentique","34 Bis Rue Ernest Renan, Issy-les-Moulineaux",NA
-92040,Sushiken,ChIJFy72VHBw5kcRBMSp00n4zEE,"Restaurant Japonais, Restaurant, Restaurant De Sushis","12 Rue Ernest Renan, Issy-les-Moulineaux",NA
-92040,Issy Tokyo,ChIJR-TeM5t65kcRfDaTJKan8qw,"Restaurant Japonais, Restaurant Asiatique, Steakhouse Japonais, Restaurant De Sushis, Restaurant Yakiniku","35 Rue Rouget De Lisle, Issy-les-Moulineaux",NA
-92040,Samuraï,ChIJ4U2TIo965kcRY31EungOzc8,Restaurant Japonais,"10 Pl. Jacques Madaule, Issy-les-Moulineaux",NA
-92040,Restaurant Issy L'asie,ChIJz8e56uF75kcRBeMG7fNht1M,"Restaurant, Restaurant De Fondue Chinoise, Restaurant Japonais, Restaurant Mandarin, Restaurant Thaïlandais, Restaurant Vietnamien","7 Rdpt Victor Hugo, Issy-les-Moulineaux",NA
+92040,Koji Restaurant Teppan Yaki,ChIJndq4xVlx5kcRrFFpMdnClLk,"Restaurant Teppanyaki, Restaurant Gastronomique, Restaurant Japonais Authentique","34 Bis Rue Ernest Renan, Issy-les-Moulineaux",2
+92040,Sushiken,ChIJFy72VHBw5kcRBMSp00n4zEE,"Restaurant Japonais, Restaurant, Restaurant De Sushis","12 Rue Ernest Renan, Issy-les-Moulineaux",2
+92040,Issy Tokyo,ChIJR-TeM5t65kcRfDaTJKan8qw,"Restaurant Japonais, Restaurant Asiatique, Steakhouse Japonais, Restaurant De Sushis, Restaurant Yakiniku","35 Rue Rouget De Lisle, Issy-les-Moulineaux",2
+92040,Samuraï,ChIJ4U2TIo965kcRY31EungOzc8,Restaurant Japonais,"10 Pl. Jacques Madaule, Issy-les-Moulineaux",2
+92040,Restaurant Issy L'asie,ChIJz8e56uF75kcRBeMG7fNht1M,"Restaurant, Restaurant De Fondue Chinoise, Restaurant Japonais, Restaurant Mandarin, Restaurant Thaïlandais, Restaurant Vietnamien","7 Rdpt Victor Hugo, Issy-les-Moulineaux",2
 92044,La Romana,ChIJf1yhGHVv5kcRlhEQ_Jhgom0,"Restaurant, Restaurant Halal, Restaurant Italien, Restaurant À Emporter, Restaurant De Pizzas, Pizza À Emporter","29 Rue Gabriel Péri, Levallois-Perret",1
 92044,Beity,ChIJ5xbI4YRv5kcR8PWxJQcYYk0,"Restaurant Libanais, Fournisseur De Nourriture Et De Boissons Pour La Restauration, Restaurant","17 Rue Gabriel Péri, Levallois-Perret",1
 92044,Street Bangkok,ChIJ9-UTMGBv5kcRlEfENlVfXG4,"Restaurant Thaïlandais, Restaurant Asiatique, Restaurant De Restauration Rapide, Restaurant Halal, Restaurant De Livraison, Restaurant À Emporter, Restaurant Panasiatique, Restaurant, Restaurant D'asie Du Sud-Est, Restaurant De Wok","75 Rue Baudin, Levallois-Perret",1
@@ -279,11 +279,11 @@ respondent.commune,business_name,place_id,fr_categories,business_address,treatme
 92044,Le Manly,ChIJVVVJInhv5kcRnza628wjRSc,"Restaurant Français, Bistro, Restaurant Européen, Cave À Vin","14 Rue Collange, Levallois-Perret",0
 92044,Le Mana'o,ChIJCXiPb4dv5kcRfqyd0xPWW_8,Restaurant Français,"81 Rue Chaptal, Levallois-Perret",0
 92044,Le Bistrot De Lola,ChIJrQniQ4Nv5kcR3AC-VhnhdlM,"Restaurant, Bistro, Restaurant Familial, Restaurant Français, Restaurant Du Déjeuner","39 Rue Rivay, Levallois-Perret",0
-92044,L'économat Restaurant,ChIJc1TTuDhv5kcRN9LqM-1W60w,"Restaurant, Restaurant De Fusion Asiatique, Restaurant Européen, Restaurant Français, Restaurant Fusion, Restaurant Haut De Gamme Français, Restaurant Du Déjeuner, Restaurant Français Moderne, Bar À Vin","44 Rue Louis Rouquier, Levallois-Perret",NA
-92044,Ponzu Levallois,ChIJfXvS5yhv5kcRbXVshNR3e4Y,"Restaurant Japonais, Restaurant De Fusion Asiatique, Restaurant De Fondue Chinoise, Restaurant Japonais Authentique, Steakhouse Japonais, Restaurant De Livraison, Restaurant De Sushis, Sushis À Emporter","12 Rue Raspail, Levallois-Perret",NA
-92044,Spok - Levallois L Cantine Du Déjeuner,ChIJu-VFfW1v5kcRb1Gv1Rs3kcY,"Restaurant Français Moderne, Restaurant De Fusion Asiatique, Restaurant","43 Av. Georges Pompidou, Levallois-Perret",NA
-92044,Nakashima,ChIJVbd-9LRv5kcRn7GbgJEcd10,"Restaurant Japonais, Restaurant De Curry Japonais, Restaurant, Restaurant De Sushis, Restaurant Traditionnel, Restaurant Yakitori","39 Rue Jean Jaurès, Levallois-Perret",NA
-92044,Casa Nikkei,ChIJPTbmkQJv5kcRIFvMesLNEXQ,"Restaurant Péruvien, Restaurant Japonais","35 Rue Chaptal, Levallois-Perret",NA
+92044,L'économat Restaurant,ChIJc1TTuDhv5kcRN9LqM-1W60w,"Restaurant, Restaurant De Fusion Asiatique, Restaurant Européen, Restaurant Français, Restaurant Fusion, Restaurant Haut De Gamme Français, Restaurant Du Déjeuner, Restaurant Français Moderne, Bar À Vin","44 Rue Louis Rouquier, Levallois-Perret",2
+92044,Ponzu Levallois,ChIJfXvS5yhv5kcRbXVshNR3e4Y,"Restaurant Japonais, Restaurant De Fusion Asiatique, Restaurant De Fondue Chinoise, Restaurant Japonais Authentique, Steakhouse Japonais, Restaurant De Livraison, Restaurant De Sushis, Sushis À Emporter","12 Rue Raspail, Levallois-Perret",2
+92044,Spok - Levallois L Cantine Du Déjeuner,ChIJu-VFfW1v5kcRb1Gv1Rs3kcY,"Restaurant Français Moderne, Restaurant De Fusion Asiatique, Restaurant","43 Av. Georges Pompidou, Levallois-Perret",2
+92044,Nakashima,ChIJVbd-9LRv5kcRn7GbgJEcd10,"Restaurant Japonais, Restaurant De Curry Japonais, Restaurant, Restaurant De Sushis, Restaurant Traditionnel, Restaurant Yakitori","39 Rue Jean Jaurès, Levallois-Perret",2
+92044,Casa Nikkei,ChIJPTbmkQJv5kcRIFvMesLNEXQ,"Restaurant Péruvien, Restaurant Japonais","35 Rue Chaptal, Levallois-Perret",2
 92046,O’grill,ChIJsQJJkjdx5kcRNhVNsP6BP_0,"Kebab, Brasserie, Restaurant Halal, Restaurant De Pizzas","172 Av. Pierre Brossolette, Malakoff",1
 92046,Pizzeria Santa Maria,ChIJJ0s0wV9w5kcRlH9rnoyQ_24,"Restaurant De Pizzas, Magasin De Bière, Café, Restaurant De Restauration Rapide, Restaurant Français, Restaurant Halal, Glacier, Restaurant Italien, Magasin De Pâtes, Pizza À Emporter","9 Rue Paul Bert, Malakoff",1
 92046,Resto 5 Mixtes,ChIJ0bMP72Jx5kcRUIcMBP-3QNg,Kebab,"21 Bd De Stalingrad, Malakoff",1
@@ -294,11 +294,11 @@ respondent.commune,business_name,place_id,fr_categories,business_address,treatme
 92046,Le French Café,ChIJ-32JCSpx5kcROqRX-Ybis4k,"Restaurant Français, Bar, Café, Restaurant","1 Av. Jules Ferry, Malakoff",0
 92046,La Parisienne,ChIJ9fQ08ohx5kcRweUCLY9GTYQ,"Restaurant, Magasin De Bière, Pâtisserie, Fromagerie, Bar À Cocktails, Restaurant Français, Magasin De Fruits Et Légumes, Restaurant De Fruits De Mer, Bar À Vin","2 Rue Voltaire, Malakoff",0
 92046,La Madelon,ChIJ0a4Vyl9w5kcRcVEqgzOJdKk,"Restaurant, Bar, Bistro","44 Bd Gabriel Péri, Malakoff",0
-92046,Kazoku,ChIJ4b3dtAxx5kcRNmpq5gUJgVE,"Restaurant Japonais, Restaurant Asiatique","154 Bd Gabriel Péri, Malakoff",NA
-92046,Bolkiri Malakoff Street Food Viêt,ChIJ7x_41C1x5kcRJkkan-ZatxA,"Restaurant Vietnamien, Restaurant Asiatique, Restaurant Chinois, Restaurant De Restauration Rapide, Restaurant De Livraison, Restaurant À Emporter, Restaurant Pho, Restaurant, Restaurant Thaïlandais, Restaurant De Wok","50 Rue Avaulée, Malakoff",NA
-92046,Luckey,ChIJH_qVpVlw5kcRxR1281osvh4,Restaurant Indien,"15 Ter Rue Danicourt, Malakoff",NA
-92046,Wahaha,ChIJLVV2i1tw5kcRabt99vo5ppo,"Restaurant Japonais, Restaurant Syokudo Et Teishoku, Restaurant De Sushis","24 Av. Pierre Larousse, Malakoff",NA
-92046,Taste Of Tibet,ChIJCdkIy1lw5kcRrMcpy0Ta0G0,"Restaurant Tibétain, Restaurant Indien","154 Bd Gabriel Péri, Malakoff",NA
+92046,Kazoku,ChIJ4b3dtAxx5kcRNmpq5gUJgVE,"Restaurant Japonais, Restaurant Asiatique","154 Bd Gabriel Péri, Malakoff",2
+92046,Bolkiri Malakoff Street Food Viêt,ChIJ7x_41C1x5kcRJkkan-ZatxA,"Restaurant Vietnamien, Restaurant Asiatique, Restaurant Chinois, Restaurant De Restauration Rapide, Restaurant De Livraison, Restaurant À Emporter, Restaurant Pho, Restaurant, Restaurant Thaïlandais, Restaurant De Wok","50 Rue Avaulée, Malakoff",2
+92046,Luckey,ChIJH_qVpVlw5kcRxR1281osvh4,Restaurant Indien,"15 Ter Rue Danicourt, Malakoff",2
+92046,Wahaha,ChIJLVV2i1tw5kcRabt99vo5ppo,"Restaurant Japonais, Restaurant Syokudo Et Teishoku, Restaurant De Sushis","24 Av. Pierre Larousse, Malakoff",2
+92046,Taste Of Tibet,ChIJCdkIy1lw5kcRrMcpy0Ta0G0,"Restaurant Tibétain, Restaurant Indien","154 Bd Gabriel Péri, Malakoff",2
 92047,Cannelle & Safran,ChIJMbkuphp95kcRcdVt_OjjI38,Restaurant Marocain,"29 Av. Lucien René Duchesne, La Celle-Saint-Cloud",1
 92047,L'étoile De Tiznit,ChIJHcHMNnt75kcRoiDrNl0a4Mk,"Restaurant, Restaurant Marocain","54 Rue De Saint-Cloud, Ville-d'Avray",1
 92047,Oh...Liban | Restaurant Libanais 78,ChIJd75k9Qh95kcRNfywwPTpybI,"Restaurant Libanais, Restaurant Méditerranéen","79 Rue De Versailles, Le Chesnay-Rocquencourt",1
@@ -309,11 +309,11 @@ respondent.commune,business_name,place_id,fr_categories,business_address,treatme
 92047,Le Swing,ChIJLwp6c8d85kcRtehlhtg2LqU,"Restaurant Français, Bar","129 Av. De La Celle Saint-Cloud, Vaucresson",0
 92047,La Tête Noire,ChIJz7aUIpt85kcR6MGb3hiav2Q,Restaurant Français,"4 Pl. De La Mairie, Marnes-la-Coquette",0
 92047,Les Côteaux De Chablis,ChIJ-Uz6Btt85kcRVN89_BHgKZc,"Restaurant Français, Bar, Café, Bureau De Tabac","62 Av. Du Clos Toutain, Vaucresson",0
-92047,Jardin De Pékin,ChIJ56zeYOh85kcRHMbvCKFAtJk,"Restaurant À Emporter, Restaurant Chinois, Restaurant Vietnamien","102 Bd De La République, Vaucresson",NA
-92047,Village De Chine,ChIJXTNDpN585kcRQDCE0FTMtZY,Restaurant Chinois,"19 Av. Des Puits, La Celle-Saint-Cloud",NA
-92047,Mangalore Lounge,ChIJo06eZdp85kcR-ixPzA5N8Eg,"Restaurant Indien, Jardin, Plats Indiens À Emporter, Salon","4 Pl. Du Dr Berthet, La Celle-Saint-Cloud",NA
-92047,Restaurant New Kathmandu,ChIJm1-956B85kcRinPs8dfblHQ,"Restaurant Indien, Restaurant Asiatique, Bar, Restaurant, Restaurant Sud-Asiatique","136 Grande Rue, Garches",NA
-92047,92380 Garches,ChIJyW_AD2x95kcRBgK__0kyT6k,Restaurant Indien,"136 Grande Rue, Garches",NA
+92047,Jardin De Pékin,ChIJ56zeYOh85kcRHMbvCKFAtJk,"Restaurant À Emporter, Restaurant Chinois, Restaurant Vietnamien","102 Bd De La République, Vaucresson",2
+92047,Village De Chine,ChIJXTNDpN585kcRQDCE0FTMtZY,Restaurant Chinois,"19 Av. Des Puits, La Celle-Saint-Cloud",2
+92047,Mangalore Lounge,ChIJo06eZdp85kcR-ixPzA5N8Eg,"Restaurant Indien, Jardin, Plats Indiens À Emporter, Salon","4 Pl. Du Dr Berthet, La Celle-Saint-Cloud",2
+92047,Restaurant New Kathmandu,ChIJm1-956B85kcRinPs8dfblHQ,"Restaurant Indien, Restaurant Asiatique, Bar, Restaurant, Restaurant Sud-Asiatique","136 Grande Rue, Garches",2
+92047,92380 Garches,ChIJyW_AD2x95kcRBgK__0kyT6k,Restaurant Indien,"136 Grande Rue, Garches",2
 92048,Tajmahal Express,ChIJDyVoxQB75kcRS63VOfp8qNg,"Restaurant, Restaurant Halal, Restaurant Indien, Restaurant Du Déjeuner","15 Rue De Paris, Meudon",1
 92048,Eat'alian,ChIJo8KaUgd75kcRJWokI0TfV6Q,"Restaurant Italien, Restaurant Français, Restaurant Halal","1 Av. Louvois, Meudon",1
 92048,Restaurant Manaslu,ChIJixaqBvR75kcRDbF5Op7UFa4,"Restaurant, Service De Livraison, Restaurant Halal, Restaurant Indien, Restaurant Népalais, Restaurant Végétarien","5 Rue Aristide Briand, Issy-les-Moulineaux",1
@@ -324,11 +324,11 @@ respondent.commune,business_name,place_id,fr_categories,business_address,treatme
 92048,Le Café De La Paix,ChIJKWKtTUV65kcRRmMv5ii4jzc,"Restaurant De Couscous, Restaurant Français","1 Pl. Jean Jaurès, Meudon",0
 92048,Restaurant Maison Rouge,ChIJNWQFT1B65kcRRnJIXrngf04,"Restaurant Français, Bar","9 Rue Du Marché Couvert, Meudon",0
 92048,Nova Kfé,ChIJd5KbbV965kcR6TG9QaVKKpA,Brasserie,"5 Rue De Paris, Meudon",0
-92048,Oïsushi,ChIJWV-8PV965kcR6sOpcJCpmks,"Restaurant De Sushis, Restaurant Japonais, Restaurant","15 Rue De Paris, Meudon",NA
-92048,Thon Nagasaki,ChIJee44eF965kcRgWliNYVywMA,"Restaurant Japonais, Restaurant, Restaurant De Sushis","1 Rue De Paris, Meudon",NA
-92048,Traiteur Ruifant,ChIJvdFstFp65kcRBxkfUFr7b_c,"Restaurant Asiatique, Fournisseur De Nourriture Et De Boissons Pour La Restauration, Restaurant Chinois, Plats Chinois À Emporter","17 Rue Banes, Meudon",NA
-92048,Bali Restaurant,ChIJtanZLB175kcRguddWkTB77E,Restaurant Thaïlandais,"11 Rue De Paris, Meudon",NA
-92048,Bon Thaï,ChIJmSdPtFh75kcRaMaixsl9Qlw,Restaurant Thaïlandais,"11 Rue De Paris, Meudon",NA
+92048,Oïsushi,ChIJWV-8PV965kcR6sOpcJCpmks,"Restaurant De Sushis, Restaurant Japonais, Restaurant","15 Rue De Paris, Meudon",2
+92048,Thon Nagasaki,ChIJee44eF965kcRgWliNYVywMA,"Restaurant Japonais, Restaurant, Restaurant De Sushis","1 Rue De Paris, Meudon",2
+92048,Traiteur Ruifant,ChIJvdFstFp65kcRBxkfUFr7b_c,"Restaurant Asiatique, Fournisseur De Nourriture Et De Boissons Pour La Restauration, Restaurant Chinois, Plats Chinois À Emporter","17 Rue Banes, Meudon",2
+92048,Bali Restaurant,ChIJtanZLB175kcRguddWkTB77E,Restaurant Thaïlandais,"11 Rue De Paris, Meudon",2
+92048,Bon Thaï,ChIJmSdPtFh75kcRaMaixsl9Qlw,Restaurant Thaïlandais,"11 Rue De Paris, Meudon",2
 92049,Le Libanais De Montrouge,ChIJVz1XuFZw5kcRXKat6J9A7ws,"Restaurant Libanais, Restaurant Méditerranéen","61 Av. Pierre Brossolette, Montrouge",1
 92049,Au Couscous - Restaurant Maghrébin Montrouge,ChIJzYM1HPxw5kcRJ3QKIRVTRYc,"Restaurant, Restaurant Algérien, Restaurant Familial, Restaurant Marocain","47 Rue Fénelon, Montrouge",1
 92049,La Numidie,ChIJ36UTjalx5kcRc2L5kokl86w,Restaurant Algérien,"66 Av. Henri Ginoux, Montrouge",1
@@ -339,11 +339,11 @@ respondent.commune,business_name,place_id,fr_categories,business_address,treatme
 92049,Bistro Le Physalis,ChIJ4TtWT6px5kcRcdt97Wo_4GQ,"Restaurant Français, Bar, Bistro, Café, Restaurant, Brasserie","47 Av. Henri Ginoux, Montrouge",0
 92049,L'antidote,ChIJY1O8bwBx5kcRuXZwwuiW2_M,"Restaurant Français, Restaurant","88 Av. Henri Ginoux, Montrouge",0
 92049,Le Titi Touareg,ChIJXYP2zEFu5kcReE4Z_tdc_HI,"Restaurant Méditerranéen, Café, Restaurant Français, Restaurant, Brasserie","92 Av. Henri Ginoux, Montrouge",0
-92049,Yakigushi,ChIJjYyCSapx5kcRKDM6-IJ8kmg,Restaurant Japonais,"42 Av. Henri Ginoux, Montrouge",NA
-92049,Yum,ChIJlUJb4wBx5kcRcEWi4oNDjPE,Restaurant Chinois,"40 Av. Léon Gambetta, Montrouge",NA
-92049,Sayuri,ChIJCZPujAZx5kcR9tRr4NVLbSA,"Restaurant Japonais, Restaurant De Sushis","115 Av. Aristide Briand, Montrouge",NA
-92049,Chez Papa Indien,ChIJn5sebwBx5kcRjBGr3NNDUlE,"Restaurant Indien, Bar, Café, Restaurant","90 Av. Henri Ginoux, Montrouge",NA
-92049,Manayaki,ChIJMTS5gdRx5kcRKJMkFTz8oYg,"Restaurant Japonais, Restaurant De Sushis","139 Av. De La République, Montrouge",NA
+92049,Yakigushi,ChIJjYyCSapx5kcRKDM6-IJ8kmg,Restaurant Japonais,"42 Av. Henri Ginoux, Montrouge",2
+92049,Yum,ChIJlUJb4wBx5kcRcEWi4oNDjPE,Restaurant Chinois,"40 Av. Léon Gambetta, Montrouge",2
+92049,Sayuri,ChIJCZPujAZx5kcR9tRr4NVLbSA,"Restaurant Japonais, Restaurant De Sushis","115 Av. Aristide Briand, Montrouge",2
+92049,Chez Papa Indien,ChIJn5sebwBx5kcRjBGr3NNDUlE,"Restaurant Indien, Bar, Café, Restaurant","90 Av. Henri Ginoux, Montrouge",2
+92049,Manayaki,ChIJMTS5gdRx5kcRKJMkFTz8oYg,"Restaurant Japonais, Restaurant De Sushis","139 Av. De La République, Montrouge",2
 92050,Chez Mama,ChIJeX-ywo5k5kcRzKOApR4Etwk,"Restaurant Méditerranéen, Restaurant Marocain","86 Rue De Courbevoie, Nanterre",1
 92050,Au Brazier Nanterre - Restaurant Poulet Braisé,ChIJwbJ52I9k5kcRT48Xpeb1f6k,"Restaurant Halal, Gril, Magasin De Poulet, Service De Livraison, Restaurant Familial, Restaurant De Restauration Rapide, Poulet Frit À Emporter, Restaurant À Emporter, Restaurant, Sandwicherie","33 Rue Sadi Carnot, Nanterre",1
 92050,Food Court - Restaurant Halal À Nanterre,ChIJp6brWJBk5kcR9hXlE6BdvXs,"Restaurant De Restauration Rapide, Restaurant Américain, Brasserie, Restaurant Halal, Restaurant De Hamburgers, Kebab","26 Av. Georges Clemenceau, Nanterre",1
@@ -354,11 +354,11 @@ respondent.commune,business_name,place_id,fr_categories,business_address,treatme
 92050,Le Moulin Yosman,ChIJ1-udg35j5kcRdpSWgZ59w3M,"Restaurant, Bar, Restaurant Français","47 Rue Ernest Renan, Nanterre",0
 92050,L'apostrophe,ChIJBfWcZYNk5kcRtFIqhQT7TrM,"Brasserie, Bar À Cocktails, Salon","9 Rue Maurice Thorez, Nanterre",0
 92050,L'escale Du Marché,ChIJR_WA7rFl5kcR5FwHxVSV5Z4,"Brasserie, Bar, Bar Et Grill, Brasserie, Bistro, Bar À Cocktails, Café, Bar De Musique Live, Restaurant, Salon De Thé","12 Rue Du Marché, Nanterre",0
-92050,Menglak Bistrot Thai,ChIJJ2yGvadl5kcRb40MvMyRstM,"Restaurant Thaïlandais, Bar À Cocktails, Restaurant Végétarien, Bar À Vin","354 Av. Georges Clemenceau, Nanterre",NA
-92050,Au Petit Thaï,ChIJ-0V6dIRk5kcRm_I17wfPREY,Restaurant Thaïlandais,"59 Rue Volant, Nanterre",NA
-92050,O Baan Thaï,ChIJ_Y-IFEZl5kcR6SUjzVzOv6I,Restaurant Thaïlandais,"91 Av. Felix Faure, Nanterre",NA
-92050,Samouraï,ChIJrQ2SYJBk5kcRgQxaD8VYXFk,"Restaurant Buffet, Restaurant, Restaurant De Sushis","22 Av. Georges Clemenceau, Nanterre",NA
-92050,Villa Tokyo,ChIJPxSY3Oxk5kcRGHsEfxnWXCU,"Restaurant Buffet, Restaurant Chinois, Restaurant Japonais","180 Av. Georges Clemenceau, Nanterre",NA
+92050,Menglak Bistrot Thai,ChIJJ2yGvadl5kcRb40MvMyRstM,"Restaurant Thaïlandais, Bar À Cocktails, Restaurant Végétarien, Bar À Vin","354 Av. Georges Clemenceau, Nanterre",2
+92050,Au Petit Thaï,ChIJ-0V6dIRk5kcRm_I17wfPREY,Restaurant Thaïlandais,"59 Rue Volant, Nanterre",2
+92050,O Baan Thaï,ChIJ_Y-IFEZl5kcR6SUjzVzOv6I,Restaurant Thaïlandais,"91 Av. Felix Faure, Nanterre",2
+92050,Samouraï,ChIJrQ2SYJBk5kcRgQxaD8VYXFk,"Restaurant Buffet, Restaurant, Restaurant De Sushis","22 Av. Georges Clemenceau, Nanterre",2
+92050,Villa Tokyo,ChIJPxSY3Oxk5kcRGHsEfxnWXCU,"Restaurant Buffet, Restaurant Chinois, Restaurant Japonais","180 Av. Georges Clemenceau, Nanterre",2
 92051,Poke Up Neuilly - Poke Bowl & Bubble Tea,ChIJt0z3s3Rl5kcRqijhBzfK76w,"Poké Bar, Magasin De Thé Aux Perles, Espace De Coworking, Restaurant De Restauration Rapide, Restaurant Halal, Restaurant Hawaïen, Restaurant De Fondue Chinoise, Restaurant, Magasin De Salades, Salon De Thé","11 Rue Paul Chatrousse, Neuilly-sur-Seine",1
 92051,Franks,ChIJaRJsJd9l5kcRyGjrgTjPJ2Q,"Restaurant, Boutique De Beignets, Restaurant Familial, Restaurant De Restauration Rapide, Restaurant Halal, Restaurant De Hot-Dogs","130 Bis Av. Charles De Gaulle, Neuilly-sur-Seine",1
 92051,Nachos - Mexican Good Food,ChIJaa3V6INl5kcRw1GjnRRRlr0,"Restaurant De Restauration Rapide, Restaurant De Burritos, Restaurant Halal, Restaurant De Livraison, Restaurant À Emporter, Restaurant De Plats De Viande, Restaurant Pan-Latin, Restaurant De Tacos, Restaurant Tex-Mex, Restaurant Végétarien","97 Av. Charles De Gaulle, Neuilly-sur-Seine",1
@@ -369,11 +369,11 @@ respondent.commune,business_name,place_id,fr_categories,business_address,treatme
 92051,La Guinguette De Neuilly,ChIJ_Vnxa3dl5kcRT4E9a6cKL-U,"Restaurant Français, Bistro, Brasserie, Restaurant Haut De Gamme Français","Ile De La Jatte, Neuilly-sur-Seine",0
 92051,Durant Dupont,ChIJi60GBWFl5kcRXGgwX9B9AvU,"Restaurant, Café, Brasserie","14 Pl. Du Marché, Neuilly-sur-Seine",0
 92051,La Passerelle,ChIJaansl3Jl5kcRW6OOc0zd_uc,"Restaurant, Restaurant Français","27 Bis Bd Du Général Leclerc, Neuilly-sur-Seine",0
-92051,Nomiya,ChIJdwm_52xl5kcRR6qsc7rRPQU,Restaurant Japonais,"211b Av. Charles De Gaulle, Neuilly-sur-Seine",NA
-92051,Shinjuku,ChIJydmw6Wxl5kcR5MrvkXsXFNU,"Restaurant Japonais Authentique, Restaurant De Sushis","2 Rue De Longchamp, Neuilly-sur-Seine",NA
-92051,Nouvelle Etoile,ChIJn28Almxl5kcRGt6HowOeoOo,"Restaurant, Restaurant Asiatique, Restaurant Chinois, Restaurant Thaïlandais","9 Rue Charcot, Neuilly-sur-Seine",NA
-92051,Wei,ChIJh6fbIWJl5kcRQkvLRSEDPDM,"Plats Chinois À Emporter, Restaurant De Fusion Asiatique, Restaurant Chinois, Restaurant De Restauration Rapide","34 Rue Madeleine Michelis, Neuilly-sur-Seine",NA
-92051,Fafa,ChIJ0XF_kGFl5kcR9pHs14LvTSA,"Restaurant Chinois, Traiteur, Plats Chinois À Emporter, Restaurant Chinois De Livraison, Restaurant De Restauration Rapide, Restaurant De Fondue Chinoise, Restaurant Mandarin, Restaurant Méditerranéen","26 Rue Madeleine Michelis, Neuilly-sur-Seine",NA
+92051,Nomiya,ChIJdwm_52xl5kcRR6qsc7rRPQU,Restaurant Japonais,"211b Av. Charles De Gaulle, Neuilly-sur-Seine",2
+92051,Shinjuku,ChIJydmw6Wxl5kcR5MrvkXsXFNU,"Restaurant Japonais Authentique, Restaurant De Sushis","2 Rue De Longchamp, Neuilly-sur-Seine",2
+92051,Nouvelle Etoile,ChIJn28Almxl5kcRGt6HowOeoOo,"Restaurant, Restaurant Asiatique, Restaurant Chinois, Restaurant Thaïlandais","9 Rue Charcot, Neuilly-sur-Seine",2
+92051,Wei,ChIJh6fbIWJl5kcRQkvLRSEDPDM,"Plats Chinois À Emporter, Restaurant De Fusion Asiatique, Restaurant Chinois, Restaurant De Restauration Rapide","34 Rue Madeleine Michelis, Neuilly-sur-Seine",2
+92051,Fafa,ChIJ0XF_kGFl5kcR9pHs14LvTSA,"Restaurant Chinois, Traiteur, Plats Chinois À Emporter, Restaurant Chinois De Livraison, Restaurant De Restauration Rapide, Restaurant De Fondue Chinoise, Restaurant Mandarin, Restaurant Méditerranéen","26 Rue Madeleine Michelis, Neuilly-sur-Seine",2
 92060,Superbe Pizza,ChIJs2EnFQh65kcRpQhBtf-fLl4,"Restaurant Italien, Terminal De Croisière, Restaurant De Hamburgers, Kebab, Livraison De Pizzas, Restaurant De Pizzas, Pizza À Emporter, Sandwicherie","74 Rue Bernard Iské, Le Plessis-Robinson",1
 92060,Elissol Saveurs,ChIJV03vSqxw5kcRw3EJOWkwM10,"Restaurant Libanais, Traiteur, Épicerie Fine","Av Plessis Ccial Mouilleboeufs, Châtenay-Malabry",1
 92060,Antalya Restaurant,ChIJ_YOaibJw5kcRzHdahOAapak,"Restaurant Turc, Bar, Kebab","4 Sq. Robinson, Sceaux",1
@@ -384,11 +384,11 @@ respondent.commune,business_name,place_id,fr_categories,business_address,treatme
 92060,La Guinguette,ChIJExRJ-qpw5kcRFg3rze9yDlE,Restaurant Français,"124 Rue De Malabry, Le Plessis-Robinson",0
 92060,Le Coin Cuisine,ChIJBatWGwN65kcRr8r2U4_1G4w,"Restaurant, Restaurant Français","8 Pl. François Spoerry, Le Plessis-Robinson",0
 92060,Crêperie De D'artagnan,ChIJzRuKnQR65kcR46r8F6MCXVY,"Crêperie, Restaurant Français","6 Rue De La Mairie, Le Plessis-Robinson",0
-92060,Royal Tokyo,ChIJGTwTBQN65kcR5SvsS2UiSlc,"Restaurant, Restaurant Japonais Authentique","2 Pl. François Spoerry, Le Plessis-Robinson",NA
-92060,Mannat,ChIJMRK7rdN75kcR7SeWhxkQBn0,"Restaurant, Restaurant Indien","11 Grande Rue, Le Plessis-Robinson",NA
-92060,Xin Fu Long,ChIJj4hLaAd65kcRIakjuHL1rFM,"Restaurant Chinois, Traiteur, Restaurant","77 Av. De La Résistance, Le Plessis-Robinson",NA
-92060,La Muraille Du Phenix,ChIJaykEchx65kcRSmZ2HQ92VNg,"Restaurant Asiatique, Restaurant Chinois, Restaurant De Livraison, Restaurant À Emporter","2 Rue Du Carreau, Le Plessis-Robinson",NA
-92060,Yokohama,ChIJF9DnFBB65kcRj-sKYT-3UPM,"Restaurant Japonais, Bar, Restaurant De Sushis","161 Avenue Du Général De Gaulle, Clamart",NA
+92060,Royal Tokyo,ChIJGTwTBQN65kcR5SvsS2UiSlc,"Restaurant, Restaurant Japonais Authentique","2 Pl. François Spoerry, Le Plessis-Robinson",2
+92060,Mannat,ChIJMRK7rdN75kcR7SeWhxkQBn0,"Restaurant, Restaurant Indien","11 Grande Rue, Le Plessis-Robinson",2
+92060,Xin Fu Long,ChIJj4hLaAd65kcRIakjuHL1rFM,"Restaurant Chinois, Traiteur, Restaurant","77 Av. De La Résistance, Le Plessis-Robinson",2
+92060,La Muraille Du Phenix,ChIJaykEchx65kcRSmZ2HQ92VNg,"Restaurant Asiatique, Restaurant Chinois, Restaurant De Livraison, Restaurant À Emporter","2 Rue Du Carreau, Le Plessis-Robinson",2
+92060,Yokohama,ChIJF9DnFBB65kcRj-sKYT-3UPM,"Restaurant Japonais, Bar, Restaurant De Sushis","161 Avenue Du Général De Gaulle, Clamart",2
 92062,L'imprévu,ChIJG-ayABtl5kcRHqxN9Myhujg,"Restaurant Algérien, Restaurant Français","68 Rue De La République, Puteaux",1
 92062,Bariz Restaurant Marocain Puteaux,ChIJ14J2kQ5l5kcRZJWoS5Lw0iA,"Restaurant Marocain, Restaurant De Couscous, Restaurant De Restauration Rapide, Restaurant Halal, Magasin De Jus, Restaurant Du Déjeuner, Restaurant À Emporter, Pâtisserie, Restaurant, Sandwicherie","3 Rue Manissier, Puteaux",1
 92062,Cristal,ChIJIQ9ASBll5kcRT1AWFD5zUFA,"Restaurant Turc, Restaurant Français","40b Rue Godefroy, Puteaux",1
@@ -399,11 +399,11 @@ respondent.commune,business_name,place_id,fr_categories,business_address,treatme
 92062,Le Sain Sert,ChIJkXe4Whll5kcRlW638VPWEzs,"Restaurant Français, Bar À Vin","3 Rue Roque De Fillol, Puteaux",0
 92062,L'andouille,ChIJAUaHZHNl5kcRy8yFsKig-ew,"Restaurant Français, Restaurant, Restaurant Traditionnel","6 Rue Collin, Puteaux",0
 92062,L'escargot 1903,ChIJqXv0hx1l5kcR8tqTrSuW390,"Restaurant Gastronomique, Restaurant Français, Brasserie","94 Rue Sadi Carnot, Puteaux",0
-92062,Résunga Restaurant,ChIJVVUhjRpl5kcRpK37A-PuV0U,"Restaurant, Restaurant Indien, Restaurant Népalais","51 Rue De La République, Puteaux",NA
-92062,An Viet,ChIJRbshfkxl5kcRzhAXyR7Ktns,Restaurant Vietnamien,"24 Bd Richard Wallace, Puteaux",NA
-92062,Le Petit Thaï,ChIJrXvoshtl5kcRL-7gsDdsPVQ,"Restaurant Thaïlandais, Restaurant Gastronomique","2 Rue De L'oasis, Puteaux",NA
-92062,Bonheur,ChIJ0R2JSwRl5kcR2V6eFmULYIM,"Restaurant, Restaurant Asiatique, Magasin De Bière, Restaurant De Petit-Déjeuner, Traiteur, Restaurant Chinois, Bar À Cocktails, Restaurant De Restauration Rapide, Bar À Vin","95 Rue Jean Jaurès, Puteaux",NA
-92062,Chez Tan,ChIJK7njCx9l5kcR-uDAdb5xrcg,Restaurant Thaïlandais,"153 Rue Jean Jaurès, Puteaux",NA
+92062,Résunga Restaurant,ChIJVVUhjRpl5kcRpK37A-PuV0U,"Restaurant, Restaurant Indien, Restaurant Népalais","51 Rue De La République, Puteaux",2
+92062,An Viet,ChIJRbshfkxl5kcRzhAXyR7Ktns,Restaurant Vietnamien,"24 Bd Richard Wallace, Puteaux",2
+92062,Le Petit Thaï,ChIJrXvoshtl5kcRL-7gsDdsPVQ,"Restaurant Thaïlandais, Restaurant Gastronomique","2 Rue De L'oasis, Puteaux",2
+92062,Bonheur,ChIJ0R2JSwRl5kcR2V6eFmULYIM,"Restaurant, Restaurant Asiatique, Magasin De Bière, Restaurant De Petit-Déjeuner, Traiteur, Restaurant Chinois, Bar À Cocktails, Restaurant De Restauration Rapide, Bar À Vin","95 Rue Jean Jaurès, Puteaux",2
+92062,Chez Tan,ChIJK7njCx9l5kcR-uDAdb5xrcg,Restaurant Thaïlandais,"153 Rue Jean Jaurès, Puteaux",2
 92063,Le Bosphore,ChIJT-GXFG1j5kcRqIXH7gMoSak,"Restaurant Turc, Restaurant De Restauration Rapide","33 Rue Jacques Daguerre, Rueil-Malmaison",1
 92063,Restaurant L'auberge De Souss,ChIJg5wjVWBj5kcRUsiH18zUWMs,"Restaurant Marocain, Restaurant De Couscous, Restaurant De Livraison","61 Av. Paul Doumer, Rueil-Malmaison",1
 92063,Aux Délices De L’orient,ChIJcaDtbqpj5kcRBoRKFBirTFw,Restaurant Marocain,"65 Bd National, Rueil-Malmaison",1
@@ -414,11 +414,11 @@ respondent.commune,business_name,place_id,fr_categories,business_address,treatme
 92063,La Place,ChIJfW2cjxJj5kcRWdXqID5Wx9k,"Restaurant, Restaurant Français","2 Pl. Des Impressionnistes, Rueil-Malmaison",0
 92063,La Brasserie Du Château,ChIJqxz9zUBj5kcRjYwGytKli-U,"Brasserie, Restaurant Français, Restaurant De Fruits De Mer","193 Av. Napoléon Bonaparte, Rueil-Malmaison",0
 92063,Bistrot Des Ecus,ChIJQ_RxukJj5kcRSOIQSi0nmQA,"Bistro, Bar, Restaurant Français, Restaurant","190 Av. Paul Doumer, Rueil-Malmaison",0
-92063,Godori,ChIJizLCmBJj5kcRHWFXftwX3CM,"Restaurant Coréen, Restaurant","6 Rue Du Port, Rueil-Malmaison",NA
-92063,Japan Sakura,ChIJD9cqjhJj5kcR8QgRZ5sQkG4,Restaurant Japonais,"1 Pl. Des Impressionnistes, Rueil-Malmaison",NA
-92063,Hanoï Au Vietnam,ChIJVw3BCjZj5kcRVDU8PjNWCDc,"Restaurant Vietnamien, Restaurant","11 All. De Belgique, Rueil-Malmaison",NA
-92063,"Le Diwali, Haute Gastronomie Indienne",ChIJ7_xboGVj5kcR49dfqgGTdao,"Restaurant, Restaurant Créole, Restaurant Indien","21 Av. De Colmar, Rueil-Malmaison",NA
-92063,Accent Thaï,ChIJBw6CSrtj5kcRAXuqW2RNtgY,"Restaurant, Magasin De Bière, Bar À Cocktails, Restaurant Sans Gluten, Glacier, Pâtisserie, Restaurant Thaïlandais, Restaurant Végétarien, Bar À Vin","39 Rue Du Gué, Rueil-Malmaison",NA
+92063,Godori,ChIJizLCmBJj5kcRHWFXftwX3CM,"Restaurant Coréen, Restaurant","6 Rue Du Port, Rueil-Malmaison",2
+92063,Japan Sakura,ChIJD9cqjhJj5kcR8QgRZ5sQkG4,Restaurant Japonais,"1 Pl. Des Impressionnistes, Rueil-Malmaison",2
+92063,Hanoï Au Vietnam,ChIJVw3BCjZj5kcRVDU8PjNWCDc,"Restaurant Vietnamien, Restaurant","11 All. De Belgique, Rueil-Malmaison",2
+92063,"Le Diwali, Haute Gastronomie Indienne",ChIJ7_xboGVj5kcR49dfqgGTdao,"Restaurant, Restaurant Créole, Restaurant Indien","21 Av. De Colmar, Rueil-Malmaison",2
+92063,Accent Thaï,ChIJBw6CSrtj5kcRAXuqW2RNtgY,"Restaurant, Magasin De Bière, Bar À Cocktails, Restaurant Sans Gluten, Glacier, Pâtisserie, Restaurant Thaïlandais, Restaurant Végétarien, Bar À Vin","39 Rue Du Gué, Rueil-Malmaison",2
 92064,Le Mogador,ChIJ7cuPzzx75kcRLvYj_wnt6Fw,"Restaurant Marocain, Restaurant Africain, Traiteur, Restaurant De Couscous, Restaurant Nord-Africain","27 Rue D'orléans, Saint-Cloud",1
 92064,Table Du Maroc,ChIJMUQbM6h75kcRRb80QyxfUOo,Restaurant Marocain,"6 Parc De La Bérengère, Saint-Cloud",1
 92064,Restaurant Et Snack Du Pont,ChIJWVPlCyF75kcRTUychpNDW7c,"Restaurant Libanais, Traiteur, Restaurant De Restauration Rapide, Sandwicherie","10 Av. Du Maréchal De Lattre De Tassigny, Boulogne-Billancourt",1
@@ -429,11 +429,11 @@ respondent.commune,business_name,place_id,fr_categories,business_address,treatme
 92064,L'orangerie,ChIJz-ms9j975kcR8_G9_UpV0Sw,"Restaurant, Crêperie, Salle De Réception","Bassin Des 24 Jets, Saint-Cloud",0
 92064,Restaurant Le Quosy,ChIJkUDhvkB75kcRmF8v3rmMFYo,"Restaurant, Restaurant Français","2 Bd De La République, Saint-Cloud",0
 92064,Crêperie Les Tonnelles,ChIJZz_9OUZ75kcRbw2vqjC_LUg,"Crêperie, Restaurant Français","101 Av. Du Maréchal Foch, Saint-Cloud",0
-92064,Japan Sakura,ChIJ4Y5mJUl75kcRWmzuZb_BTQ0,"Restaurant Japonais, Restaurant Asiatique, Restaurant, Restaurant De Sushis","109 Rue De Buzenval, Garches",NA
-92064,Restaurant Coréen Seoulsienne 서울지엔느,ChIJfS6eLxt75kcRDyfLBYaGE-I,"Restaurant Coréen, Poulet Frit À Emporter","France, Saint-Cloud",NA
-92064,Nhà Quê,ChIJNcsNl_Bt5kcRsc4gxDnjFYA,"Restaurant Vietnamien, Traiteur","18 Rue Royale, Saint-Cloud",NA
-92064,La Bénédiction,ChIJE_WEPiN75kcRZtAKvA2Q4nk,"Restaurant Chinois, Restaurant Asiatique","2 Bis Rue Royale, Saint-Cloud",NA
-92064,Kwaï,ChIJj5ZdvVl75kcRGwVbkOdoDc4,Restaurant Thaïlandais,"9 Av. Bernard Palissy, Saint-Cloud",NA
+92064,Japan Sakura,ChIJ4Y5mJUl75kcRWmzuZb_BTQ0,"Restaurant Japonais, Restaurant Asiatique, Restaurant, Restaurant De Sushis","109 Rue De Buzenval, Garches",2
+92064,Restaurant Coréen Seoulsienne 서울지엔느,ChIJfS6eLxt75kcRDyfLBYaGE-I,"Restaurant Coréen, Poulet Frit À Emporter","France, Saint-Cloud",2
+92064,Nhà Quê,ChIJNcsNl_Bt5kcRsc4gxDnjFYA,"Restaurant Vietnamien, Traiteur","18 Rue Royale, Saint-Cloud",2
+92064,La Bénédiction,ChIJE_WEPiN75kcRZtAKvA2Q4nk,"Restaurant Chinois, Restaurant Asiatique","2 Bis Rue Royale, Saint-Cloud",2
+92064,Kwaï,ChIJj5ZdvVl75kcRGwVbkOdoDc4,Restaurant Thaïlandais,"9 Av. Bernard Palissy, Saint-Cloud",2
 92071,Elissol Saveurs,ChIJV03vSqxw5kcRw3EJOWkwM10,"Restaurant Libanais, Traiteur, Épicerie Fine","Av Plessis Ccial Mouilleboeufs, Châtenay-Malabry",1
 92071,So' Phenicia,ChIJYbGn2spw5kcRtZ8Ys_Ogypc,"Restaurant Libanais, Producteur Alimentaire, Épicerie Fine, Restaurant De Livraison, Service De Planification De Réunions, Sandwicherie","17 Rue Houdan, Sceaux",1
 92071,Antalya Restaurant,ChIJ_YOaibJw5kcRzHdahOAapak,"Restaurant Turc, Bar, Kebab","4 Sq. Robinson, Sceaux",1
@@ -444,11 +444,11 @@ respondent.commune,business_name,place_id,fr_categories,business_address,treatme
 92071,"Cafe De La Paix, Sceaux",ChIJXZ9g1spw5kcROnFyg2W7pfA,"Brasserie, Café, Restaurant","13 Rue Houdan, Sceaux",0
 92071,Atelier 157,ChIJaQM5Da1w5kcRU5pv81kyLK8,"Restaurant, Magasin De Bière, Bar À Cocktails, Restaurant Français, Restaurant De Hamburgers, Restaurant Végétalien, Restaurant Végétarien, Bar À Vin","157 Rue Houdan, Sceaux",0
 92071,La Grille,ChIJJ6_el8pw5kcRJBCwoaQK3tE,"Restaurant Français, Bistro","13 Rue Michel Charaire, Sceaux",0
-92071,Restaurant Saïgon,ChIJaxeRGK1w5kcR6w5iI8O7kEQ,"Restaurant Vietnamien, Restaurant Asiatique, Restaurant Chinois, Restaurant, Restaurant D'asie Du Sud-Est, Restaurant Thaïlandais","11 Av. Des 4 Chemins, Sceaux",NA
-92071,Restaurant Bông Cafe,ChIJ06qdGXBx5kcRMxnIEew3JBw,"Restaurant Vietnamien, Magasin De Thé Aux Perles, Café, Restaurant À Emporter, Sandwicherie, Salon De Thé","8 Rue Bergeret De Frouville, Sceaux",NA
-92071,La Route Des Indes,ChIJVVWJLDV35kcR9lrGj89RXek,Restaurant Indien,"10 Rue Du Dr Berger, Sceaux",NA
-92071,Sushi Robinson,ChIJ_fymGa1w5kcRcm1bpLCMJJY,Restaurant De Sushis,"9bis Av. Des 4 Chemins, Sceaux",NA
-92071,38° Tea - Bubble Tea & Waffle Sceaux,ChIJAy6omNxx5kcRKxxdOIrpxzE,"Magasin De Thé Aux Perles, Restaurant De Fusion Asiatique, Traiteur, Restaurant De Restauration Rapide, Restaurant De Livraison, Restaurant À Emporter, Sandwicherie, Salon De Thé, Restaurant Vietnamien","6b Pl. Du Général De Gaulle, Sceaux",NA
+92071,Restaurant Saïgon,ChIJaxeRGK1w5kcR6w5iI8O7kEQ,"Restaurant Vietnamien, Restaurant Asiatique, Restaurant Chinois, Restaurant, Restaurant D'asie Du Sud-Est, Restaurant Thaïlandais","11 Av. Des 4 Chemins, Sceaux",2
+92071,Restaurant Bông Cafe,ChIJ06qdGXBx5kcRMxnIEew3JBw,"Restaurant Vietnamien, Magasin De Thé Aux Perles, Café, Restaurant À Emporter, Sandwicherie, Salon De Thé","8 Rue Bergeret De Frouville, Sceaux",2
+92071,La Route Des Indes,ChIJVVWJLDV35kcR9lrGj89RXek,Restaurant Indien,"10 Rue Du Dr Berger, Sceaux",2
+92071,Sushi Robinson,ChIJ_fymGa1w5kcRcm1bpLCMJJY,Restaurant De Sushis,"9bis Av. Des 4 Chemins, Sceaux",2
+92071,38° Tea - Bubble Tea & Waffle Sceaux,ChIJAy6omNxx5kcRKxxdOIrpxzE,"Magasin De Thé Aux Perles, Restaurant De Fusion Asiatique, Traiteur, Restaurant De Restauration Rapide, Restaurant De Livraison, Restaurant À Emporter, Sandwicherie, Salon De Thé, Restaurant Vietnamien","6b Pl. Du Général De Gaulle, Sceaux",2
 92072,Restaurant La Perle De Marrakech,ChIJNagYHwx75kcRn00Qhb9g1l8,Restaurant Marocain,"3 Grande Rue, Sèvres",1
 92072,Anamour Grill,ChIJT8QL-BV75kcRhFt_odRCR3w,Restaurant Turc,"136 Grande Rue, Sèvres",1
 92072,Mando's,ChIJrcvzw3R75kcRvgh_M82PwbM,"Restaurant De Restauration Rapide, Restaurant Halal, Restaurant De Hamburgers, Restaurant De Tacos","130 Grande Rue, Sèvres",1
@@ -459,11 +459,11 @@ respondent.commune,business_name,place_id,fr_categories,business_address,treatme
 92072,La Salle A Manger,ChIJv27qlQV75kcROX_jKs6uFTE,"Restaurant, Restaurant Français","12 Av. De La Division Leclerc, Sèvres",0
 92072,La Sevrienne,ChIJJZyWfAx75kcRPpauDok-lA0,Restaurant Français,"82 Grande Rue, Sèvres",0
 92072,La Manufacture,ChIJEShsoAl75kcRjH9HfsVmTL4,"Brasserie, Restaurant De Petit-Déjeuner, Café, Restaurant Français, Restaurant","47 Bis Grande Rue, Sèvres",0
-92072,Bollywood,ChIJ8SMCHSJ75kcRu1ZI7SJ8Kqg,"Restaurant Indien, Restaurant Pakistanais","Av. Roger Salengro 204, Chaville",NA
-92072,Le Taj Mahal,ChIJh_1G3HR75kcR9nSdQDea4eA,"Restaurant Indien, Service De Livraison, Restaurant Sud-Asiatique, Restaurant Végétarien","3 Rue De La Garenne, Sèvres",NA
-92072,Gitanjali Héritage,ChIJ--GgDcJ75kcRiFhVHBEF0F8,Restaurant Indien,"7 Grande Rue, Sèvres",NA
-92072,Bonheur De Sèvres,ChIJ8VRWoQx75kcRx_rNn6JkqQA,"Restaurant De Fondue Chinoise, Restaurant Buffet, Restaurant Chinois, Plats Chinois À Emporter, Restaurant Japonais, Restaurant De Livraison, Restaurant Thaïlandais","3 Bis Rue De Ville D'avray, Sèvres",NA
-92072,Ichiban,ChIJWfDOcgV75kcRC3Eu_OffWVI,"Restaurant Japonais, Restaurant De Sushis","23 Grande Rue, Sèvres",NA
+92072,Bollywood,ChIJ8SMCHSJ75kcRu1ZI7SJ8Kqg,"Restaurant Indien, Restaurant Pakistanais","Av. Roger Salengro 204, Chaville",2
+92072,Le Taj Mahal,ChIJh_1G3HR75kcR9nSdQDea4eA,"Restaurant Indien, Service De Livraison, Restaurant Sud-Asiatique, Restaurant Végétarien","3 Rue De La Garenne, Sèvres",2
+92072,Gitanjali Héritage,ChIJ--GgDcJ75kcRiFhVHBEF0F8,Restaurant Indien,"7 Grande Rue, Sèvres",2
+92072,Bonheur De Sèvres,ChIJ8VRWoQx75kcRx_rNn6JkqQA,"Restaurant De Fondue Chinoise, Restaurant Buffet, Restaurant Chinois, Plats Chinois À Emporter, Restaurant Japonais, Restaurant De Livraison, Restaurant Thaïlandais","3 Bis Rue De Ville D'avray, Sèvres",2
+92072,Ichiban,ChIJWfDOcgV75kcRC3Eu_OffWVI,"Restaurant Japonais, Restaurant De Sushis","23 Grande Rue, Sèvres",2
 92073,La Boutique Du Liban,ChIJoXVSubZk5kcR5i0O_AtUpmc,Restaurant Libanais,"177 Bis Av. Du 18 Juin 1940, Rueil-Malmaison",1
 92073,Le Tichka,ChIJSaOmCrRk5kcRJEBmN5ruiuE,"Restaurant De Couscous, Restaurant Marocain","2 Av. Gustave Stresemann, Suresnes",1
 92073,L'ourika,ChIJ5z-GZtlk5kcR2Fa7q0mY_Bs,"Restaurant Marocain, Restaurant Africain, Restaurant De Couscous, Restaurant Nord-Africain, Restaurant","25 Rue De Verdun, Suresnes",1
@@ -474,11 +474,11 @@ respondent.commune,business_name,place_id,fr_categories,business_address,treatme
 92073,Le Qg,ChIJ11STONJk5kcRqQ6eX9zkWas,"Restaurant, Restaurant Familial, Restaurant Français, Restaurant De Tapas, Restaurant Traditionnel","55 Rue Pasteur, Suresnes",0
 92073,Au Père Lapin,ChIJxWVPpMVk5kcRZtWuaLi1TUk,Restaurant Français,"10 Rue Du Calvaire, Suresnes",0
 92073,La Parisienne,ChIJLVfRwtRl5kcREFXUY4n0CGQ,"Restaurant, Bar, Bistro, Restaurant Brunch, Café, Restaurant Français, Restaurant Haut De Gamme Français, Restaurant À Emporter, Restaurant Français Moderne, Brasserie","49 Rue Des Bourets, Suresnes",0
-92073,Pooja,ChIJvfpNH-Bk5kcR1JYcI6_RctQ,Restaurant Indien,"24 Rue Des Bas Rogers, Puteaux",NA
-92073,Le Bonheur De Chine | Restaurant Chinois Gastronomique,ChIJD71alrZk5kcR8gjHhhq_RJY,"Restaurant Chinois, Restaurant Asiatique, Restaurant Cantonais, Restaurant Haut De Gamme Français, Restaurant, Restaurant De Fruits De Mer","2 All. Aristide Maillol, Rueil-Malmaison",NA
-92073,Tsubasa,ChIJOWvKDvdl5kcRNO8vbrDWmuc,Restaurant Japonais,"24 Rue Des Bourets, Suresnes",NA
-92073,Yamato,ChIJHbnup9Bk5kcR4CeYaS1X9aU,"Restaurant Japonais, Restaurant Coréen","8 Rue Etienne Dolet, Suresnes",NA
-92073,Gastronomie Plancha,ChIJNaRN99lk5kcRmywDYNluv-0,"Restaurant Japonais, Restaurant Asiatique, Restaurant De Sushis","30 Rue Des Bourets, Suresnes",NA
+92073,Pooja,ChIJvfpNH-Bk5kcR1JYcI6_RctQ,Restaurant Indien,"24 Rue Des Bas Rogers, Puteaux",2
+92073,Le Bonheur De Chine | Restaurant Chinois Gastronomique,ChIJD71alrZk5kcR8gjHhhq_RJY,"Restaurant Chinois, Restaurant Asiatique, Restaurant Cantonais, Restaurant Haut De Gamme Français, Restaurant, Restaurant De Fruits De Mer","2 All. Aristide Maillol, Rueil-Malmaison",2
+92073,Tsubasa,ChIJOWvKDvdl5kcRNO8vbrDWmuc,Restaurant Japonais,"24 Rue Des Bourets, Suresnes",2
+92073,Yamato,ChIJHbnup9Bk5kcR4CeYaS1X9aU,"Restaurant Japonais, Restaurant Coréen","8 Rue Etienne Dolet, Suresnes",2
+92073,Gastronomie Plancha,ChIJNaRN99lk5kcRmywDYNluv-0,"Restaurant Japonais, Restaurant Asiatique, Restaurant De Sushis","30 Rue Des Bourets, Suresnes",2
 92075,La Sirène De Vanves,ChIJ8SnJMGFw5kcRhGOYyfWHd4A,"Kebab, Restaurant De Restauration Rapide, Restaurant","23 Rue Jean Bleuzen, Vanves",1
 92075,Tunisian Canteen,ChIJeVevcK1x5kcR0Byo_PUT2kw,Restaurant Tunisien,"21 Rue Jean Bleuzen, Vanves",1
 92075,Chez Tonton,ChIJwRQTfxpx5kcR847xjD0UKMk,Restaurant Turc,"1 Rue De La République, Vanves",1
@@ -489,11 +489,11 @@ respondent.commune,business_name,place_id,fr_categories,business_address,treatme
 92075,La Maison,ChIJlwsrRnpx5kcRFgsvPLCYN4U,"Restaurant, Brasserie","7 Rue De La République, Vanves",0
 92075,Oh...Divin,ChIJ1ZtjK2dw5kcRjpohxuJl4OA,"Restaurant, Café, Restaurant Familial, Restaurant De Restauration Rapide, Restaurant Français","54 Rue Jean Bleuzen, Vanves",0
 92075,L'appart Bistro,ChIJjTWQM2Rw5kcRtrC9V41mJp4,"Bistro, Restaurant Français, Restaurant","47 Av. Victor Hugo, Vanves",0
-92075,Herushi,ChIJwRufcwNx5kcRLpi9wIi2T-c,Restaurant Japonais,"55 Rue Jean Jaurès, Vanves",NA
-92075,Etoile Du Bonheur,ChIJKQBibWFw5kcRv4q63X3THiU,Restaurant Asiatique,"11 Rue Ernest Laval, Vanves",NA
-92075,Izu Sushi Vanves,ChIJ7--GBipx5kcRgmIjFr0Eoqg,"Restaurant De Sushis, Restaurant Asiatique, Restaurant Chinois, Restaurant De Fondue Chinoise, Restaurant Japonais, Restaurant De Livraison, Restaurant À Emporter, Restaurant, Sushis À Emporter, Restaurant Vietnamien","32 Bis Rue Jules Michelet, Vanves",NA
-92075,Sushido,ChIJBfnZKmFw5kcRgngc9FO-6PA,Restaurant De Sushis,"37 Rue Jean Bleuzen, Vanves",NA
-92075,Le Temps Des Sushis,ChIJFaBud3tw5kcRwVO_ctgnQJc,"Restaurant Japonais, Restaurant Asiatique, Restaurant Chinois, Restaurant De Livraison, Restaurant À Emporter, Restaurant De Sushis","25 Rue D'issy, Vanves",NA
+92075,Herushi,ChIJwRufcwNx5kcRLpi9wIi2T-c,Restaurant Japonais,"55 Rue Jean Jaurès, Vanves",2
+92075,Etoile Du Bonheur,ChIJKQBibWFw5kcRv4q63X3THiU,Restaurant Asiatique,"11 Rue Ernest Laval, Vanves",2
+92075,Izu Sushi Vanves,ChIJ7--GBipx5kcRgmIjFr0Eoqg,"Restaurant De Sushis, Restaurant Asiatique, Restaurant Chinois, Restaurant De Fondue Chinoise, Restaurant Japonais, Restaurant De Livraison, Restaurant À Emporter, Restaurant, Sushis À Emporter, Restaurant Vietnamien","32 Bis Rue Jules Michelet, Vanves",2
+92075,Sushido,ChIJBfnZKmFw5kcRgngc9FO-6PA,Restaurant De Sushis,"37 Rue Jean Bleuzen, Vanves",2
+92075,Le Temps Des Sushis,ChIJFaBud3tw5kcRwVO_ctgnQJc,"Restaurant Japonais, Restaurant Asiatique, Restaurant Chinois, Restaurant De Livraison, Restaurant À Emporter, Restaurant De Sushis","25 Rue D'issy, Vanves",2
 92076,Cannelle & Safran,ChIJMbkuphp95kcRcdVt_OjjI38,Restaurant Marocain,"29 Av. Lucien René Duchesne, La Celle-Saint-Cloud",1
 92076,Oh...Liban | Restaurant Libanais 78,ChIJd75k9Qh95kcRNfywwPTpybI,"Restaurant Libanais, Restaurant Méditerranéen","79 Rue De Versailles, Le Chesnay-Rocquencourt",1
 92076,L'étoile De Tiznit,ChIJHcHMNnt75kcRoiDrNl0a4Mk,"Restaurant, Restaurant Marocain","54 Rue De Saint-Cloud, Ville-d'Avray",1
@@ -504,11 +504,11 @@ respondent.commune,business_name,place_id,fr_categories,business_address,treatme
 92076,Le Swing,ChIJLwp6c8d85kcRtehlhtg2LqU,"Restaurant Français, Bar","129 Av. De La Celle Saint-Cloud, Vaucresson",0
 92076,Brasserie Café Tabac Le Crystal,ChIJ10RrD5V85kcRQEI_9LlQzkU,"Brasserie, Bar","6 Bd De La République, Vaucresson",0
 92076,Au Petit Chez Soi,ChIJB2LCNNZ85kcRgUju7Db7gTs,"Restaurant, Restaurant Français","4 Pl. De L'église, La Celle-Saint-Cloud",0
-92076,Jardin De Pékin,ChIJ56zeYOh85kcRHMbvCKFAtJk,"Restaurant À Emporter, Restaurant Chinois, Restaurant Vietnamien","102 Bd De La République, Vaucresson",NA
-92076,Village De Chine,ChIJXTNDpN585kcRQDCE0FTMtZY,Restaurant Chinois,"19 Av. Des Puits, La Celle-Saint-Cloud",NA
-92076,Mangalore Lounge,ChIJo06eZdp85kcR-ixPzA5N8Eg,"Restaurant Indien, Jardin, Plats Indiens À Emporter, Salon","4 Pl. Du Dr Berthet, La Celle-Saint-Cloud",NA
-92076,"Restaurant Ô Coco'ttes, Thaï Cuisine Lcsc",ChIJFX215Y195kcRVyF1ZgumhQ4,Restaurant Thaïlandais,"53 Av. De La Jonchère, La Celle-Saint-Cloud",NA
-92076,Papylee,ChIJyzGS3lZ95kcR53sS1N66IS8,Sushis À Emporter,"19 Av. André René Guibert, La Celle-Saint-Cloud",NA
+92076,Jardin De Pékin,ChIJ56zeYOh85kcRHMbvCKFAtJk,"Restaurant À Emporter, Restaurant Chinois, Restaurant Vietnamien","102 Bd De La République, Vaucresson",2
+92076,Village De Chine,ChIJXTNDpN585kcRQDCE0FTMtZY,Restaurant Chinois,"19 Av. Des Puits, La Celle-Saint-Cloud",2
+92076,Mangalore Lounge,ChIJo06eZdp85kcR-ixPzA5N8Eg,"Restaurant Indien, Jardin, Plats Indiens À Emporter, Salon","4 Pl. Du Dr Berthet, La Celle-Saint-Cloud",2
+92076,"Restaurant Ô Coco'ttes, Thaï Cuisine Lcsc",ChIJFX215Y195kcRVyF1ZgumhQ4,Restaurant Thaïlandais,"53 Av. De La Jonchère, La Celle-Saint-Cloud",2
+92076,Papylee,ChIJyzGS3lZ95kcR53sS1N66IS8,Sushis À Emporter,"19 Av. André René Guibert, La Celle-Saint-Cloud",2
 92077,L'étoile De Tiznit,ChIJHcHMNnt75kcRoiDrNl0a4Mk,"Restaurant, Restaurant Marocain","54 Rue De Saint-Cloud, Ville-d'Avray",1
 92077,Anamour Grill,ChIJT8QL-BV75kcRhFt_odRCR3w,Restaurant Turc,"136 Grande Rue, Sèvres",1
 92077,Mando's,ChIJrcvzw3R75kcRvgh_M82PwbM,"Restaurant De Restauration Rapide, Restaurant Halal, Restaurant De Hamburgers, Restaurant De Tacos","130 Grande Rue, Sèvres",1
@@ -519,11 +519,11 @@ respondent.commune,business_name,place_id,fr_categories,business_address,treatme
 92077,"Chef À Domicile, Chef Michel, Haut De Seine Et Yvelines",ChIJpXg9TiN75kcR7Q8VSWrqL6g,"Traiteur, Restaurant Français Moderne, Service De Chef Personnel","30 Rue De La Ronce 92410, Ville-d'Avray",0
 92077,Mayarestaurant,ChIJ81XtSXt75kcRnVW8KB1CA7s,"Restaurant Français, Restaurant Italien, Restaurant Méditerranéen","45 Rue De Saint-Cloud, Ville-d'Avray",0
 92077,Crêperie Au Phare De Sèvres,ChIJhyMUv3F75kcRd_xoecTins4,Crêperie,"5 Pl. Pierre Brossolette, Sèvres",0
-92077,Song Giang,ChIJ13T2j3x75kcR1pdV7CMZIu4,Restaurant Vietnamien,"13 Rue De Sèvres, Ville-d'Avray",NA
-92077,New Sayuri Sushi,ChIJZ2dl73175kcRPyMNU6wm7po,"Restaurant Japonais, Restaurant De Sushis","32 Rue De Versailles, Ville-d'Avray",NA
-92077,Restaurant Asiatique,ChIJc9MTM3R75kcRdZP_h9ZeAW4,Restaurant Asiatique,"168 Grande Rue, Sèvres",NA
-92077,Au Soleil Levant,ChIJw7GYNHR75kcRwaK1Rr2ovJU,"Restaurant Mandarin, Restaurant Chinois, Restaurant Thaïlandais","168 Grande Rue, Sèvres",NA
-92077,Au Comptoir D'asie,ChIJ7RFpT3R75kcR8q_yl3QOfj0,Restaurant Asiatique,"160 Grande Rue, Sèvres",NA
+92077,Song Giang,ChIJ13T2j3x75kcR1pdV7CMZIu4,Restaurant Vietnamien,"13 Rue De Sèvres, Ville-d'Avray",2
+92077,New Sayuri Sushi,ChIJZ2dl73175kcRPyMNU6wm7po,"Restaurant Japonais, Restaurant De Sushis","32 Rue De Versailles, Ville-d'Avray",2
+92077,Restaurant Asiatique,ChIJc9MTM3R75kcRdZP_h9ZeAW4,Restaurant Asiatique,"168 Grande Rue, Sèvres",2
+92077,Au Soleil Levant,ChIJw7GYNHR75kcRwaK1Rr2ovJU,"Restaurant Mandarin, Restaurant Chinois, Restaurant Thaïlandais","168 Grande Rue, Sèvres",2
+92077,Au Comptoir D'asie,ChIJ7RFpT3R75kcR8q_yl3QOfj0,Restaurant Asiatique,"160 Grande Rue, Sèvres",2
 92078,Le Royal,ChIJJ8qO7tRu5kcR20_3JrZv0d4,"Kebab, Restaurant De Restauration Rapide, Sandwicherie","25 Av. De Verdun, Villeneuve-la-Garenne",1
 92078,Delice D`Omay,ChIJpdbAmhNp5kcRWCeCjmv82Bw,Restaurant Marocain,"2 Bd Charles De Gaulle, Villeneuve-la-Garenne",1
 92078,Half Time,ChIJaZ_-XTdv5kcRBJHVG2UJTI8,"Restaurant De Restauration Rapide, Restaurant Halal, Restaurant De Hamburgers, Restaurant À Emporter, Sandwicherie","Centre Commercial Qwartz, Villeneuve-la-Garenne",1
@@ -534,8 +534,8 @@ respondent.commune,business_name,place_id,fr_categories,business_address,treatme
 92078,Waffle Factory,ChIJwbmca4xv5kcRESRYq7iS55U,"Restaurant De Restauration Rapide, Restaurant Américain, Restaurant Belge, Restaurant De Desserts, Boutique De Desserts, Restaurant Familial, Restaurant, Sandwicherie","4 Bd Gallieni, Villeneuve-la-Garenne",0
 92078,Sucre&Salé Qwartz,ChIJE-K7gndv5kcROlT3apgE0HU,Crêperie,"4 Bd Gallieni, Villeneuve-la-Garenne",0
 92078,Restaurant Les Chanteraines,ChIJCeM8q9Ro5kcRgAlcya8HKJo,Restaurant Français,"12 Av. Du 8 Mai 1945, Villeneuve-la-Garenne",0
-92078,Wok Ô King,ChIJx3DQgddu5kcRKrDtiOmH4BE,"Restaurant Buffet, Restaurant Asiatique, Restaurant Chinois, Restaurant Japonais, Restaurant, Restaurant De Wok","Centre Commercial Qwartz, Villeneuve-la-Garenne",NA
-92078,Sushi Hanaka,ChIJh5uaY9du5kcRLvF4U429p1k,"Restaurant De Sushis, Restaurant Japonais","4 Bd Gallieni, Villeneuve-la-Garenne",NA
-92078,Sushi Daily Lourdes,ChIJvbxmgYBv5kcRGh6VqOR8ThA,"Sushis À Emporter, Restaurant De Sushis À Tapis Roulant, Producteur Alimentaire, Restaurant De Sushis","2 Bd Gallieni, Centre Commercial - Qwartz De La, Villeneuve-la-Garenne",NA
-92078,Sushi Daily Villeneuve La Garenne,ChIJvbeCOfXV50cRoST01eEnbNg,"Sushis À Emporter, Restaurant De Sushis À Tapis Roulant, Producteur Alimentaire, Restaurant De Sushis","2 Bd Gallieni, Villeneuve-la-Garenne",NA
-92078,Le Léopard,ChIJL10B6y5v5kcRAHoBb8Zkt5o,"Restaurant Asiatique, Restaurant Chinois, Restaurant Japonais, Restaurant, Restaurant De Sushis, Restaurant Thaïlandais","44 Av. De La Longue Bertrane, Villeneuve-la-Garenne",NA
+92078,Wok Ô King,ChIJx3DQgddu5kcRKrDtiOmH4BE,"Restaurant Buffet, Restaurant Asiatique, Restaurant Chinois, Restaurant Japonais, Restaurant, Restaurant De Wok","Centre Commercial Qwartz, Villeneuve-la-Garenne",2
+92078,Sushi Hanaka,ChIJh5uaY9du5kcRLvF4U429p1k,"Restaurant De Sushis, Restaurant Japonais","4 Bd Gallieni, Villeneuve-la-Garenne",2
+92078,Sushi Daily Lourdes,ChIJvbxmgYBv5kcRGh6VqOR8ThA,"Sushis À Emporter, Restaurant De Sushis À Tapis Roulant, Producteur Alimentaire, Restaurant De Sushis","2 Bd Gallieni, Centre Commercial - Qwartz De La, Villeneuve-la-Garenne",2
+92078,Sushi Daily Villeneuve La Garenne,ChIJvbeCOfXV50cRoST01eEnbNg,"Sushis À Emporter, Restaurant De Sushis À Tapis Roulant, Producteur Alimentaire, Restaurant De Sushis","2 Bd Gallieni, Villeneuve-la-Garenne",2
+92078,Le Léopard,ChIJL10B6y5v5kcRAHoBb8Zkt5o,"Restaurant Asiatique, Restaurant Chinois, Restaurant Japonais, Restaurant, Restaurant De Sushis, Restaurant Thaïlandais","44 Av. De La Longue Bertrane, Villeneuve-la-Garenne",2
