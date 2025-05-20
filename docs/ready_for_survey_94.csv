@@ -1,0 +1,706 @@
+respondent.commune,business_name,place_id,fr_categories,business_address,treatment_arm
+94001,260,ChIJ6ezacwB15kcRKV2ZT6N5OAk,"Restaurant De Restauration Rapide, Restaurant De Hamburgers, Restaurant De Pizzas, Restaurant De Tacos","14 Rue Du Bac, Ablon-sur-Seine",1
+94001,Au Palmier D'agadir,ChIJ89nKmx515kcR1RIWOnwZ6go,Restaurant Marocain,"18 Rue Du Maréchal Lyautey, Villeneuve-le-Roi",1
+94001,Snack Friterie (Halal) Parking Routier,ChIJxXVUu6Lf5UcRlgJWd02mGeM,Restaurant De Restauration Rapide,"Parking Euromat, Athis-Mons",1
+94001,O'tacos,ChIJI_2d1tIK5kcRkk1pskB907A,"Restaurant De Restauration Rapide, Support À Café, Restaurant Halal, Sandwicherie","6 Rue De Paris, Villeneuve-Saint-Georges",1
+94001,Testi,ChIJ0XEtUdMK5kcRHB8vr3uZoxE,Restaurant Turc,"55 Rue De Paris, Villeneuve-Saint-Georges",1
+94001,Brasserie Restaurant,ChIJzeiM5Bl15kcR5mn3h2__pYo,Brasserie,"94480 Ablon-Sur-Seine, Ablon-sur-Seine",0
+94001,Bistrot Du Marché Villeneuve Le Roi,ChIJHVablJJ15kcRnLicCseroSo,"Restaurant, Bar Et Grill, Restaurant De Petit-Déjeuner, Restaurant Familial, Restaurant De Restauration Rapide, Marché De Produits Frais, Restaurant Du Déjeuner, Restaurant À Emporter, Restaurant De Plats De Viande, Restaurant Traditionnel","32-38 Av. Le Foll, Villeneuve-le-Roi",0
+94001,Le Palace,ChIJp3flyyF15kcRAhj7JjfrdyA,"Restaurant Français, Bar, Bar Sportif","2 Av. De La République, Villeneuve-le-Roi",0
+94001,Mcdonald's,ChIJneueVS915kcRTSxXu9m-blY,"Restaurant De Restauration Rapide, Restaurant Américain, Restaurant De Hamburgers, Restaurant De Pizzas, Restaurant, Sandwicherie","20 Av. De La Haute Seine, Villeneuve-le-Roi",0
+94001,Le Faisan Doré,ChIJdRH1PSB15kcRCjAovMmco8Q,Restaurant Français,"5 Pl. Jeanne D'arc, Villeneuve-le-Roi",0
+94001,Sawadeeka Restaurant Thaïlandais & Coffee Shop,ChIJZ8YvS8h15kcRYG12M0kJBe8,"Restaurant Thaïlandais, Café","6 Rue Du Bac, Ablon-sur-Seine",2
+94001,Restaurant Shahi (Ex-Shiva),ChIJ5SyEmB515kcRNcdIF1r-beM,"Restaurant Pakistanais, Restaurant Indien Musulman, Restaurant Indien","18 Rue Du Maréchal Lyautey, Villeneuve-le-Roi",2
+94001,Auberge D'asie,ChIJEc1ihB515kcRTDgXJ01flYk,"Restaurant Mandarin, Restaurant Asiatique, Bar, Restaurant Chinois","47 Av. De La République, Villeneuve-le-Roi",2
+94001,La Rizière,ChIJrY9jryF15kcRnzl3zMius2o,"Restaurant Vietnamien, Bar, Salle Des Fêtes, Restaurant","2 Rue Jean Pierre Timbaud, Villeneuve-le-Roi",2
+94001,Sushi Land,ChIJBzLZzSF15kcRvsvwx2bp-Pg,Restaurant Japonais,"4 Av. De La République, Villeneuve-le-Roi",2
+94002,Chez Eli - Restaurant/Traiteur Libanais,ChIJqWfntgVz5kcRjknJnlDsiCk,"Restaurant Libanais, Traiteur","157 Rue Véron, Alfortville",1
+94002,La Rogina,ChIJA40GCxBz5kcR3QcDBafzMe4,"Restaurant, Restaurant Arménien, Gril, Restaurant Barbecue, Restaurant De Kebab Doner, Restaurant De Hamburgers, Restaurant De Livraison, Livraison De Pizzas, Restaurant De Pizzas, Pizza À Emporter","177b Rue Paul Vaillant Couturier, Alfortville",1
+94002,Nusican,ChIJZ14tXD9z5kcRT5Fut20RWWQ,"Restaurant Turc, Café, Restaurant De Restauration Rapide, Restaurant Halal, Kebab, Restaurant Du Déjeuner, Sandwicherie, Restaurant De Tacos, Restaurant Traditionnel","75 Rue Victor Hugo, Alfortville",1
+94002,Locorico,ChIJXVplAM5z5kcRlXQiTpu4p6o,"Restaurant Halal, Restaurant D'ailes De Poulet, Restaurant De Restauration Rapide","21 Rue Micolon, Alfortville",1
+94002,O'malo Alfortville,ChIJXbVaCQJz5kcRMwxSviO_xLw,"Restaurant De Restauration Rapide, Restaurant De Hamburgers, Kebab, Restaurant À Emporter, Restaurant, Sandwicherie","28 Rue Charles De Gaulle, Alfortville",1
+94002,Le Jardin D'erevan,ChIJy0YOzhpz5kcRk5VoWjQGQo8,"Restaurant Arménien, Restaurant Français","4 Rue Jules Cuillerier, Alfortville",0
+94002,Les Hirondelles,ChIJd9iMGhtz5kcRvO9KntekwHA,"Restaurant Français, Restaurant De Couscous, Restaurant De Pizzas","59 Rue Louis Blanc, Alfortville",0
+94002,Caprice,ChIJ83WILaxz5kcRpIUTkJndfrA,"Restaurant Français, Restaurant Gastronomique, Restaurant Haut De Gamme Français, Restaurant","60 Rue De Charenton, Alfortville",0
+94002,Bouchons & Resto,ChIJ6yX_NgRz5kcR7XGRUK9NXOs,"Restaurant Français, Restaurant","118 Rue Véron, Alfortville",0
+94002,Edera,ChIJa5HiVo1z5kcR2_nZPByVobI,"Restaurant Roumain, Restaurant Français","3 Rue De Charenton, Alfortville",0
+94002,Rajpoot Restaurant Indien Et Pakistanais,ChIJZUN9if1y5kcRHSynPQDXWDQ,"Restaurant Indien, Restaurant Pakistanais, Restaurant","31 Rue Charles De Gaulle, Alfortville",2
+94002,Kyotorama,ChIJvdZDXhJz5kcRQw5hNc8jdC8,Restaurant Japonais,"34 Rue Véron, Alfortville",2
+94002,Sakura,ChIJcS8JJAxz5kcR4vrQTqEO27Y,"Restaurant Japonais, Restaurant Thaïlandais","206 Rue Paul Vaillant Couturier, Alfortville",2
+94002,Chez Jaib,ChIJhxdMcVZz5kcRqLGiTJCHWXA,Restaurant Thaïlandais,"162 Rue Paul Vaillant Couturier, Alfortville",2
+94002,Papaye,ChIJH-TJOBpz5kcRYchfi0TU3mc,"Restaurant Thaïlandais, Restaurant Vietnamien","180 Rue Paul Vaillant Couturier, Alfortville",2
+94003,So'grill,ChIJD5rn8RJx5kcRvE0ermoVfvo,"Restaurant De Hamburgers, Restaurant Halal, Kebab, Restaurant De Tacos","2 Av. Paul Vaillant Couturier, Arcueil",1
+94003,Smash'up 🍔👑,ChIJydn_SXJx5kcRxPxIO1XohnM,Restaurant Halal,"Pl. De La Vache Noire, Arcueil",1
+94003,El Wadi,ChIJ-_8PIBdx5kcRXbyfJiSMfzk,"Restaurant, Traiteur, Restaurant Halal, Restaurant Libanais, Restaurant Végétalien, Restaurant Végétarien","75 Av. Aristide Briand, Arcueil",1
+94003,Grill Istanbul,ChIJx95bBw9x5kcROJHAK6nyYBU,"Restaurant Turc, Restaurant De Restauration Rapide","2 Av. Laplace, Arcueil",1
+94003,Brikabrak,ChIJnRcpfKVx5kcRC47QWaLL_2c,Restaurant Marocain,"14 Av. Du Chaperon Vert, Arcueil",1
+94003,Le P'tit Bistrot,ChIJc-KS7Q1x5kcRf8SHGO3flE0,"Restaurant Français, Bar, Bistro","129 Rue Marius Sidobre, Arcueil",0
+94003,Au Bureau,ChIJuabJ1gVx5kcRjI1JYOO7AxA,"Restaurant, Bar, Restaurant Européen, Restaurant Français, Restaurant De Hamburgers, Restaurant Irlandais, Pub, Bar Sportif","3 Pl. De La Vache Noire, Arcueil",0
+94003,Chez Papa,ChIJv1tmoRtx5kcRGPeUZEcv0Jw,Restaurant Français,"99 Av. Aristide Briand, Arcueil",0
+94003,Hippopotamus,ChIJu_T0LBtx5kcRf61cWN6vPN8,"Restaurant, Bar Et Grill, Restaurant Barbecue, Dîner, Restaurant Familial, Restaurant Français, Restaurant À Emporter, Steak House","3 Carrefour De La Vache Noire, Arcueil",0
+94003,L'océan Bleu,ChIJQyRiARFx5kcRlonAldQOBPw,"Brasserie, Bar, Brasserie, Restaurant","71 Rue Emile Raspail, Arcueil",0
+94003,Little Long House,ChIJiXwSMQFx5kcRVVJ8bhZbxM4,Restaurant Japonais,"17 Av. Victor Hugo, Bagneux",2
+94003,Sawasdee Thaî,ChIJd0pQIJFx5kcR4apybMc_r9M,Restaurant Thaïlandais,"15 Av. Victor Hugo, Bagneux",2
+94003,Baan Nat,ChIJe1YxEYhx5kcRYVW4tM0UFXQ,"Restaurant Thaïlandais, Restaurant","61 Av. Laplace, Arcueil",2
+94003,Ô Boui Boui,ChIJmXrNHadx5kcRaxTRPZW3ZMg,Restaurant Thaïlandais,"67 Av. Laplace, Arcueil",2
+94003,Dream Sushi,ChIJS8T6twhx5kcRFngyOK3ohLk,"Restaurant Japonais, Bar, Restaurant De Sushis","49 Av. Vladimir Ilitch Lenine, Arcueil",2
+94004,Le Palais D'agadir - Restaurant Marocain 94,ChIJoQNyI78L5kcRl7HVm4rfFh4,Restaurant Marocain,"5 Bd Léon Revillon, Boissy-Saint-Léger",1
+94004,Maxin Chicken,ChIJ7bJ8yjUL5kcRM3SOO1Dwf4M,"Restaurant Halal, Restaurant De Restauration Rapide","3 Rue De Paris, Boissy-Saint-Léger",1
+94004,Poulet Braisé - La Bonne Braise - Churrasqueira,ChIJMQaO1QcL5kcRbh1i9e6p5qc,"Restaurant, Restaurant Barbecue, Espace Barbecue, Restaurant De Poulet, Magasin De Poulet, Restaurant D'ailes De Poulet, Restaurant Halal, Restaurant De Hamburgers, Restaurant Portugais, Restaurant De Riz","26 Rue De Paris, Boissy-Saint-Léger",1
+94004,So Grill,ChIJ9e-A9LYL5kcRngVZjYflysA,"Restaurant, Restaurant Halal, Restaurant Portugais","26 Rue De Paris, Boissy-Saint-Léger",1
+94004,Palais Du Kashmir,ChIJk2IUW6IL5kcRP26HR-99D7A,"Restaurant Indien, Restaurant Halal","48 Av. Du Président Wilson, Limeil-Brévannes",1
+94004,La Fourchette Braisée / Poulet Braisé & Grillades Halal/ Boissy Saint Léger,ChIJwxRfTzML5kcRaQg1Uj-F_Rw,Restaurant Barbecue,"4a Bd De La Gare, Boissy-Saint-Léger",0
+94004,Rdv Ici,ChIJqyUJx5cL5kcRgqBndpaWVdA,"Crêperie, Café, Restaurant Français, Restaurant À Emporter","4a Bd De La Gare, Boissy-Saint-Léger",0
+94004,Au Bar À Bières,ChIJndESf3kL5kcRVMzsdgYSnIQ,"Bar, Magasin De Bière, Bistro, Café, Kiosque À Journaux, Pub, Bar À Vin","1 Bd De La Gare, Boissy-Saint-Léger",0
+94004,Courtepaille,ChIJdVcca5oL5kcRKEgpP5jasGk,"Restaurant De Steakhouse Français, Gril, Bar Et Grill, Restaurant Familial, Restaurant Français, Restaurant De Plats De Viande, Restaurant","10 Rue Du 8 Mai 1945, Boissy-Saint-Léger",0
+94004,Royale Pizza,ChIJ2V9WcgsL5kcR6XHUd_uFD-w,"Restaurant De Pizzas, Restaurant De Restauration Rapide, Restaurant Français, Restaurant Italien, Restaurant De Livraison, Livraison De Pizzas, Restaurant, Restaurant Du Sud De L'italie","67 Rue Henri Barbusse, Limeil-Brévannes",0
+94004,Sakura,ChIJwToKW74L5kcRAWMvwwU4Cyw,"Restaurant Japonais, Restaurant Asiatique, Restaurant De Sushis","34 Rue De Paris, Boissy-Saint-Léger",2
+94004,Tandoori House,ChIJx0vUlWoL5kcRMGXmXBIuxYg,Restaurant Indien,"9 Rue De Paris, Boissy-Saint-Léger",2
+94004,Best Thai Kitchen,ChIJqen2tScL5kcRcFw0uEwaMB4,Restaurant Thaïlandais,"28 Rue De Sucy, Boissy-Saint-Léger",2
+94004,Sakura.,ChIJDQcMPgsL5kcRLMMIUwx5XjA,"Restaurant Japonais, Restaurant De Sushis","2 Rue Roger Salengro, Limeil-Brévannes",2
+94004,Papylee,ChIJda-WUX0L5kcRtphAlEbEKd8,Restaurant Asiatique,"1-3 Av. Du Bicentenaire 1789-1989 À E.leclerc, Bonneuil-sur-Marne",2
+94011,Le Boostan,ChIJi44mgIoN5kcR3oOzF5DsjQs,"Restaurant, Bar Et Grill, Restaurant Halal, Bar À Chicha, Salon","97 Av. De Paris, Bonneuil-sur-Marne",1
+94011,Restaurant Istanbul,ChIJUdGIa4IM5kcRo_W0cuDilbY,Restaurant Turc,"Av. Du Colonel Fabien, Bonneuil-sur-Marne",1
+94011,Le Riad De Marrakech,ChIJ43ynFp0M5kcRTOnbU2JBI2I,Restaurant Marocain,"Av. De Paris, Bonneuil-sur-Marne",1
+94011,Magnolia,ChIJAd1nZoIM5kcRh1g54y7cwSw,"Restaurant Turc, Bar, Restaurant De Restauration Rapide","3 Av. Auguste Gross, Bonneuil-sur-Marne",1
+94011,G La Dalle - Bonneuil,ChIJMe1YinIN5kcRb4nXbU1wJdk,"Restaurant De Hamburgers, Restaurant De Restauration Rapide, Restaurant Halal","1 Av. De Choisy, Bonneuil-sur-Marne",1
+94011,La Marmite - Restaurant Français,ChIJl4VoUpkM5kcR_x9AItx8Va8,"Restaurant Français, Restaurant Familial, Restaurant Français Moderne, Restaurant","77 Av. De Paris, Bonneuil-sur-Marne",0
+94011,Le Kong,ChIJFwEpKkIN5kcRJK2IDLul75g,Restaurant Français,"5 Rte De L'ouest, Bonneuil-sur-Marne",0
+94011,Café De La Mairie,ChIJRxDQdn4N5kcRWonLAKH2FDI,"Bar À Tabac, Bar Pmu, Brasserie, Bureau De Tabac","5 Rue D'estienne D'orves, Bonneuil-sur-Marne",0
+94011,Mcdonald's,ChIJT1PlensL5kcR8d6EOKca5y0,"Restaurant De Restauration Rapide, Restaurant Américain, Restaurant De Hamburgers, Restaurant De Pizzas, Restaurant, Sandwicherie","Zac De La, Bonneuil-sur-Marne",0
+94011,Burger King,ChIJeZ5lTwF06UcR7Ff7sxQO50U,"Restaurant De Restauration Rapide, Restaurant Américain, Bar Et Grill, Restaurant Familial, Restaurant De Hamburgers, Restaurant À Emporter","8 Av Des Vingt-Huit Arpents, Bonneuil-sur-Marne",0
+94011,Kyotorama,ChIJ974ag3sL5kcRIINSs9quyJM,"Restaurant Japonais, Restaurant De Sushis","31 Av. De Paris, Bonneuil-sur-Marne",2
+94011,Mamishe,ChIJ2zfmAmIL5kcR6kuu57bSOhI,"Restaurant De Hamburgers, Stand De Hot-Dogs, Restaurant Japonais, Restaurant Casher","64 Av. De Choisy, Bonneuil-sur-Marne",2
+94011,Dragonking,ChIJAQDsbYIM5kcRbbtr2G8k9sQ,Restaurant Asiatique,"Av. Du Colonel Fabien 11, Bonneuil-sur-Marne",2
+94011,Palais De Bonneuil,ChIJLemNXGYL5kcRrkVYY31AyOg,"Restaurant Buffet, Restaurant Chinois, Restaurant Japonais, Restaurant, Restaurant De Sushis","7 Av Des Vingt-Huit Arpents, Bonneuil-sur-Marne",2
+94011,Papylee,ChIJda-WUX0L5kcRtphAlEbEKd8,Restaurant Asiatique,"1-3 Av. Du Bicentenaire 1789-1989 À E.leclerc, Bonneuil-sur-Marne",2
+94015,Grill Bodrum,ChIJwzGD2fMN5kcRIsH2cmVSQQY,"Restaurant, Kebab","10 Bd Du Maréchal Foch, Noisy-le-Grand",1
+94015,Restaurant Sympathique,ChIJL1n2vOMN5kcRizXF6f9QVj8,Kebab,"8 Gd Rue Charles De Gaulle, Bry-sur-Marne",1
+94015,Le Magnifique,ChIJ4d4wTJYN5kcRfN1KkIOAv3I,"Kebab, Restaurant De Restauration Rapide, Restaurant","230 Av. Pierre Brossolette, Le Perreux-sur-Marne",1
+94015,Restaurant Big Boss,ChIJOXca_4cN5kcRSTCGAjTCzA4,"Restaurant Halal, Restaurant De Hamburgers, Kebab, Restaurant De Plats De Viande","8 Blvd Gallieni, Neuilly-Plaisance",1
+94015,Friday Food,ChIJj8FpRd0N5kcRJZAJTCfaiKs,"Restaurant De Restauration Rapide, Restaurant À Emporter, Restaurant Pakistanais, Restaurant De Pizzas, Restaurant, Restaurant Turc","35 Rte De Bry, Villiers-sur-Marne",1
+94015,Chicken Palace,ChIJL-hmAB8N5kcRRzdHWEpglTw,Restaurant Barbecue,"14 Bd Du Maréchal Foch, Noisy-le-Grand",0
+94015,Le Score,ChIJSUi0tPIN5kcRiLLIDKbW7jo,"Brasserie, Bar","39 Bd Du Général Gallieni, Bry-sur-Marne",0
+94015,L'alexandrin,ChIJkf2Hz20N5kcRh0aLJkMD6Iw,"Brasserie, Bar, Café, Hôtel","33 Gd Rue Charles De Gaulle, Bry-sur-Marne",0
+94015,Backstage Café,ChIJu8tEnOgN5kcRnmWMntWLS5Y,"Restaurant, Bar, Brasserie","2 Av. De L'europe, Bry-sur-Marne",0
+94015,La Petite Tromenie,ChIJJVjzjpQN5kcRhnP1lRLXNDc,"Crêperie, Restaurant Français, Restaurant, Magasin De Salades","Lundis Fermés Pendant Les Vacances Scolaires, Bry-sur-Marne",0
+94015,Bolkiri Bry-Sur-Marne Street Food Viêt,ChIJy9ywZBAN5kcRuEzE53JZUys,"Restaurant Vietnamien, Restaurant Asiatique, Restaurant Chinois, Restaurant De Restauration Rapide, Restaurant De Livraison, Restaurant À Emporter, Restaurant Pho, Restaurant, Restaurant Thaïlandais, Restaurant De Wok","6 Pl. Carnot, Bry-sur-Marne",2
+94015,Taj Mahal Restaurant Indien,ChIJq6parcIN5kcRkluP9097sYk,"Restaurant Indien, Restaurant Chinois","41 Rte De Bry, Villiers-sur-Marne",2
+94015,Hoki Sushi,ChIJe7f7NHYS5kcRKBx53NIFdTs,"Restaurant Japonais, Restaurant Buffet","33 Blvd Gallieni, Neuilly-Plaisance",2
+94015,My Little Warung Noisy-Le-Grand,ChIJA4W_-AQN5kcRLpoCDe0orbc,"Restaurant De Fondue Chinoise, Restaurant De Restauration Rapide, Restaurant Indonésien, Restaurant À Emporter, Restaurant De Nouilles, Restaurant Sud-Asiatique, Restaurant Thaïlandais, Restaurant Végétalien, Restaurant Végétarien, Restaurant Vietnamien","3 Bd Du Mont D'est, Noisy-le-Grand",2
+94015,Royal Plaisance,ChIJSYI5B3gS5kcRaI1O-sysLtA,"Restaurant Chinois, Restaurant Thaïlandais","11 Blvd Gallieni, Neuilly-Plaisance",2
+94016,Al Doken,ChIJiUiIiKFx5kcRkon6l_1zO3o,"Restaurant Tunisien, Traiteur, Restaurant","107 Av. Aristide Briand, Cachan",1
+94016,Butcher Square,ChIJP1EV4Ndx5kcRA15_EEtdCMQ,"Restaurant Italien, Restaurant Halal, Restaurant De Pizzas, Restaurant","31 Av. Du Pont Royal, Cachan",1
+94016,O'braisé,ChIJf-oUzk9x5kcR0IKPrImTk1Q,"Restaurant De Restauration Rapide, Poulet Frit À Emporter, Restaurant Halal, Restaurant De Hamburgers","31 Av. Du Pont Royal, Cachan",1
+94016,Meister,ChIJvZq2mldx5kcR1HTex3GlwYc,"Kebab, Restaurant De Kebab Doner, Restaurant De Restauration Rapide, Restaurant","25 Av. Aristide Briand, Cachan",1
+94016,Riad Fes,ChIJfSnrjzFx5kcRXRlPGH4xHYU,Restaurant Marocain,"14 Pl. Jacques Carat, Cachan",1
+94016,Instant-Lunch,ChIJyeTGd4dx5kcR_GL_r_HUxI8,"Restaurant, Restaurant Brunch, Traiteur","1 Rue Emile Raspail, Arcueil",0
+94016,Mcdonald's,ChIJOTCrPSFx5kcRs5dIy0UFtgU,"Restaurant De Restauration Rapide, Restaurant Américain, Restaurant De Hamburgers, Restaurant De Pizzas, Restaurant, Sandwicherie","149/151 Av. Aristide Briand, Cachan",0
+94016,Gwenn Ha Du,ChIJ9dEAVT5x5kcRyz7sXdcKnI4,"Crêperie, Restaurant","30 Pl. Jacques Carat, Cachan",0
+94016,Le Lorada,ChIJLxOPeyJx5kcRGw1mgPC5oOc,"Restaurant Français, Restaurant De Pizzas, Pizza À Emporter, Restaurant Traditionnel","2 Rue Condorcet, Cachan",0
+94016,Valflor Café,ChIJucO4rT5x5kcRCgLo0pGuLs0,"Restaurant Portugais, Café, Brasserie","43 Av. Dumotel, Cachan",0
+94016,Le Palais De Cachan,ChIJ3USwlUVx5kcR1Tyk4VGSqHU,"Restaurant Chinois, Restaurant","27 Av. Aristide Briand, Cachan",2
+94016,Hoki Yaki,ChIJiRqTMRlx5kcR92fkB09DpBE,"Restaurant Japonais, Restaurant Asiatique, Restaurant Chinois, Restaurant, Restaurant De Sushis","33 Av. Aristide Briand, Cachan",2
+94016,O'kashmir,ChIJ6_DYvE1x5kcRE16zPJznKmA,Restaurant Indien,"14 B Av. Carnot, Cachan",2
+94016,Toyama,ChIJRTGq2q1x5kcREXaL8uoTX90,Restaurant Japonais,"8 Pl. Jacques Carat, Cachan",2
+94016,Régal Thaï,ChIJjdhxO-Bx5kcRsv0TmeBHfkE,Restaurant Thaïlandais,"15 Av. Aristide Briand, Cachan",2
+94017,786 - Champigny-Sur-Marne I Brasserie & Burger,ChIJ01yRiawN5kcRyQyvCR0U47Y,"Restaurant, Restaurant De Restauration Rapide, Restaurant Halal, Restaurant De Hamburgers, Brasserie","28 Rue Jean Jaurès, Champigny-sur-Marne",1
+94017,Restaurant Le Maroc,ChIJeZEqHhsN5kcRIxJkEQhfQhU,Restaurant Marocain,"16 Av. Du Général De Gaulle, Champigny-sur-Marne",1
+94017,Restaurant Chez Yunus,ChIJh0igrhsN5kcRytwxRAzqxoU,"Restaurant De Restauration Rapide, Kebab","3 Av. Du Général De Gaulle, Champigny-sur-Marne",1
+94017,Burger Parisien (Halal),ChIJ5XNvlmgN5kcRuXji2H_F0k8,"Restaurant De Hamburgers, Bar À Cocktails","186 Bd De Stalingrad, Champigny-sur-Marne",1
+94017,Pacha Grill,ChIJpR7JKLMN5kcRv6lWtcWSyYA,Restaurant Turc,"36 Rue Louis Talamoni, Champigny-sur-Marne",1
+94017,Brasserie De La Mairie,ChIJJe_SorIN5kcRcFpjnjitGH8,"Restaurant Français, Bar, Restaurant Du Déjeuner, Restaurant Traditionnel","2 Rue Louis Talamoni, Champigny-sur-Marne",0
+94017,Café Restaurant Le Trotteur,ChIJWw-WfBkN5kcRIwPpDs2vWyc,"Restaurant, Bar, Magasin De Bière, Pâtisserie, Bar À Cocktails, Restaurant Français, Restaurant De Hamburgers, Restaurant Du Moyen-Orient, Bar À Vin","9 Av. Roger Salengro, Champigny-sur-Marne",0
+94017,Ô Bouillon,ChIJA9i4IXwN5kcRPciT3mxM8VI,Restaurant Français,"309 Av. Du Général De Gaulle, Champigny-sur-Marne",0
+94017,Restaurant A La Maison.,ChIJ6SatoAgN5kcRT0b4SeOv7ws,"Restaurant Français, Restaurant","128 Av. Du Général De Gaulle, Champigny-sur-Marne",0
+94017,Restaurant Mar Azul,ChIJa1XPx8gN5kcRITTKK2IDVQc,"Restaurant De Fruits De Mer, Restaurant Barbecue, Restaurant Portugais","34 Rue Benoît Frachon, Champigny-sur-Marne",0
+94017,Restaurant Ravana - Champigny-Sur-Marne,ChIJCd7NbkwN5kcRU964bkU4hUQ,"Restaurant Indien, Restaurant Indien Musulman, Restaurant Sri-Lankais, Restaurant Traditionnel","8 Av. De La République, Champigny-sur-Marne",2
+94017,Restaurant Panda Champigny Sur Marne,ChIJ-fzLa84N5kcRjPRUJvftv-I,"Restaurant, Restaurant Chinois, Restaurant De Sushis","8-10 Rue Serpente, Champigny-sur-Marne",2
+94017,Le Punjab,ChIJ3b_e2xoN5kcRcg-RZjdhtJs,Restaurant Indien,"17-19 Av. Du Général De Gaulle, Champigny-sur-Marne",2
+94017,New Achiana,ChIJzRi59QQN5kcRF09MPXqXtXs,"Restaurant Indien, Bar, Restaurant Végétarien","7 Rue Maurice Pirolley, Champigny-sur-Marne",2
+94017,Sashimi-Ya,ChIJqYM6uBsN5kcROQbCwR4mB_o,"Restaurant Japonais, Restaurant De Sushis","16 Av. Roger Salengro, Champigny-sur-Marne",2
+94018,Restaurant L'etoile,ChIJIf5gP_9y5kcR6y4lI2rMFK4,"Restaurant Turc, Kebab","43 Quai Des Carrières, Charenton-le-Pont",1
+94018,La Petite Terrasse,ChIJgRK5vfxy5kcRLVsOYxKe5lY,"Kebab, Restaurant","16 Rue De Paris, Charenton-le-Pont",1
+94018,Au Libanais De Saint-Maurice.,ChIJmas7svxy5kcRQooxaO-YCj0,Restaurant Libanais,"8 Av. Du Maréchal De Lattre De Tassigny, Saint-Maurice",1
+94018,Restaurant Léa,ChIJV1DDV49z5kcRc93zEvHJW7c,Restaurant Libanais,"152 Rue De Paris, Charenton-le-Pont",1
+94018,Boulangerie Pâtisserie Breads Paradise,ChIJD1gaN7Vz5kcRhSTaeQawIks,"Boulangerie, Pâtisserie, Traiteur, Restaurant De Restauration Rapide, Restaurant Français, Restaurant Halal, Pâtisserie, Sandwicherie, Restaurant Végétarien","24 Rue Eugène Renault, Maisons-Alfort",1
+94018,Le Bistrot De Charenton,ChIJvUWY-Fdy5kcRbR9D8o1Xh5A,Restaurant Français,"123 Rue De Paris, Charenton-le-Pont",0
+94018,Tante Eugénie,ChIJmx2M-Vdy5kcRJaLv2Q2iOtU,"Restaurant, Café, Brasserie","121 Rue De Paris, Charenton-le-Pont",0
+94018,La Bolée D'arvor,ChIJoyBffPxy5kcRYBY6xvceTyw,"Crêperie, Bar, Restaurant Français, Restaurant À Emporter","38 Rue De Paris, Charenton-le-Pont",0
+94018,Le Paris Sports.,ChIJnYp0Nlhy5kcRC8lflPNu_4U,"Brasserie, Brasserie","116 Rue De Paris, Charenton-le-Pont",0
+94018,Tupinambá,ChIJeYHInrhz5kcR_0BKBpTIlWc,"Restaurant Brésilien, Restaurant Français, Restaurant Méditerranéen","37 Rue Gabriel Péri, Charenton-le-Pont",0
+94018,Le Pavillon Céleste,ChIJnYp0Nlhy5kcRwzY-VNBKRk8,Restaurant Asiatique,"116 Bis Rue De Paris, Charenton-le-Pont",2
+94018,La Maison De Diep,ChIJIwptvfxy5kcRw7viFPkxgwQ,"Restaurant Vietnamien, Restaurant","18 Rue De Paris, Charenton-le-Pont",2
+94018,En-Lai.,ChIJwbrvTvhy5kcRZMBbstJPJg8,"Restaurant Mandarin, Restaurant Asiatique","101 Rue De Paris, Charenton-le-Pont",2
+94018,Tandem Saveurs Nomades,ChIJcW2cX-dz5kcRsRMiJnCqgGY,"Restaurant, Restaurant De Fusion Asiatique, Restaurant Fusion, Restaurant Européen Moderne, Restaurant Nuevo Latino","50 Av. Du Maréchal De Lattre De Tassigny, Saint-Maurice",2
+94018,Huatian Chinagora Restaurant,ChIJOY72tf9y5kcRGKM2YKrJwpA,Restaurant Chinois,"France-Chine, Alfortville",2
+94019,Grill Istanbul,ChIJ-dDs3icM5kcRMvoHSgMtn5M,Restaurant Turc,"28 Rte De La Libération, Chennevières-sur-Marne",1
+94019,Waffle'n Truck,ChIJXSJGASoN5kcR7qa4hbH3wMg,"Restaurant, Restaurant Belge, Restaurant De Cuisine Campagnarde, Restaurant Halal","17 Rue Du Fossé Vert, Chennevières-sur-Marne",1
+94019,Restaurant Riad Salam,ChIJXwxFVjgM5kcR4D3wF8U-2cw,"Restaurant Marocain, Restaurant Arabe, Restaurant Halal, Restaurant, Salon De Thé","101 Quai Winston Churchill, Saint-Maur-des-Fossés",1
+94019,Pitaya Thaï Street Food,ChIJxSWKrLcP5kcR2hTriV-iggk,"Restaurant De Restauration Rapide, Restaurant Halal, Restaurant De Fondue Chinoise, Restaurant Panasiatique, Restaurant, Restaurant D'asie Du Sud-Est, Restaurant Thaïlandais, Restaurant De Wok","Centre Commercial Pince Vent, Chennevières-sur-Marne",1
+94019,Grill Istanbul,ChIJWTVgA5cO5kcRy6J7Mi8_LWE,"Restaurant Turc, Restaurant De Restauration Rapide","85 Rte De Provins, Chennevières-sur-Marne",1
+94019,La Veranda,ChIJj5w7iqAN5kcRgVhavH2qzas,"Restaurant Créole, Magasin De Bière, Bar À Cocktails, Restaurant Français, Glacier, Restaurant De Fruits De Mer, Bar À Vin","69 Rue De Champigny, Chennevières-sur-Marne",0
+94019,L'italien Restaurant,ChIJRcclxygM5kcRP-Glyyyc25U,"Restaurant, Restaurant Français","3 Rte De La Libération, Chennevières-sur-Marne",0
+94019,Le Duo,ChIJTwW_f50O5kcRM-QdtXa6m0Q,"Restaurant, Restaurant Barbecue, Restaurant Portugais, Restaurant Traditionnel","73 Rue Des Fusillés De Châteaubriant, Chennevières-sur-Marne",0
+94019,L'ecu De France,ChIJ43sipj4M5kcRFjrI0kOxT3c,"Restaurant Français, Restaurant Gastronomique","31 Rue De Champigny, Chennevières-sur-Marne",0
+94019,Pizza Food,ChIJZU9bsTwM5kcR7kykQ0L1i8g,"Restaurant De Pizzas, Restaurant De Restauration Rapide, Restaurant Français, Restaurant Italien, Livraison De Pizzas, Restaurant","34 Rue Du Général De Gaulle, Chennevières-sur-Marne",0
+94019,Sushi Wasabi 7 - Restaurant,ChIJV9Wo5ScM5kcRTK96fbodhu8,"Restaurant De Sushis, Restaurant Chinois, Restaurant Japonais, Restaurant Mandarin","25 Bis Rte De La Libération, Chennevières-sur-Marne",2
+94019,Out Fry - Korean Fried Chicken By Taster,ChIJ-3Co92UN5kcRY42wnvxBlMQ,"Restaurant À Emporter, Restaurant Asiatique, Restaurant De Poulet, Restaurant De Restauration Rapide, Restaurant Coréen","71 Rue Du Général De Gaulle, Chennevières-sur-Marne",2
+94019,Shuriken Sushi,ChIJKbn4_6cN5kcR0yNILHkMJzg,Restaurant Japonais,"France, Ormesson-sur-Marne",2
+94019,Matsuko（ Sushi Bar）,ChIJp45BlZcO5kcRiuycYl2s66A,"Restaurant De Fusion Asiatique, Restaurant Japonais, Restaurant De Sushis, Restaurant Yakitori","France, Ormesson-sur-Marne",2
+94019,Le Bonheur De Chine,ChIJ7QbjbxgM5kcRfooucbTtSpM,"Restaurant Chinois, Restaurant Asiatique, Restaurant Chinois De Livraison, Restaurant","Rue D'amboile, Chennevières-sur-Marne",2
+94021,Les Maraîchers,ChIJa3bbSKFz5kcRQouYLQAondk,"Restaurant, Bar, Kebab, Restaurant À Emporter, Restaurant De Pizzas, Pizza À Emporter, Brasserie","20 Av. Du Viaduc, Chevilly-Larue",1
+94021,Best Break,ChIJ1bk85wZ05kcRY-DvuU7ehXE,"Restaurant De Restauration Rapide, Restaurant Halal, Sandwicherie","12 Pl. Du Maréchal De Lattre De Tassigny, Chevilly-Larue",1
+94021,Calm's,ChIJ_boHcwR05kcRRiOz2Yi6iFo,"Restaurant De Hamburgers, Restaurant Américain, Poulet Frit À Emporter, Restaurant Halal, Restaurant Mexicain","7 Rue Pasteur, Chevilly-Larue",1
+94021,Nuevo Mexico,ChIJOyzAvJd15kcRihbIuGIiSGU,Restaurant Halal,"7 Rue Pasteur, Chevilly-Larue",1
+94021,Andiamo Pizza,ChIJt-mGfUVx5kcRvObtKY3SX8w,"Restaurant De Pizzas, Restaurant De Restauration Rapide, Restaurant Grec, Restaurant Halal, Restaurant, Sandwicherie, Restaurant Turc","117 Rue De Bicètre, L'Haÿ-les-Roses",1
+94021,La Criée Chevilly Larue,ChIJufXqMwR05kcRd8gpyv8ESwk,"Restaurant, Service De Livraison, Restaurant De Poisson-Frites, Restaurant De Poissons, Restaurant De Fruits De Mer","218 Av. De Stalingrad, Chevilly-Larue",0
+94021,Café Nelson,ChIJD4HPWAB15kcR6tBxoglTxEA,"Brasserie, Café, Restaurant","35 Av. Du Président Franklin Roosevelt, Chevilly-Larue",0
+94021,Taverna,ChIJyTZEVQR05kcR5KLYRh-bdvc,"Restaurant, Restaurant Barbecue, Restaurant Français, Restaurant Italien","248 Av. De Stalingrad, Chevilly-Larue",0
+94021,Les Vendanges,ChIJ74CRWaZ25kcR2hTY4tAExdY,"Restaurant, Restaurant Français","1 Av. De Bretagne, Chevilly-Larue",0
+94021,L’étoile,ChIJSRPSQaZ25kcRqIq3lPKxNXY,"Gastro-Pub, Bar, Bar Et Grill, Restaurant Français, Restaurant À Emporter, Restaurant, Brasserie, Sandwicherie","1 Rue De Lorraine, Chevilly-Larue",0
+94021,Restaurant Bangkok,ChIJtR_IEAN05kcRv7VHEtRe2PQ,Restaurant Thaïlandais,"4 Pl. De La Libération, Chevilly-Larue",2
+94021,Japan Thaï,ChIJlXsPwUZ15kcRmQws0pYGwJc,Restaurant Japonais,"16 Rue Edith Piaf, Chevilly-Larue",2
+94021,Edo Asian Bar,ChIJryoDXgB35kcR2bJVutKrs9Q,Restaurant Asiatique,"France, Chevilly-Larue",2
+94021,Mangue Thaï,ChIJRdmMXx115kcRLgguEAp4iRg,Restaurant Asiatique,"Unnamed Road, Thiais",2
+94021,Tamaya,ChIJtT_flxd05kcRRY1CBADckbs,Restaurant Japonais,"Belle Épine, Thiais",2
+94022,Caravana Choisy Le Roi,ChIJgx6Rbg515kcRh8t54OwJWtQ,"Restaurant, Restaurant Halal, Restaurant De Livraison","23 Av. Louis Luc, Choisy-le-Roi",1
+94022,O'tacos Choisy Le Roi,ChIJA7P_1Yd05kcRsXmljkmEN4g,"Restaurant De Restauration Rapide, Restaurant, Restaurant De Tacos","34 Galerie Rouget De Lisle, Choisy-le-Roi",1
+94022,786 - Choisy-Le-Roi I Brasserie & Burger,ChIJF2ePcDR15kcRyOZmIpQyudY,"Restaurant, Restaurant De Restauration Rapide, Restaurant Halal, Brasserie","4 Bd De Stalingrad, Choisy-le-Roi",1
+94022,Safari Delices,ChIJwW8fGJ915kcRxsS6R2Abslk,Restaurant Halal,"23 Rue Guy Môquet, Choisy-le-Roi",1
+94022,Chicken Street,ChIJRfiJFUV15kcR0R7pY5EYlfY,"Restaurant Halal, Restaurant De Poulet, Restaurant D'ailes De Poulet, Restaurant Familial, Restaurant De Restauration Rapide, Poulet Frit À Emporter, Restaurant De Hamburgers, Restaurant De Livraison, Restaurant","31 Av. Anatole France, Choisy-le-Roi",1
+94022,Restaurant Le Phare De Seine,ChIJs_CYtpp05kcRdJb-L6nOthE,"Restaurant, Bar, Restaurant Français, Restaurant Français Moderne","25 Av. De Villeneuve Saint-Georges, Choisy-le-Roi",0
+94022,Le Contrepoids,ChIJlQ9llf515kcRt3kDIgXwohg,"Restaurant, Restaurant Français","32 Av. Anatole France, Choisy-le-Roi",0
+94022,Le Saint Louis,ChIJAQBU7Id05kcRNxRPiG7nWG0,"Brasserie, Restaurant Français","18 Bd Des Alliés, Choisy-le-Roi",0
+94022,La Marine,ChIJ7_ygk4905kcRKCL5OAZWBH4,"Restaurant, Restaurant Français","52 Av. Louis Luc, Choisy-le-Roi",0
+94022,Bar Restaurant L'eden,ChIJa5k0V31z5kcRluilzQ3Gfvw,"Restaurant, Bar, Restaurant Français, Restaurant Portugais","115 Av. D'alfortville, Choisy-le-Roi",0
+94022,Tagawa,ChIJ4534OoZ05kcR4x0ZpaWAn84,"Restaurant Japonais, Restaurant De Sushis","Av. Jean Jaurès, Choisy-le-Roi",2
+94022,Zaki Sushi,ChIJbQJy34R05kcR_Lr1y80JrwE,"Restaurant De Sushis, Restaurant Japonais, Restaurant","14 Av. Louis Luc, Choisy-le-Roi",2
+94022,Jardin Du Printemps,ChIJiUFDPJt05kcRsu4tpxpMlwc,"Restaurant Asiatique, Restaurant Japonais, Restaurant, Restaurant De Sushis","18 Av. Victor Hugo, Choisy-le-Roi",2
+94022,Ducky’s,ChIJM2UJkdB15kcRCpl9Ayv-KiA,"Restaurant Asiatique, Restaurant Chinois","15 Rue Du Dr Roux, Choisy-le-Roi",2
+94022,Gongfu Nouilles,ChIJ9xO4Qs515kcRspa2wvM-pvA,"Restaurant Chinois, Restaurant Asiatique","26 Av. Anatole France, Choisy-le-Roi",2
+94028,Brendy's Café Créteil,ChIJDSpyIK8N5kcRf5Z-lAdjHtc,"Restaurant Halal, Restaurant Familial, Restaurant De Restauration Rapide, Restaurant De Hamburgers, Restaurant À Emporter, Restaurant","Av. De La France Libre, Créteil",1
+94028,La Cantine Libanaise - Creteil,ChIJh5a8dGYN5kcRNgiqwFcf2cw,"Restaurant Libanais, Traiteur","7 Avenue Des Compagnons De La Libération, Soleil, Créteil",1
+94028,Le Palais Du Maroc.,ChIJh43rjK4M5kcRxSATPMvxSjU,Restaurant Marocain,"Créteil Soleil Centre Commercial Régional, Créteil",1
+94028,Orien'table (Traiteur/Cuisine Libanaise),ChIJm0KnGMgM5kcRr20au3kGNEY,"Restaurant Libanais, Restaurant Halal","14 Rue Du Général Leclerc, Créteil",1
+94028,Foulo,ChIJPcaJ1LkM5kcR_9fhcc0IFcE,"Restaurant, Restaurant Buffet, Restaurant Halal, Restaurant De Fondue Chinoise, Restaurant Mandarin","16 Rue De Joly, Créteil",1
+94028,Domaine Sainte Catherine,ChIJS3864cAM5kcRtE4_9NV9Fh8,Restaurant Français,"22 All. Centrale, Créteil",0
+94028,Indiana Café - Créteil Soleil,ChIJjb0BK4cN5kcRhsRuHhz8lBo,"Restaurant Américain, Bar, Restaurant Familial","Centre Commercial Régional Créteil-Soleil, Créteil",0
+94028,Hippopotamus Steakhouse,ChIJhcL57K4M5kcRWXQ1SdunJsE,"Restaurant, Bar Et Grill, Restaurant Barbecue, Dîner, Restaurant Familial, Restaurant Français, Restaurant À Emporter, Steak House","Centre Commercial Régional Créteil-Soleil Niveau 3, Créteil",0
+94028,Brasserie Le Cm,ChIJkUrOPrgM5kcRdd5TDtNM1X8,"Restaurant, Brasserie","48 Rue Du Général Leclerc, Créteil",0
+94028,Le Miam's,ChIJbSvVWktz5kcRX2Qi6MTJwJc,"Restaurant De Restauration Rapide, Restaurant Américain, Restaurant De Hamburgers, Restaurant De Livraison, Restaurant, Sandwicherie, Service D'expédition","30 Av. Du Maréchal Lyautey, Créteil",0
+94028,Thaï Basilic Créteil Soleil,ChIJN85lo4MN5kcRKOZe5ZeOBCg,"Restaurant Thaïlandais, Restaurant Asiatique, Restaurant","101 Av. Du Général De Gaulle, Créteil",2
+94028,Jardin Du Prince,ChIJc8N1vFYN5kcRKXKoA9sjxYo,"Restaurant Indien, Restaurant","39 Rue Paul François Avet, Créteil",2
+94028,Le Bonheur Thaï,ChIJGxECk8sM5kcRcZmeWqUD96E,Restaurant Asiatique,"45 Av. Du Maréchal De Lattre De Tassigny, Créteil",2
+94028,Sushi Way Créteil Soleil,ChIJv6bY-zQN5kcR7NvfiVT5bIE,Restaurant Japonais,"101 Av. Du Général De Gaulle, Créteil",2
+94028,Shinoboy - Korean Street Food,ChIJf5-igPBz5kcRWIFwPEU9MrM,Restaurant Coréen,"26 All. Parmentier, Créteil",2
+94033,Saveur De Montreuil,ChIJCX13MUUT5kcR4bb0-qqGtIE,"Restaurant À Emporter, Restaurant Halal","254 Bd Théophile Sueur, Montreuil",1
+94033,Le New Berbère,ChIJV-0NslQN5kcRksT_spL9vhA,"Restaurant, Restaurant Barbecue, Restaurant Marocain","143 Rue Dalayrac, Fontenay-sous-Bois",1
+94033,Street Wok,ChIJ1zCNqlxz5kcRIJvQklE7pM8,"Restaurant Thaïlandais, Restaurant De Fusion Asiatique, Restaurant Halal, Restaurant De Fondue Chinoise, Restaurant Indien Musulman, Restaurant Indien Moderne","4 Bis Av. De Stalingrad, Fontenay-sous-Bois",1
+94033,L'empreinte Saray Grill,ChIJmwBoylQN5kcR5mN7v4IOtbs,Restaurant Turc,"2 Av. De La République, Fontenay-sous-Bois",1
+94033,Restaurant Istanbul,ChIJ3WLAiqcS5kcRtUnB7zfya7Q,"Restaurant Turc, Gril, Kebab","57 Bd De Verdun, Fontenay-sous-Bois",1
+94033,Les Clanchistes,ChIJ04-WeVQN5kcR-ICcxUNF3gs,Restaurant Français,"99 Rue Dalayrac, Fontenay-sous-Bois",0
+94033,Pub Brasserie Le Village,ChIJWe5vuFsN5kcRnOmbwFSRe7w,"Brasserie, Restaurant Barbecue, Brasserie, Bar À Cocktails, Charcuterie, Restaurant De Hamburgers, Pub, Magasin De Salades, Bar Sportif, Bar À Vin","8 Pl. Du Général Leclerc, Fontenay-sous-Bois",0
+94033,Bistrot Des Rosettes,ChIJUY-ka1oN5kcR0O34DMfj7e4,Bistro,"1 Rue Du Commandant Jean Duhail, Fontenay-sous-Bois",0
+94033,Meve Association,ChIJCc6SEBwT5kcRRl6al_4SyE4,Restaurant Américain,"Pl. Des Larris, Fontenay-sous-Bois",0
+94033,Le Bistrot Du Coin,ChIJt6WoIeFz5kcRarmQzHF1SuA,"Restaurant, Bistro","257 Rue Diderot, Vincennes",0
+94033,Restaurant Himalaya,ChIJXepxJmwN5kcRc3yc6UbnLFo,"Restaurant Indien, Restaurant Népalais","4 Rue De L'ancienne Mairie, Fontenay-sous-Bois",2
+94033,Izu Sushi Fontenay-Sous-Bois,ChIJi3B9j1oN5kcRT_Y2DrHHyxo,"Restaurant Asiatique, Restaurant Chinois, Restaurant Japonais, Restaurant De Livraison, Restaurant À Emporter, Restaurant, Restaurant De Sushis, Sushis À Emporter, Restaurant Thaïlandais, Restaurant Vietnamien","21 Rue Du Commandant Jean Duhail, Fontenay-sous-Bois",2
+94033,Le Kohistan,ChIJSzdXiloN5kcRH4whpwjpWes,"Restaurant Indien, Bar, Restaurant","10 Rue Grognard, Fontenay-sous-Bois",2
+94033,Genki,ChIJ_U2l8ioN5kcRh2R6pT-FeNk,"Restaurant De Ramen, Restaurant De Curry Japonais, Restaurant Japonais, Restaurant Katsudon, Restaurant De Takoyaki, Restaurant Tonkatsu","116 Rue Dalayrac, Fontenay-sous-Bois",2
+94033,Restaurant Song Hoa,ChIJ4RHPlFEN5kcRUH9CPUEInQc,Restaurant Chinois,"2 Rue Mallier, Fontenay-sous-Bois",2
+94034,Restaurant Istanbul,ChIJX1JvrN125kcRTwI-5vsbRN4,Restaurant Turc,"33 Rue Henri Barbusse, Fresnes",1
+94034,Habibi Grill,ChIJvXhjaAB35kcRNOPu-ziNbaQ,"Restaurant Halal, Restaurant","7bis Rue Du Dr Charcot, Fresnes",1
+94034,Pizza Service,ChIJgVvyx8N25kcRxFqOtut6i6M,"Restaurant De Pizzas, Gril, Restaurant Halal, Restaurant De Hamburgers, Restaurant De Livraison, Restaurant, Brasserie, Sandwicherie","23 Av. De La Paix, Fresnes",1
+94034,Pizza Bellucci,ChIJDRIbBd125kcR-eeupaGIZE4,"Restaurant De Pizzas, Livraison De Pizzas, Pizza À Emporter, Sandwicherie, Service D'expédition, Restaurant De Tacos","33 Rue Henri Barbusse, Fresnes",1
+94034,Pizza Uno,ChIJUT4Er9l25kcRm1xbqusq5fw,"Restaurant, Restaurant De Couscous, Restaurant De Restauration Rapide, Restaurant Halal, Restaurant De Pizzas, Pizza À Emporter","47 Av. De La Liberté, Fresnes",1
+94034,L'amarelle,ChIJYVPYvel25kcRjJA06uXgjgo,"Brasserie, Restaurant","Zone De La Cerisaie, Fresnes",0
+94034,Au Bureau,ChIJISXqvOl25kcRTdqCSnoaw8A,"Restaurant, Bar, Restaurant Européen, Restaurant Français, Restaurant De Hamburgers, Restaurant Irlandais, Pub, Bar Sportif","Parc De La Cerisaie, Fresnes",0
+94034,Brasserie De L'hôtel De Ville,ChIJUy3ml-d25kcRaXzsz2ts_Gc,"Brasserie, Brasserie, Restaurant","1 Pl. De L'église, Fresnes",0
+94034,Crep'way,ChIJZwOX65Z35kcR6lpU6y-XaNA,Crêperie,"47 Av. De La Liberté, Fresnes",0
+94034,Ma Maison Renov - My Kitchen - Votre Cuisiniste Sur Antony - Un Seul Interlocuteur Pour Tous Vos Projets De Rénovation,ChIJtSOHMBV35kcR1hDN2ZRuOgU,"Rénovateur De Cuisine, Rénovateur De Salle De Bain, Magasin D'armoires, Entrepreneur Général, Restaurant Français Moderne, Menuisier","18 Rue Jean Moulin, Antony",0
+94034,Restaurant Indien Milane Tandoori Nan Kabab,ChIJfS4huOB25kcRGhXVPMx_uSM,"Restaurant Indien, Traiteur","21 Bd Jean Jaurès, Fresnes",2
+94034,Fujiyama,ChIJZ8Lixed25kcRbufhn-wYhE8,"Restaurant Japonais, Restaurant De Sushis","16b Rue Maurice Tenine, Fresnes",2
+94034,Jia Xin,ChIJu-j_Uwl35kcRxM3tboS38_8,Plats Chinois À Emporter,"50 Bd Pasteur, Fresnes",2
+94034,Lumières D’asie,ChIJWYytumx35kcRjDh6EXms6xk,Restaurant Chinois,"8bis Av. De Stalingrad, Fresnes",2
+94034,Atlantic,ChIJI9BGJwB35kcR7tXefybv4hk,"Restaurant, Restaurant Buffet, Restaurant Japonais","Zone La Cerisaie, Fresnes",2
+94037,Brikabrak,ChIJnRcpfKVx5kcRC47QWaLL_2c,Restaurant Marocain,"14 Av. Du Chaperon Vert, Arcueil",1
+94037,Sur Le Pouce,ChIJo_LcvHVx5kcREOpgqVkEmVo,"Restaurant Libanais, Traiteur, Sandwicherie","18 Rue Raymond Lefebvre, Gentilly",1
+94037,My House | Libanais,ChIJkSDFrB1x5kcRXEBwKLvrADs,"Restaurant Halal, Restaurant De Hamburgers, Restaurant Italien, Restaurant De Pizzas","22bis Av. Paul Vaillant Couturier, Gentilly",1
+94037,Boubou,ChIJfb5AsLtx5kcRfmdXDc-cqyA,"Restaurant, Restaurant Géorgien, Kebab","30 Av. Jean Jaurès, Gentilly",1
+94037,Le Cristal Burger,ChIJC2VZCaBx5kcRW_kiq96E4H8,"Restaurant De Restauration Rapide, Restaurant De Hamburgers, Restaurant De Tacos","75 Av. Paul Vaillant Couturier, Gentilly",1
+94037,Chez Louise,ChIJgxwqedxx5kcR-kedb-4EWnE,"Restaurant Français, Magasin De Bière, Bistro, Bar À Cocktails, Restaurant Du Déjeuner, Restaurant De Fruits De Mer, Restaurant Végétarien, Bar À Vin","2 Rue Lecocq, Gentilly",0
+94037,Le Sympathique,ChIJXcnM6oVx5kcRDhgDuKpMoCw,Restaurant Français,"21 Av. Jean Jaurès, Gentilly",0
+94037,Café Crème,ChIJkW067XVx5kcRHk9rpO1urn8,"Bar, Café, Brasserie","13 Av. Paul Vaillant Couturier, Gentilly",0
+94037,Restaurant Café Le Vaillant Gentilly,ChIJScOxj3Vx5kcRr8EsvFyC7o4,"Restaurant, Bar, Restaurant Français, Café, Brasserie","31 Av. Paul Vaillant Couturier, Gentilly",0
+94037,Costa Brava,ChIJlReCXwtx5kcR9MPfLPIUyvQ,"Restaurant Portugais, Restaurant Américain, Restaurant À Emporter, Restaurant, Brasserie","109 Rue Raymond Lefebvre, Gentilly",0
+94037,Le Petit Viet,ChIJ1X0utJdx5kcRHt9Zw275a6M,Restaurant Vietnamien,"29 Av. Paul Vaillant Couturier, Gentilly",2
+94037,Pho Bonjour De Gentilly,ChIJU0c-SqBx5kcR85JLOPa9FKk,Restaurant Vietnamien,"32 Av. Raspail, Gentilly",2
+94037,Old School,ChIJO-rdbglx5kcR6lMrYsWKPvs,"Restaurant Indien, Restaurant De Hamburgers, Restaurant","5 1ère Av., Gentilly",2
+94037,15 Baht,ChIJXU4a67Fx5kcR9g1srwufftk,"Restaurant Thaïlandais, Restaurant Asiatique, Bar, Restaurant Végétalien, Restaurant Végétarien","43 Rue Benoît Malon, Gentilly",2
+94037,Japjap Sushi,ChIJteivA8lx5kcRA8vwAh8DsFg,"Restaurant Japonais, Restaurant De Fondue Chinoise, Restaurant Régional Japonais, Restaurant, Restaurant De Sushis, Sushis À Emporter","34 Av. Raspail, Gentilly",2
+94038,Au Regal Original,ChIJ_cdqOnp35kcRM7PhplKKzLA,"Restaurant, Pâtisserie, Restaurant Français, Restaurant Halal, Restaurant De Hamburgers, Glacier, Restaurant Du Déjeuner, Sandwicherie, Restaurant Végétarien","1 All. Costes Et Bellonte, Chevilly-Larue",1
+94038,Tacos Numéro 1,ChIJI42rcNB25kcRj5PHdQmXKgI,"Restaurant De Tacos, Restaurant De Restauration Rapide, Restaurant Mexicain","1 A Rue Jean Moulin, Fresnes",1
+94038,Restaurant Antalya,ChIJP9ySd0px5kcRttOlOIGJUUs,Restaurant Turc,"7 Rue Dispan, L'Haÿ-les-Roses",1
+94038,Dare Wok (Dark Kitchen - Livraison Et À Emporter),ChIJsydZwFpx5kcRyRwsPSlpnXY,"Restaurant, Restaurant De Nouilles Chinoises, Plats Chinois À Emporter, Restaurant Chinois De Livraison, Restaurant Halal, Restaurant Mandarin, Restaurant À Emporter, Restaurant Panasiatique, Restaurant Thaïlandais, Restaurant De Wok","16 Rue Des Marronniers, L'Haÿ-les-Roses",1
+94038,Thai Life,ChIJJ-GtOKh35kcRSbGx37pv4j4,"Restaurant Thaïlandais, Restaurant Halal, Restaurant De Fondue Chinoise","6 Rue Marc Sangnier, L'Haÿ-les-Roses",1
+94038,Graffiti,ChIJoT-G4S9x5kcRSGc2EF8dGfo,"Restaurant, Magasin De Bière, Pâtisserie, Bar À Cocktails, Restaurant Français, Glacier, Restaurant Italien, Restaurant Méditerranéen, Pâtisserie","3 Rue Jean Jaurès, L'Haÿ-les-Roses",0
+94038,Chez Léon,ChIJibIB3Epx5kcR5ruG594G-5Y,"Restaurant, Restaurant Français","125 Bd Paul Vaillant Couturier, L'Haÿ-les-Roses",0
+94038,La Gourmandise,ChIJK77pdk1x5kcRaE17Ds4UXYs,"Boulangerie, Restaurant De Petit-Déjeuner, Pâtisserie, Chocolaterie, Boutique De Beignets, Restaurant Français, Pâtisserie, Sandwicherie","10 Rue Jules Ferry, L'Haÿ-les-Roses",0
+94038,Le Pavillon Normand,ChIJMwSUVs125kcRlHTfAmzfBG4,"Restaurant, Restaurant Français, Salon De Thé","Parc De La Roseraie Du, L'Haÿ-les-Roses",0
+94038,L'en-Cas,ChIJyaeWADVx5kcRE8KSBDQwJc8,Crêperie,"5 Rue Des Tournelles, L'Haÿ-les-Roses",0
+94038,Maru Restaurant,ChIJsSEX77V25kcRbTl6gb0NP6s,Restaurant Coréen,"58 Bd Jean Mermoz, Chevilly-Larue",2
+94038,Minato,ChIJ75v6c8h25kcRgHyYl2_kOek,Restaurant Japonais,"162 Bd Jean Mermoz, Chevilly-Larue",2
+94038,Le Grand Palais Du Bonheur,ChIJP76Kr7V25kcRtWNJZNZsBAk,"Restaurant Asiatique, Restaurant Chinois, Restaurant Thaïlandais, Restaurant Vietnamien","32 Av. Du Général De Gaulle, Chevilly-Larue",2
+94038,Koh Samiam Thaï Food,ChIJ_R6kftt35kcR5GUVwO4gVj0,Restaurant Thaïlandais,"84 Bd Jean Mermoz, Chevilly-Larue",2
+94038,Ayuko,ChIJd__ppLV25kcRx19UPWoZwj0,"Restaurant Japonais, Restaurant De Sushis, Sushis À Emporter, Restaurant Yakitori","7 Bd Jean Mermoz, Chevilly-Larue",2
+94041,L'avanos,ChIJibV3n8lz5kcR9HKspvLkqHs,"Restaurant, Magasin De Bière, Pâtisserie, Bar À Cocktails, Restaurant De Hamburgers, Glacier, Restaurant Turc, Restaurant Végétarien, Bar À Vin","19 Promenée Marat, Ivry-sur-Seine",1
+94041,31 Street Burgers - 94200 Ivry,ChIJKTy298Vz5kcRAIqcPtIdZIw,"Restaurant De Hamburgers, Restaurant Américain, Club D'anime, Restaurant Brunch, Restaurant Familial, Restaurant De Restauration Rapide, Restaurant Halal, Restaurant De Livraison, Restaurant À Emporter, Restaurant","15 Rue Gabriel Péri, Ivry-sur-Seine",1
+94041,O'tasty,ChIJj35rDMxz5kcR3xapQu0DC7k,"Restaurant De Tacos, Restaurant De Restauration Rapide, Restaurant Halal, Restaurant De Pizzas, Sandwicherie","55 Rue Jean Le Galleu, Ivry-sur-Seine",1
+94041,Nudem,ChIJ68mb20xy5kcRz6SRt5OUu38,Restaurant Turc,"53 Rue Lénine, Ivry-sur-Seine",1
+94041,Restaurant Sile,ChIJaZTEx_Vz5kcR3rniggWOdBw,Kebab,"70 Bd Paul Vaillant Couturier, Ivry-sur-Seine",1
+94041,Le Petit Crepio Sas,ChIJxeEMkzJy5kcRbLYb6b00kMg,"Crêperie, Restaurant Français","58 Ter Av. Maurice Thorez, Ivry-sur-Seine",0
+94041,Le Carré,ChIJfQADTK1z5kcR1hn0Iq_DRP4,"Restaurant, Café, Restaurant Français, Brasserie","2 Pl. De L'insurrection D'août 1944, Ivry-sur-Seine",0
+94041,Little Kitchen,ChIJ8UtVLshz5kcRR47J8Z3FXAE,"Restaurant, Bistro, Brasserie","49 Av. Maurice Thorez, Ivry-sur-Seine",0
+94041,Soho Restaurant,ChIJs29CgJdz5kcRvw-xpgaF_PU,Restaurant Américain,"101 Av. Maurice Thorez, Ivry-sur-Seine",0
+94041,Chez Alain - Ivry-Sur-Seine,ChIJcfouGcpz5kcRcz-KGYe_o_s,Restaurant Français,"3 Rue Robespierre, Ivry-sur-Seine",0
+94041,Asian Food By Baze Ivry-Sur-Seine,ChIJLc7MtNhz5kcRnJ-S-zSYS14,Restaurant Asiatique,"45 Av. Maurice Thorez, Ivry-sur-Seine",2
+94041,Maison Viet,ChIJBYuu3wZz5kcRA9xB1LYnHig,Restaurant Vietnamien,"3 Rue Lénine, Ivry-sur-Seine",2
+94041,Tokyo Sushi,ChIJt9McQrZz5kcR9gYjU6AT7uw,Restaurant Japonais,"41 Rue Marat, Ivry-sur-Seine",2
+94041,Bangkok Karaoké,ChIJW6gSGSty5kcRHP_-3UcGseo,"Restaurant Thaïlandais, Bar Karaoké","2b Av. De Verdun, Ivry-sur-Seine",2
+94041,Sushi Edokko,ChIJa3IAdFJy5kcRO3xwIBnyVu0,Restaurant Japonais,"49 Bd Paul Vaillant Couturier, Ivry-sur-Seine",2
+94042,La Tajine D'or,ChIJXatj8ToN5kcRNZZ2ddrI3DI,Restaurant Algérien,"59 Quai De La Marne, Joinville-le-Pont",1
+94042,Restaurant Norhane,ChIJda7f4NkN5kcRExs7Y_qzNZg,Restaurant Libanais,"84/86 Av. Du Général Gallieni, Joinville-le-Pont",1
+94042,Enjoy Bubble,ChIJ394RdbIN5kcRzy-GPJY38L0,"Crêperie, Restaurant De Desserts, Restaurant De Restauration Rapide, Restaurant Halal","78 Av. Du Général Gallieni, Joinville-le-Pont",1
+94042,Restaurant Chez Yunus,ChIJh0igrhsN5kcRytwxRAzqxoU,"Restaurant De Restauration Rapide, Kebab","3 Av. Du Général De Gaulle, Champigny-sur-Marne",1
+94042,Mimosa Grill,ChIJXZJt0QYN5kcREHo0i3cxPzQ,Restaurant Turc,"30 Av. Roger Salengro, Champigny-sur-Marne",1
+94042,Café Restaurant Le Trotteur,ChIJWw-WfBkN5kcRIwPpDs2vWyc,"Restaurant, Bar, Magasin De Bière, Pâtisserie, Bar À Cocktails, Restaurant Français, Restaurant De Hamburgers, Restaurant Du Moyen-Orient, Bar À Vin","9 Av. Roger Salengro, Champigny-sur-Marne",0
+94042,Restaurant Le Petit Pont,ChIJDZDIriQN5kcRtvc570KcAmc,"Restaurant Français, Bistro","40 Av. Jean D'estienne D'orves, Joinville-le-Pont",0
+94042,Au Cheval Blanc,ChIJ-08dXiYN5kcRF5ZOUxAZxW8,"Brasserie, Bar, Restaurant De Pizzas, Restaurant","41 Rue De Paris, Joinville-le-Pont",0
+94042,Germain,ChIJg7nmpTwN5kcRxlUr-QBropc,"Restaurant, Brasserie, Fournisseur De Nourriture Et De Boissons Pour La Restauration, Restaurant Familial, Restaurant De Poissons, Restaurant Français, Restaurant De Plats De Viande","1 Ter Quai De La Marne, Joinville-le-Pont",0
+94042,La Mascotte,ChIJXwl5XiEN5kcR0JEWgIYZ3Jk,"Restaurant Français, Bar","21 Quai Gabriel Péri, Joinville-le-Pont",0
+94042,Bambou,ChIJW_YEcxkN5kcRl2VcVNLHk9s,"Restaurant Coréen, Restaurant","56 Av. Du Général Gallieni, Joinville-le-Pont",2
+94042,Le Palais D’or,ChIJQ9KdaCYN5kcRZk7NXpOX_Is,"Restaurant Chinois, Restaurant Japonais","33 Rue De Paris, Joinville-le-Pont",2
+94042,Ban Shan,ChIJn-SfP0YN5kcR4nMsC_nDu2M,Restaurant Thaïlandais,"8 All. Raymond Nègre, Joinville-le-Pont",2
+94042,Eat Sushi Joinville-Le-Pont,ChIJP4O5mhgN5kcRX862IQ6Je4o,"Restaurant De Sushis, Restaurant De Sushis À Tapis Roulant, Restaurant Familial, Restaurant De Fondue Chinoise, Restaurant Japonais, Restaurant De Livraison, Restaurant, Sushis À Emporter","12 Av. Du Général Gallieni, Joinville-le-Pont",2
+94042,Shun Feng,ChIJweaeLWgN5kcRnyBiZ5OwxXM,"Restaurant Asiatique, Traiteur","28 Rue De Paris, Joinville-le-Pont",2
+94043,Le Cèdre,ChIJWzrQmX9x5kcRW8qCPdQb2Yk,Restaurant Libanais,"2 Rue Roger Salengro, Le Kremlin-Bicêtre",1
+94043,Le Pacha,ChIJIxrndX9x5kcRORwFOtmScTQ,"Restaurant Turc, Restaurant De Restauration Rapide","24 Av. De Fontainebleau, Le Kremlin-Bicêtre",1
+94043,Sidibou Kb,ChIJy07mbH9x5kcRr9fCSIuIWzw,Restaurant Tunisien,"16 Rue Du Général Leclerc, Le Kremlin-Bicêtre",1
+94043,Le Constant-Le Constantinople,ChIJBa0A5H1x5kcR4i9rwBGP1Ys,"Restaurant Turc, Restaurant De Restauration Rapide","96 Av. De Fontainebleau, Le Kremlin-Bicêtre",1
+94043,La Porte De Carthage,ChIJpzD8g8Nx5kcRVlj22XTVIdw,Restaurant Tunisien,"8 Av. De Fontainebleau, Le Kremlin-Bicêtre",1
+94043,Café Chez Pierre,ChIJLd0nRH5x5kcR9XPMAgLzIc4,"Brasserie, Restaurant De Cuisine Campagnarde, Restaurant Traditionnel","58 Av. De Fontainebleau, Le Kremlin-Bicêtre",0
+94043,Le Kb,ChIJj59-hX1x5kcRR24F5MscTEQ,Restaurant Français,"114 Av. De Fontainebleau, Le Kremlin-Bicêtre",0
+94043,Le Plaza,ChIJ_7vnfX9x5kcRBn1_tPI8jjA,"Restaurant Italien, Restaurant Français, Restaurant De Pizzas, Brasserie","8-10 Av. De Fontainebleau, Le Kremlin-Bicêtre",0
+94043,L'ardoise,ChIJZZbzAdZz5kcR1h2zhG1v3RU,Restaurant Français,"2 Rue Edmond Michelet, Le Kremlin-Bicêtre",0
+94043,Chez Ma-No,ChIJAQAkJ39x5kcRRyvA8i0m17Q,"Restaurant, Restaurant Français","40 Rue Du Général Leclerc, Le Kremlin-Bicêtre",0
+94043,Sésame Et Sel,ChIJWzc9k39x5kcRXK3TooeyLYE,"Restaurant Coréen, Restaurant De Fusion Asiatique, Restaurant Asiatique, Restaurant De Barbecue Coréen, Restaurant De Bœuf Coréen, Restaurant De Plats De Viande, Restaurant, Restaurant Végétarien","13 Rue Roger Salengro, Le Kremlin-Bicêtre",2
+94043,Seoul Gang,ChIJWYwpDStx5kcRFvHZJS65sQw,Restaurant Coréen,"18 Av. De Fontainebleau, Le Kremlin-Bicêtre",2
+94043,Rajapreuk,ChIJu913Qa1z5kcR70C_BZyivrw,Restaurant Thaïlandais,"37 Rue Roger Salengro, Le Kremlin-Bicêtre",2
+94043,Café De La Mairie,ChIJL1_G0nhx5kcRg9BCG_lcRwE,"Restaurant Japonais, Magasin De Bière, Bistro, Café, Restaurant Français, Restaurant Méditerranéen, Restaurant Du Moyen-Orient, Restaurant De Fruits De Mer, Bar À Vin","25 Rue Du 14 Juillet, Le Kremlin-Bicêtre",2
+94043,Thai Asian Street Food.,ChIJVVV5531x5kcRtUDQoaBb_XA,"Restaurant, Restaurant Thaïlandais","98 Av. De Fontainebleau, Le Kremlin-Bicêtre",2
+94044,La Table Marocaine,ChIJrZDwyAsL5kcRBxmL0Sk0NO0,"Restaurant Marocain, Restaurant Méditerranéen, Restaurant","89 Rue Henri Barbusse, Limeil-Brévannes",1
+94044,Omak-Pizza,ChIJ4cD1gQ5z5kcRNCIcJ9d_t-8,"Restaurant De Pizzas, Fromagerie, Restaurant Français, Restaurant Sans Gluten, Restaurant Halal, Restaurant De Hamburgers, Restaurant Italien, Restaurant De Crêpes, Restaurant","87 Rue Henri Barbusse, Limeil-Brévannes",1
+94044,Nefis Kebab & Grillades,ChIJBfFv2RQL5kcRNN6w1cetIp0,Restaurant,"4 Pl. Arthur Rimbaud, Limeil-Brévannes",1
+94044,Yankee's,ChIJCY3Yb-gL5kcRvgwHT-Kn0Fs,"Restaurant De Restauration Rapide, Restaurant Halal, Restaurant De Hamburgers, Restaurant De Pizzas, Sandwicherie, Restaurant De Tacos","1 Rue Des Herbages De Sèze, Limeil-Brévannes",1
+94044,O'melting Pizz & Crêpe,ChIJryL2kp8L5kcRFRiW7lUMBXw,"Restaurant De Pizzas, Crêperie, Restaurant Halal, Restaurant De Tacos","14 Rue Antoine De Saint-Exupéry, Limeil-Brévannes",1
+94044,Le Moulin Vert,ChIJa7WxbgsL5kcR06fvPiPtMhM,"Restaurant, Restaurant Français","55 Rue Henri Barbusse, Limeil-Brévannes",0
+94044,Royale Pizza,ChIJ2V9WcgsL5kcR6XHUd_uFD-w,"Restaurant De Pizzas, Restaurant De Restauration Rapide, Restaurant Français, Restaurant Italien, Restaurant De Livraison, Livraison De Pizzas, Restaurant, Restaurant Du Sud De L'italie","67 Rue Henri Barbusse, Limeil-Brévannes",0
+94044,Auberge De Limeil,ChIJM305YBoL5kcRfiXpj9Ejoc8,Restaurant Français,"12 Rue Georges Clemenceau, Limeil-Brévannes",0
+94044,L'arène Des Poulets,ChIJF8aycEcL5kcRykRg9rKe-LM,"Bistro, Restaurant Du Déjeuner","4 All. Léopold Sédar Senghor, Limeil-Brévannes",0
+94044,Rdv Ici,ChIJqyUJx5cL5kcRgqBndpaWVdA,"Crêperie, Café, Restaurant Français, Restaurant À Emporter","4a Bd De La Gare, Boissy-Saint-Léger",0
+94044,Sakura.,ChIJDQcMPgsL5kcRLMMIUwx5XjA,"Restaurant Japonais, Restaurant De Sushis","2 Rue Roger Salengro, Limeil-Brévannes",2
+94044,Ak Sushi,ChIJz6t45xQL5kcRn5Rl5xAcSQc,"Restaurant Japonais, Restaurant De Sushis","11-13 Pl. Louis Aragon, Limeil-Brévannes",2
+94044,Papylee,ChIJda-WUX0L5kcRtphAlEbEKd8,Restaurant Asiatique,"1-3 Av. Du Bicentenaire 1789-1989 À E.leclerc, Bonneuil-sur-Marne",2
+94044,Tandoori House,ChIJx0vUlWoL5kcRMGXmXBIuxYg,Restaurant Indien,"9 Rue De Paris, Boissy-Saint-Léger",2
+94044,Sakura,ChIJwToKW74L5kcRAWMvwwU4Cyw,"Restaurant Japonais, Restaurant Asiatique, Restaurant De Sushis","34 Rue De Paris, Boissy-Saint-Léger",2
+94046,Ls Café,ChIJT3RmSAwN5kcRYSHOuEKOrkc,"Restaurant Brunch, Espace De Coworking, Restaurant Halal","107 Rue Marc Sangnier, Maisons-Alfort",1
+94046,La Perle Du Maroc,ChIJt9I-UNQM5kcR8QfiupgpAsA,"Restaurant Marocain, Restaurant","261 Av. De La République, Maisons-Alfort",1
+94046,Restaurant Le Poulailler | Kebab Traditionnel - Döner - Depuis 2006 - Val-De-Marne 94 Maisons-Alfort حلال,ChIJiYaZBz1z5kcRdc_gbeKEsxo,"Kebab, Restaurant De Restauration Rapide","9 Av. De La République, Maisons-Alfort",1
+94046,Restaurant Grillé Bos. Maisons-Alfort Phore,ChIJ80SyxShz5kcR4CS0BeW6ECg,"Kebab, Restaurant De Restauration Rapide","54 Av. Georges Clemenceau, Maisons-Alfort",1
+94046,Saveurs Couscous,ChIJDXGzOzpz5kcRUCBSpEJ8szY,"Restaurant, Restaurant De Livraison, Restaurant Marocain, Pâtisserie","55 Rue Victor Hugo, Maisons-Alfort",1
+94046,Le Charentonneau,ChIJtzuKCCRz5kcRDCN5jZKlLqs,"Restaurant Français, Bar, Restaurant, Restaurant De Fruits De Mer","159 Av. Du Général Leclerc, Maisons-Alfort",0
+94046,Le Pavillon Bleu,ChIJC8KEvtdy5kcRGeo3Qh_LCA8,"Restaurant, Bar À Cocktails, Restaurant Français","1 Av. Joffre, Maisons-Alfort",0
+94046,Mansio,ChIJIR3zXM9z5kcRmnMlQugc2cA,"Restaurant, Restaurant Français","133 Av. Georges Clemenceau, Maisons-Alfort",0
+94046,Le Grand Café De La Mairie,ChIJVVXlpj1z5kcRVkysxMOwDxE,"Restaurant Français, Brasserie, Brasserie","5 Av. De La République, Maisons-Alfort",0
+94046,Chez Michel,ChIJBxhSZCVz5kcRGfNIsh0BDSk,"Restaurant, Restaurant Français","82 Av. Du Général Leclerc, Maisons-Alfort",0
+94046,Sabai Sabai M.alfort,ChIJP2-XBuYN5kcR1QCY0mKQ41M,Restaurant Thaïlandais,"239 Av. De La République, Maisons-Alfort",2
+94046,La Petite Table De Saïgon,ChIJAQCkuddy5kcRrecxr2K80w4,Restaurant Vietnamien,"2 Av. Joffre, Maisons-Alfort",2
+94046,Jasuko,ChIJOa2ZN-By5kcRCmIIIGsPd_M,"Restaurant Japonais, Restaurant Asiatique","Fr, Maisons-Alfort",2
+94046,Amakari,ChIJ5XzjFJVz5kcRXq-CBo9ryzo,"Restaurant Indien, Restaurant Indien Moderne","34 Cr Des Juilliottes, Maisons-Alfort",2
+94046,Crispy Rice,ChIJfXjMKPhz5kcR70TVLIwQoUk,Restaurant Thaïlandais,"12 Cr Des Juilliottes, Maisons-Alfort",2
+94047,Grill Istanbul,ChIJT61ODfYJ5kcR1_8Mtkky2pA,"Kebab, Restaurant De Kebab Doner","12 Rue De Brie, Mandres-les-Roses",1
+94047,Kebab Villecresnes - Aylin,ChIJNU94XigK5kcRTanHuw8TK1Y,Kebab,"56 Rue Du Lieutenant Dagorno, Villecresnes",1
+94047,Le Régal,ChIJybrJ2nMK5kcRfQ2-kVt6nqo,Restaurant Turc,"6 Pl. De La Gare, Brunoy",1
+94047,Restaurant Chez Dada,ChIJl4jV03MK5kcR46kSKcPHe6w,"Restaurant Turc, Restaurant","19 Rue De La République, Brunoy",1
+94047,Le Val Senart Bar Kebab Pizza,ChIJrQKb1Rzi5UcRyCnyOS5CxFk,"Kebab, Bar Et Grill","10 Rue Des 2 Communes, Quincy-sous-Sénart",1
+94047,La Taverne,ChIJ_alj2agJ5kcRl6hn6UtwY-w,"Brasserie, Restaurant","10 Rue De Brie, Mandres-les-Roses",0
+94047,Poulet D2s,ChIJjzRFctsL5kcRz0cIZE4Asgk,"Restaurant, Restaurant De Restauration Rapide, Restaurant Français, Restaurant Du Déjeuner","61 Rue De Brunoy, Villecresnes",0
+94047,La Poésie Des Sens,ChIJofhK0QUK5kcRpWiu1N02VZA,"Traiteur, Restaurant Français, Restaurant Français Moderne, Buffet De Mariage, Service De Mariage","1 Av. Victor Hugo Centre Cial Principal, Épinay-sous-Sénart",0
+94047,Pépé & Mémé Restaurant Bar Brocante,ChIJuWBfnrEL5kcRYbCEU3ES0f4,"Restaurant Français, Restaurant","76 Rue De Cerçay, Brunoy",0
+94047,Juste - La Brasserie,ChIJf9tSq29z5kcRx0PWSbMoc_8,"Brasserie, Restaurant Brunch, Bar À Cocktails, Restaurant De Cuisine Campagnarde, Glacier, Restaurant Français Moderne, Magasin De Pâtes, Restaurant De Pizzas, Salon De Thé, Bar À Vin","73 Rue Du Lieutenant Dagorno, Villecresnes",0
+94047,Sushiman Intermaché Villecresnes,ChIJa4HzwoIL5kcRYErReFTb5iA,"Sushis À Emporter, Restaurant Asiatique, Restaurant De Restauration Rapide, Restaurant À Emporter, Restaurant D'asie Du Sud-Est, Restaurant De Sushis","Intermarché, Villecresnes",2
+94047,Shunfa,ChIJ9-ePJg8K5kcRMvEwy6oyaAA,Restaurant Chinois,"94 Rue Du Boisselet, Épinay-sous-Sénart",2
+94047,Ban Buriram,ChIJqYKXCQAL5kcRFz9c9UIwVEg,Restaurant Thaïlandais,"23 Rue De Cerçay, Villecresnes",2
+94047,Wokasie,ChIJeYhP52Xj5UcRixX2LXJcdrU,"Restaurant Asiatique, Restaurant Japonais","Val D'yerres, Boussy-Saint-Antoine",2
+94047,Okayama,ChIJYbXaUXIK5kcRgMqHwNDK4xo,"Restaurant, Restaurant Chinois, Restaurant Japonais, Restaurant De Sushis","8 Rte De Brie, Brunoy",2
+94048,Le Domaine Libanais,ChIJdy-0OXsJ5kcROmpoGHS7ybM,Restaurant Libanais,"Centre Commercial Du Domaine, Santeny",1
+94048,Pizza Liva,ChIJI8KcciwK5kcRtEby2B_t6X4,"Restaurant De Pizzas, Restaurant Italien, Kebab, Livraison De Pizzas, Pizza À Emporter, Restaurant De Tacos","55 Av. Du Maréchal De Lattre De Tassigny, Villecresnes",1
+94048,Kebab Villecresnes - Aylin,ChIJNU94XigK5kcRTanHuw8TK1Y,Kebab,"56 Rue Du Lieutenant Dagorno, Villecresnes",1
+94048,Le Palais D'agadir - Restaurant Marocain 94,ChIJoQNyI78L5kcRl7HVm4rfFh4,Restaurant Marocain,"5 Bd Léon Revillon, Boissy-Saint-Léger",1
+94048,Poulet Braisé - La Bonne Braise - Churrasqueira,ChIJMQaO1QcL5kcRbh1i9e6p5qc,"Restaurant, Restaurant Barbecue, Espace Barbecue, Restaurant De Poulet, Magasin De Poulet, Restaurant D'ailes De Poulet, Restaurant Halal, Restaurant De Hamburgers, Restaurant Portugais, Restaurant De Riz","26 Rue De Paris, Boissy-Saint-Léger",1
+94048,Le Restaurant Du Golf,ChIJJe7XEi4J5kcRyuMOSIXXhpM,"Restaurant, Restaurant Barbecue, Restaurant De Petit-Déjeuner, Restaurant Brunch, Fromagerie, Restaurant De Hamburgers, Restaurant Du Déjeuner, Magasin De Salades, Sandwicherie","Mail De La Justice, Marolles-en-Brie",0
+94048,La Villa,ChIJ7Z_IxIMJ5kcRWth_T8MEP7M,"Restaurant, Restaurant Français","54 Av. De Grosbois, Marolles-en-Brie",0
+94048,Le Sunset,ChIJH2NUaAAL5kcRAIfrtJjYSOA,Restaurant Brunch,"44 Rue Du Général Leclerc, Villecresnes",0
+94048,L'inattendu Villecresnes Emilien Rouable,ChIJdXIUN90L5kcRBsDpA9R1nxk,Restaurant Haut De Gamme Français,"36 Rue Du Général Leclerc, Villecresnes",0
+94048,Del Arte,ChIJC4gqvqsJ5kcR6QzjF5zXt0I,"Restaurant, Restaurant Familial, Restaurant Français, Restaurant Italien, Restaurant Du Déjeuner, Restaurant À Emporter, Restaurant Méditerranéen, Restaurant Du Nord De L'italie, Restaurant De Pizzas, Restaurant Du Sud De L'italie","Lieu Dit ""Le, Santeny",0
+94048,Meilleur Sushi,ChIJOwQ38lgJ5kcRaWMEygYLd-k,Restaurant Japonais,"France, Marolles-en-Brie",2
+94048,Sushi Grill Marolles En Brie,ChIJReGrHIEJ5kcRV1YJ0hqh-p0,"Restaurant Japonais, Restaurant Chinois, Restaurant De Sushis","9 Rue De La Tuilerie, Marolles-en-Brie",2
+94048,Les Merveilles De Chine,ChIJn_s_oYAJ5kcREyEDez14-6U,"Restaurant Chinois, Restaurant Asiatique","2 Av. Du Maréchal De Lattre De Tassigny, Villecresnes",2
+94048,Saigon,ChIJF77W2a4J5kcRQXZpa_qbSDk,Restaurant Vietnamien,"5 Pl. Du Village, Santeny",2
+94048,Sushi You,ChIJJd1UtScK5kcRMOgoFR3SZMY,"Restaurant Japonais, Restaurant","45 Bis Av. Du Maréchal De Lattre De Tassigny, Villecresnes",2
+94052,Sweet Time Nogent-Sur-Marne,ChIJzcyk5M4N5kcRk9nlAWpJxrY,"Restaurant De Restauration Rapide, Restaurant Américain, Restaurant Canadien, Poulet Frit À Emporter, Restaurant Halal, Restaurant De Hamburgers","65 Gd Rue Charles De Gaulle, Nogent-sur-Marne",1
+94052,Le Marrakech,ChIJPXqj5UEN5kcRToyLhtMgZqw,"Restaurant Marocain, Bar","20 Bd De Strasbourg, Nogent-sur-Marne",1
+94052,L'assiette Express,ChIJUXv0YnEN5kcR_sDPc6zB45s,"Restaurant De Restauration Rapide, Restaurant Américain, Pâtisserie, Restaurant Halal, Restaurant De Hamburgers, Kebab, Restaurant Du Moyen-Orient, Pâtisserie","73 Gd Rue Charles De Gaulle, Nogent-sur-Marne",1
+94052,Restaurant Paristanbul,ChIJ1Ukk30AN5kcR0Emmp7R0ogI,"Restaurant Turc, Kebab","2 B Bd Gambetta, Nogent-sur-Marne",1
+94052,Burger Parisien,ChIJX9MhGCsN5kcROT6tTpYpNTc,"Restaurant, Restaurant Halal","30 Rue Paul Bert, Nogent-sur-Marne",1
+94052,Restaurant Le Nogentais,ChIJtennOmwN5kcRiDs3AB7B_78,"Restaurant Français, Gastro-Pub, Restaurant","111 Gd Rue Charles De Gaulle, Nogent-sur-Marne",0
+94052,Restaurant Guinguette Le Val De Beauté,ChIJb2J75D8N5kcRLakwlVhDoHQ,"Restaurant Français, Restaurant","1 Av. Du Val De Beauté, Nogent-sur-Marne",0
+94052,Restaurant La Salamandre,ChIJ6SbMsD8N5kcRN1JjFzIJyM0,"Restaurant Français, Restaurant","10 - 12 Bd De La Marne, Nogent-sur-Marne",0
+94052,Hippopotamus Steakhouse,ChIJHadDcXMN5kcRSxue5BuQEi8,"Restaurant, Bar Et Grill, Restaurant Barbecue, Dîner, Restaurant Familial, Restaurant Français, Restaurant À Emporter, Steak House","23 Bd Albert 1er, Nogent-sur-Marne",0
+94052,Le Crysam,ChIJ92YKEGwN5kcRLRBAqjJwJo8,"Restaurant, Restaurant Français, Restaurant Italien, Restaurant De Pizzas","5 Rue Paul Bert, Nogent-sur-Marne",0
+94052,Garden,ChIJ2wxJx2sN5kcRz5ArTJbo8nw,"Restaurant Coréen, Restaurant De Fondue Chinoise, Restaurant Mandarin, Restaurant","6 Rue André Pontier, Nogent-sur-Marne",2
+94052,Bharati,ChIJ_RHA3m0N5kcRuf9H3Jjj13o,"Restaurant Indien, Restaurant De Livraison","2 Bd Gallieni, Nogent-sur-Marne",2
+94052,Shaan's Paji,ChIJw0r4pOsN5kcRN3EpZlUz3yw,Restaurant Indien,"40 Av. Kléber, Nogent-sur-Marne",2
+94052,Kokrabi,ChIJgayo3f0N5kcRnbPpwH7mWl8,"Restaurant, Restaurant Thaïlandais, Restaurant Végétarien","175 Gd Rue Charles De Gaulle, Nogent-sur-Marne",2
+94052,Restaurant Royal Volonté,ChIJCde6k2sN5kcR0rWKC7xKOm8,"Restaurant Japonais, Restaurant Asiatique, Restaurant Chinois, Restaurant De Sushis","77 Gd Rue Charles De Gaulle, Nogent-sur-Marne",2
+94053,Les Jardins De Majorelle,ChIJw9efLAUM5kcRvoGNLGMfBzc,"Restaurant, Restaurant Marocain","164 Av. Olivier D'ormesson, Ormesson-sur-Marne",1
+94053,L’univers De Serenay,ChIJRdmvcNEN5kcRrzTilYGSpzQ,"Restaurant Brunch, Crêperie, Restaurant De Kebab Doner, Restaurant Halal, Restaurant De Hamburgers, Kebab, Restaurant, Sandwicherie, Salon De Thé, Restaurant Turc","Av. Olivier D'ormesson, Ormesson-sur-Marne",1
+94053,Libane Fresh Foods,ChIJO3jJgAgL5kcRNEIHrxROfJk,"Restaurant Libanais, Traiteur","16 Rue Du Moutier, Sucy-en-Brie",1
+94053,Grill Istanbul,ChIJWTVgA5cO5kcRy6J7Mi8_LWE,"Restaurant Turc, Restaurant De Restauration Rapide","85 Rte De Provins, Chennevières-sur-Marne",1
+94053,Pitaya Thaï Street Food,ChIJxSWKrLcP5kcR2hTriV-iggk,"Restaurant De Restauration Rapide, Restaurant Halal, Restaurant De Fondue Chinoise, Restaurant Panasiatique, Restaurant, Restaurant D'asie Du Sud-Est, Restaurant Thaïlandais, Restaurant De Wok","Centre Commercial Pince Vent, Chennevières-sur-Marne",1
+94053,La Ferme Des Mélèzes,ChIJTzSRUqsO5kcRM6sdChj0ZJg,"Restaurant, Restaurant Barbecue, Magasin De Bière, Fromagerie, Bar À Cocktails, Glacier, Restaurant Du Déjeuner, Restaurant De Crêpes, Bar À Vin","46 Av. Pierre Mendès-France, Noiseau",0
+94053,Brasserie De L'hôtel De Ville,ChIJceo7NawO5kcRct7uqRBHp_U,Brasserie,"5 Av. Pierre Mendès-France, Noiseau",0
+94053,Trois B,ChIJWzMcU_kL5kcRV_qQ7qIWsqQ,"Restaurant De Hamburgers, Restaurant Américain, Magasin De Bière, Restaurant De Restauration Rapide, Restaurant D'aliments Sains, Glacier, Restaurant Bio, Pâtisserie, Restaurant Végétarien","21 Pl. Sainte-Bernadette, Sucy-en-Brie",0
+94053,Les Tilleuls Golf D'ormesson,ChIJsQT-VNwP5kcRQ-irXqH1sW0,"Restaurant, Planificateur D'événements, Lieu De L'événement, Restaurant Français, Salon, Séminaire, Service De Mariage, Lieu De Mariage","20 Chem. Du Belvédère, Ormesson-sur-Marne",0
+94053,L’escapade,ChIJq6rmUBwM5kcRj8fYn-c5NSc,"Restaurant, Restaurant Français","227 Av. Olivier D'ormesson, Ormesson-sur-Marne",0
+94053,Yama Yen,ChIJO-6tyPUL5kcRHUkA5ahPtI0,"Restaurant Japonais, Restaurant Coréen","12 Rue Guy Moquet, Sucy-en-Brie",2
+94053,Le Bonheur De Chine,ChIJ7QbjbxgM5kcRfooucbTtSpM,"Restaurant Chinois, Restaurant Asiatique, Restaurant Chinois De Livraison, Restaurant","Rue D'amboile, Chennevières-sur-Marne",2
+94053,Shuriken Sushi,ChIJKbn4_6cN5kcR0yNILHkMJzg,Restaurant Japonais,"France, Ormesson-sur-Marne",2
+94053,Hawai Poke Livraison De Poke Bowl,ChIJT6LPm6EP5kcR-r8M4jgH_VE,"Restaurant Hawaïen, Restaurant Asiatique, Restaurant De Livraison","64 Rue Danielle Casanova, Ormesson-sur-Marne",2
+94053,Shimaru,ChIJA4e7lD8P5kcRKW6EChUt-Kg,Restaurant Coréen,"Centre Commercial Pince Vent, Ormesson-sur-Marne",2
+94054,Aux Délices De Rêve,ChIJwTwFold05kcREz4czPyDzXA,Restaurant Libanais,"21 Rue Du Commerce, Orly",1
+94054,Chez Yoyo,ChIJgwbcMPR05kcRlvLepHg5-vg,Restaurant Turc,"22 Av. Des Martyrs De Châteaubriant, Orly",1
+94054,Dz Restaurant,ChIJ24BBS0h15kcReZt_9NG6P8M,Restaurant Algérien,"1 Rue Jean Jaurès, Orly",1
+94054,Grillade Dorée,ChIJLQeunyRt5kcRcIc8bEbf41I,"Restaurant Halal, Restaurant Barbecue, Restaurant De Kebab Doner","4 Rue Elsa Triolet, Orly",1
+94054,Kebab Deniz,ChIJoQncXPd05kcRi3lsqD49Sh0,"Kebab, Restaurant De Restauration Rapide","67 Av. Adrien Raynal, Orly",1
+94054,Spa Day Event,ChIJpbiC71515kcRqZeKSFoFhk8,"Planificateur D'événements, Restaurant Brunch, Traiteur, Spa, Jardin Du Spa, Programme De Bien-Être","52 Av. Adrien Raynal, Orly",0
+94054,Mcdonald's,ChIJ_ePOk_B05kcRuOh74mPMVM4,"Restaurant De Restauration Rapide, Restaurant Américain, Restaurant De Hamburgers, Restaurant De Pizzas, Restaurant, Sandwicherie","Zac Du Fer À Cheval, Orly",0
+94054,Le Trisk'l,ChIJ2Wg2K2p05kcRjHU1_GDF_-s,Crêperie,"Rue De La Résistance, Thiais",0
+94054,La Cantine Corse,ChIJeykK5up15kcRGFey7yctQPc,"Restaurant De Pizzas, Magasin De Bière, Bistro, Brasserie, Café, Restaurant De Hamburgers, Restaurant Méditerranéen","3 Rue De La Résistance, Thiais",0
+94054,Maison Belhamici,ChIJ26T4xI105kcROyu08Ec7EzY,"Brasserie, Café, Restaurant Français, Hôtel, Agence Immobilière","107 Av. Anatole France, Choisy-le-Roi",0
+94054,Kyoto Bonheur 94310,ChIJVSz0Ufd05kcRRddg9wkY2xs,"Restaurant Japonais, Restaurant De Sushis","2 Av. Des Martyrs De Châteaubriant, Orly",2
+94054,Fuji Sushi,ChIJVYi08kV05kcR0oGb1k6AS2I,"Restaurant De Sushis, Restaurant Japonais, Restaurant De Livraison, Sushis À Emporter","129 Av. De La Victoire, Orly",2
+94054,Maison D'aki,ChIJsZ9NW6115kcRBJqjmbrtYQg,"Restaurant Japonais, Restaurant De Fusion Asiatique, Restaurant Japonais Authentique","12 Rue Des Oliviers, Thiais",2
+94054,Sushi Kyo,ChIJDSVD1Wt05kcRwtZOGUUWl5U,"Restaurant Japonais, Restaurant De Sushis","3 Rue De La Résistance, Thiais",2
+94054,Restaurant Kin,ChIJ4RomD4p05kcRuFsN83tpWn8,"Restaurant, Restaurant Chinois, Restaurant De Fondue Chinoise, Restaurant De Livraison, Restaurant D'asie Du Sud-Est, Restaurant Thaïlandais","29 Av. Du Maréchal De Lattre De Tassigny, Choisy-le-Roi",2
+94055,Les Jardins De Majorelle,ChIJw9efLAUM5kcRvoGNLGMfBzc,"Restaurant, Restaurant Marocain","164 Av. Olivier D'ormesson, Ormesson-sur-Marne",1
+94055,L’univers De Serenay,ChIJRdmvcNEN5kcRrzTilYGSpzQ,"Restaurant Brunch, Crêperie, Restaurant De Kebab Doner, Restaurant Halal, Restaurant De Hamburgers, Kebab, Restaurant, Sandwicherie, Salon De Thé, Restaurant Turc","Av. Olivier D'ormesson, Ormesson-sur-Marne",1
+94055,Grill Istanbul,ChIJWTVgA5cO5kcRy6J7Mi8_LWE,"Restaurant Turc, Restaurant De Restauration Rapide","85 Rte De Provins, Chennevières-sur-Marne",1
+94055,Pitaya Thaï Street Food,ChIJxSWKrLcP5kcR2hTriV-iggk,"Restaurant De Restauration Rapide, Restaurant Halal, Restaurant De Fondue Chinoise, Restaurant Panasiatique, Restaurant, Restaurant D'asie Du Sud-Est, Restaurant Thaïlandais, Restaurant De Wok","Centre Commercial Pince Vent, Chennevières-sur-Marne",1
+94055,Libane Fresh Foods,ChIJO3jJgAgL5kcRNEIHrxROfJk,"Restaurant Libanais, Traiteur","16 Rue Du Moutier, Sucy-en-Brie",1
+94055,L’escapade,ChIJq6rmUBwM5kcRj8fYn-c5NSc,"Restaurant, Restaurant Français","227 Av. Olivier D'ormesson, Ormesson-sur-Marne",0
+94055,La Caravelle,ChIJZ7N_hpgO5kcRjE9y4HQbUZE,"Restaurant, Bar, Restaurant Français, Restaurant Portugais","61 Rue Danielle Casanova, Ormesson-sur-Marne",0
+94055,Les Tilleuls Golf D'ormesson,ChIJsQT-VNwP5kcRQ-irXqH1sW0,"Restaurant, Planificateur D'événements, Lieu De L'événement, Restaurant Français, Salon, Séminaire, Service De Mariage, Lieu De Mariage","20 Chem. Du Belvédère, Ormesson-sur-Marne",0
+94055,Golf D'ormesson,ChIJv4cZl7wO5kcRIRphtjfCjxo,"Terrain De Golf, Planificateur D'événements, Lieu De L'événement, Restaurant Français, Club De Golf, Practice De Golf, Instructeur De Golf, Séminaire, Service De Mariage, Lieu De Mariage","1 Chem. Du Belvédère, Ormesson-sur-Marne",0
+94055,Pepe Chicken By Fastgood Cuisine,ChIJEXcOcyMN5kcROk_tmapfwyM,"Restaurant À Emporter, Restaurant Américain, Restaurant De Poulet, Restaurant De Restauration Rapide","71 Rue Du Général De Gaulle, Chennevières-sur-Marne",0
+94055,Le Bonheur De Chine,ChIJ7QbjbxgM5kcRfooucbTtSpM,"Restaurant Chinois, Restaurant Asiatique, Restaurant Chinois De Livraison, Restaurant","Rue D'amboile, Chennevières-sur-Marne",2
+94055,Shuriken Sushi,ChIJKbn4_6cN5kcR0yNILHkMJzg,Restaurant Japonais,"France, Ormesson-sur-Marne",2
+94055,Hawai Poke Livraison De Poke Bowl,ChIJT6LPm6EP5kcR-r8M4jgH_VE,"Restaurant Hawaïen, Restaurant Asiatique, Restaurant De Livraison","64 Rue Danielle Casanova, Ormesson-sur-Marne",2
+94055,Out Fry - Korean Fried Chicken By Taster,ChIJ-3Co92UN5kcRY42wnvxBlMQ,"Restaurant À Emporter, Restaurant Asiatique, Restaurant De Poulet, Restaurant De Restauration Rapide, Restaurant Coréen","71 Rue Du Général De Gaulle, Chennevières-sur-Marne",2
+94055,Sushi Daily Ormesson,ChIJKf5bPz0P5kcRMDQi9-qaVTs,"Sushis À Emporter, Restaurant De Sushis À Tapis Roulant, Producteur Alimentaire, Restaurant De Sushis","85 Rte De Provins, Ormesson-sur-Marne",2
+94056,Grill Istanbul,ChIJT61ODfYJ5kcR1_8Mtkky2pA,"Kebab, Restaurant De Kebab Doner","12 Rue De Brie, Mandres-les-Roses",1
+94056,Le Val Senart Bar Kebab Pizza,ChIJrQKb1Rzi5UcRyCnyOS5CxFk,"Kebab, Bar Et Grill","10 Rue Des 2 Communes, Quincy-sous-Sénart",1
+94056,Olmez Restaurant,ChIJaYRwEB7i5UcR6QIuAOHfqpc,"Restaurant Turc, Restaurant De Restauration Rapide, Kebab, Restaurant De Tacos","31 Rue De Brunoy, Quincy-sous-Sénart",1
+94056,Frères Express 5,ChIJYfysKB_i5UcRLqn_EN8c-wY,Restaurant Turc,"23 Rue De Boissy-Saint-Léger, Quincy-sous-Sénart",1
+94056,Anatol’s,ChIJheXn3dQJ5kcRxWRr5lUQcvE,"Restaurant De Restauration Rapide, Restaurant Halal","Zac Du, Servon",1
+94056,La Taverne,ChIJ_alj2agJ5kcRl6hn6UtwY-w,"Brasserie, Restaurant","10 Rue De Brie, Mandres-les-Roses",0
+94056,La Poésie Des Sens,ChIJofhK0QUK5kcRpWiu1N02VZA,"Traiteur, Restaurant Français, Restaurant Français Moderne, Buffet De Mariage, Service De Mariage","1 Av. Victor Hugo Centre Cial Principal, Épinay-sous-Sénart",0
+94056,Mcdonald's,ChIJQcRQ-QLi5UcRqWwEEr_RSR0,"Restaurant De Restauration Rapide, Restaurant Américain, Restaurant De Hamburgers, Restaurant De Pizzas, Restaurant, Sandwicherie","Centre Commercial Val D'yerres, C.cial Val D'yerres, Boussy-Saint-Antoine",0
+94056,"Les Demeures De Varennes, Bw Signature Collection",ChIJpQ1KQ27i5UcRUNEEBBUzeXo,"Restaurant, Centre De Conférence, Spa De Jour, Centre De Remise En Forme, Restaurant Français, Salle De Réception, Hôtel, Lieu De Mariage","Le Vieux Castel, Varennes-Jarcy",0
+94056,Restaurant L'olivier | Restaurant Bistronomique (91),ChIJRwMkQ2zi5UcRBsfU1OaRC18,"Bistro, Restaurant","14 Rue De La Liberation, Varennes-Jarcy",0
+94056,Wokasie,ChIJeYhP52Xj5UcRixX2LXJcdrU,"Restaurant Asiatique, Restaurant Japonais","Val D'yerres, Boussy-Saint-Antoine",2
+94056,Sushi Master,ChIJo8HCgUHj5UcR6b3j4_Vd1YE,Sushis À Emporter,"Carrefour Val D'yerres Boussy, Boussy-Saint-Antoine",2
+94056,Au Canard Laque,ChIJh3k33rfj5UcR3TTSBxZdmlM,Restaurant Chinois,"Centre Commercial Cora Val D’yerres Galerie Marchande, Boussy-Saint-Antoine",2
+94056,Sushiman Intermaché Villecresnes,ChIJa4HzwoIL5kcRYErReFTb5iA,"Sushis À Emporter, Restaurant Asiatique, Restaurant De Restauration Rapide, Restaurant À Emporter, Restaurant D'asie Du Sud-Est, Restaurant De Sushis","Intermarché, Villecresnes",2
+94056,Shunfa,ChIJ9-ePJg8K5kcRMvEwy6oyaAA,Restaurant Chinois,"94 Rue Du Boisselet, Épinay-sous-Sénart",2
+94058,Chez Abda,ChIJbcNBy58N5kcRbg-Ja6GqlmA,"Restaurant Marocain, Restaurant De Couscous, Restaurant Méditerranéen","77 Av. Pierre Brossolette, Le Perreux-sur-Marne",1
+94058,La Table Marocaine,ChIJU-m_j4cN5kcRdaGbEivs7eg,"Restaurant Marocain, Restaurant","170 Bd D'alsace Lorraine, Le Perreux-sur-Marne",1
+94058,La Broche - Kebab Berlinois Le Perreux,ChIJ6b64nloN5kcRtUjLFt13-7Y,Restaurant De Kebab Doner,"1 Rue Denfert Rochereau, Le Perreux-sur-Marne",1
+94058,Anacoco,ChIJOce8oDsN5kcRBB-YekTAPEY,"Restaurant Américain, Poulet Frit À Emporter, Restaurant Halal, Restaurant De Hamburgers, Restaurant","98 Bd D'alsace Lorraine, Le Perreux-sur-Marne",1
+94058,Le Magnifique,ChIJ4d4wTJYN5kcRfN1KkIOAv3I,"Kebab, Restaurant De Restauration Rapide, Restaurant","230 Av. Pierre Brossolette, Le Perreux-sur-Marne",1
+94058,Les Magnolias,ChIJLdEnAXUN5kcRfSFOZc-Y5ZU,"Restaurant Gastronomique, Lieu De L'événement, Restaurant Français, Séminaire, Lieu De Mariage","Le, Le Perreux-sur-Marne",0
+94058,L'ardoise,ChIJa5U4FHQN5kcRNORCDOM1kwk,"Restaurant, Restaurant Français","22 Bd De La Liberté, Le Perreux-sur-Marne",0
+94058,Pourquoi Pas?,ChIJKToEHX8N5kcRRDppfivWnaA,Restaurant Français,"52 Bd D'alsace Lorraine, Le Perreux-sur-Marne",0
+94058,Jeanne Et Jacques,ChIJHWDzrHYN5kcR7L1Dr20l_0I,"Restaurant, Bar, Restaurant Européen, Restaurant Français, Restaurant De Hamburgers, Restaurant Irlandais, Pub, Bar Sportif","12 Pl. Robert Belvaux, Le Perreux-sur-Marne",0
+94058,Le Blue-Marning,ChIJ2Rudt6EN5kcRoI9pzsxV5ng,"Restaurant, Bar, Restaurant Français","44 Quai De L'artois, Le Perreux-sur-Marne",0
+94058,Sushitop,ChIJY1Iitn4N5kcRPfGKNuxVHjU,Restaurant Japonais,"226 Av. Du Général De Gaulle, Le Perreux-sur-Marne",2
+94058,Bo Sushi,ChIJf3hAM50N5kcRGh8FAkoXrm0,"Restaurant De Sushis, Restaurant Japonais, Restaurant","71 Av. Ledru Rollin, Le Perreux-sur-Marne",2
+94058,Radha,ChIJ4TvfwHYN5kcRzTHiR29Ofc0,Restaurant Indien,"18 Bis Av. Ledru Rollin, Le Perreux-sur-Marne",2
+94058,Siki Sushi,ChIJUVdBEXQN5kcRilp6MnfQQBY,"Restaurant Japonais, Restaurant Asiatique, Restaurant De Sushis","20 Bd De La Liberté, Le Perreux-sur-Marne",2
+94058,Resto Sai,ChIJ8eM_8H4N5kcRNxCTY311dnM,"Restaurant, Magasin De Bière, Restaurant Sans Gluten, Restaurant Indien, Restaurant Du Déjeuner, Restaurant Végétalien, Restaurant Végétarien, Bar À Vin","59b Bd D'alsace Lorraine, Le Perreux-sur-Marne",2
+94059,Restaurant Istanbul,ChIJ3bVYvfcO5kcREyqQOYHAqVw,Restaurant Turc,"18b Av. Du Général De Gaulle, Le Plessis-Trévise",1
+94059,L'etoile Du Maroc Restaurant Marocain Pontault Combault,ChIJkzEizhMP5kcRFugp89BIjp0,"Restaurant, Restaurant De Couscous, Restaurant Marocain","16 Av. Charles Rouxel, Pontault-Combault",1
+94059,Pizza Hotimes Pontault Combault,ChIJ8XNfyhMP5kcRXj8AZWO0dsQ,"Restaurant De Pizzas, Restaurant De Restauration Rapide, Restaurant Halal, Restaurant Italien, Restaurant De Livraison, Restaurant À Emporter, Livraison De Pizzas, Pizza À Emporter, Magasin De Salades, Sandwicherie","13 Av. Charles Rouxel, Pontault-Combault",1
+94059,Turkuaz,ChIJN2Qtu6gP5kcRrCb9xU9-R0c,Kebab,"17 Av. Charles Rouxel, Pontault-Combault",1
+94059,Pitaya Thaï Street Food,ChIJxSWKrLcP5kcR2hTriV-iggk,"Restaurant De Restauration Rapide, Restaurant Halal, Restaurant De Fondue Chinoise, Restaurant Panasiatique, Restaurant, Restaurant D'asie Du Sud-Est, Restaurant Thaïlandais, Restaurant De Wok","Centre Commercial Pince Vent, Chennevières-sur-Marne",1
+94059,Les Oliviers Le Plessis Trévise,ChIJVVXZTPEO5kcRO4G0-qCH23c,"Restaurant Italien, Bistro, Traiteur, Bar À Cocktails, Charcuterie, Restaurant Gastronomique, Restaurant Méditerranéen, Restaurant Bio, Restaurant De Pizzas, Restaurant","157 Av. Maurice Berteaux, Le Plessis-Trévise",0
+94059,Le Trévise,ChIJcwwrPFgP5kcRtKZVfKvGxf8,Brasserie,"20 Av. Ardouin, Le Plessis-Trévise",0
+94059,Le Carré Pointu (Le Trévise),ChIJh2JJG_YO5kcRD7LU6eW8Fng,"Restaurant, Bar, Restaurant De Petit-Déjeuner, Restaurant Français","20 Av. Ardouin, Le Plessis-Trévise",0
+94059,Le Petit Paris,ChIJXXy-m-MP5kcRRLRRSzqwuHI,Brasserie,"13 Av. Ardouin, Le Plessis-Trévise",0
+94059,The Yards,ChIJhfm8xJYO5kcRllkR6WjNTuE,"Restaurant, Restaurant Américain, Bar, Restaurant De Hamburgers","12 Av. De Pince Vent, Chennevières-sur-Marne",0
+94059,Le Pavillon Du Plessis,ChIJeyxFEPEO5kcRTHCWGzVKg-8,Restaurant Chinois,"2 Av. Clément Ader, Le Plessis-Trévise",2
+94059,Le Jade D'asie,ChIJW5RUSPYO5kcR0pqDy7RCP-U,"Restaurant Asiatique, Restaurant Mandarin","11 Av. Ardouin, Le Plessis-Trévise",2
+94059,Ye Suizhuang,ChIJ7UDFGvEO5kcRyEJWnhu_oGE,"Restaurant Asiatique, Restaurant Chinois, Restaurant Thaïlandais","2 Av. Clément Ader, Le Plessis-Trévise",2
+94059,Plessis Sushi,ChIJxw5LuPcO5kcRk4xLLGe9TAA,Restaurant Japonais,"3 Av. Thérèse, Le Plessis-Trévise",2
+94059,Koyama Sushi,ChIJsQrVu_cO5kcRr9Repz1Zgp0,"Restaurant Japonais, Restaurant De Sushis","14 Av. Du Général De Gaulle, Le Plessis-Trévise",2
+94060,Grill Istanbul,ChIJWTVgA5cO5kcRy6J7Mi8_LWE,"Restaurant Turc, Restaurant De Restauration Rapide","85 Rte De Provins, Chennevières-sur-Marne",1
+94060,Pitaya Thaï Street Food,ChIJxSWKrLcP5kcR2hTriV-iggk,"Restaurant De Restauration Rapide, Restaurant Halal, Restaurant De Fondue Chinoise, Restaurant Panasiatique, Restaurant, Restaurant D'asie Du Sud-Est, Restaurant Thaïlandais, Restaurant De Wok","Centre Commercial Pince Vent, Chennevières-sur-Marne",1
+94060,O'tacos,ChIJQxBzCRQP5kcRnkHLfJEJtxg,"Restaurant De Restauration Rapide, Restaurant De Tacos","45 Av. Charles Rouxel, Pontault-Combault",1
+94060,Grill Corner Restaurant Indien Pakistanais Livraison Emporter Halal,ChIJMTYD0D8P5kcRpnDtFTRTqFM,"Restaurant, Restaurant Halal","36 Av. Du Château, Pontault-Combault",1
+94060,L'etoile Du Maroc Restaurant Marocain Pontault Combault,ChIJkzEizhMP5kcRFugp89BIjp0,"Restaurant, Restaurant De Couscous, Restaurant Marocain","16 Av. Charles Rouxel, Pontault-Combault",1
+94060,Au Bureau,ChIJgx51BgAP5kcR_WMTaXigf_M,"Restaurant, Bar, Restaurant Européen, Restaurant Français, Restaurant De Hamburgers, Restaurant Irlandais, Pub, Bar Sportif","Zone Commerciale Moulin De Champlain, La Queue-en-Brie",0
+94060,Burger King,ChIJNxecRRQN5kcRn1igEJlReZo,"Restaurant De Restauration Rapide, Restaurant Américain, Bar Et Grill, Restaurant Familial, Restaurant De Hamburgers, Restaurant À Emporter","Centre Commercial Pince Vent, Chennevières-sur-Marne",0
+94060,Auberge Du Petit Caporal,ChIJqx7GltAO5kcRWNc5QNhu9Pw,"Restaurant, Bar, Restaurant Gastronomique, Restaurant Français","42 Rue Du Général De Gaulle, La Queue-en-Brie",0
+94060,Le Bistrot La Criée La Queue En Brie,ChIJV8uUlMUO5kcR2EWVQu6xAfM,"Restaurant, Restaurant Chophouse, Restaurant De Poisson-Frites, Restaurant De Poissons, Restaurant Français, Restaurant De Livraison, Restaurant De Plats De Viande, Restaurant De Fruits De Mer","Zac De La, La Queue-en-Brie",0
+94060,Multi Churrasco,ChIJ7ahGENAO5kcR04isexhCCKo,"Restaurant Portugais, Restaurant Français","22 Rue Du Général De Gaulle, La Queue-en-Brie",0
+94060,Allo Sushi,ChIJN_TWidAO5kcRqHLBYT6pcj4,"Restaurant De Sushis, Restaurant De Restauration Rapide","28 Rue Du Général De Gaulle, La Queue-en-Brie",2
+94060,Le Dragon Du Soleil,ChIJfZU90pcO5kcRao9AhPi03V8,"Restaurant Asiatique, Restaurant Chinois","85 Av. De Pince Vent, Chennevières-sur-Marne",2
+94060,Shimaru,ChIJA4e7lD8P5kcRKW6EChUt-Kg,Restaurant Coréen,"Centre Commercial Pince Vent, Ormesson-sur-Marne",2
+94060,Papylee,ChIJyUUabBoP5kcRycFkSOH6HKc,Sushis À Emporter,"Chez Carrefour, Centre Commercial Pince Vent, Ormesson-sur-Marne",2
+94060,Bangkok 63,ChIJO9A3Jn0P5kcRxTIkk18BLOI,Restaurant Thaïlandais,"72 Av. Charles Rouxel, Pontault-Combault",2
+94065,Café Guzo - Le Kiosque,ChIJDSOvpEx35kcRPH0d2sXRxH0,"Restaurant Halal, Café, Pâtisserie","1 Rue Traversière, Rungis",1
+94065,L'atelier Du Gout,ChIJHflyG1935kcRxqbXtVJw1iY,Restaurant Halal,"21 Rue De Chevilly, Fresnes",1
+94065,Pizza Service,ChIJgVvyx8N25kcRxFqOtut6i6M,"Restaurant De Pizzas, Gril, Restaurant Halal, Restaurant De Hamburgers, Restaurant De Livraison, Restaurant, Brasserie, Sandwicherie","23 Av. De La Paix, Fresnes",1
+94065,Le Souk De L'atlas,ChIJ9eVkyCJ05kcRIN2pvTP2eUY,"Restaurant, Restaurant De Couscous, Restaurant Marocain","2 Av. De Fontainebleau, Rungis",1
+94065,Les Maraîchers,ChIJa3bbSKFz5kcRQouYLQAondk,"Restaurant, Bar, Kebab, Restaurant À Emporter, Restaurant De Pizzas, Pizza À Emporter, Brasserie","20 Av. Du Viaduc, Chevilly-Larue",1
+94065,Restaurant La Ripaille,ChIJobHHNpd25kcRWbf0aW3gUyM,Restaurant Français,"22 Pl. Louis Xiii, Rungis",0
+94065,Le Louis Xiii,ChIJx0UhNpd25kcRUIWEYD_cANo,"Restaurant Français, Brasserie","4 Pl. Louis Xiii, Rungis",0
+94065,La Grange Des Halles,ChIJK3SzDpt25kcRcBAMOYjZyQw,Restaurant Français,"28 Rue Notre Dame, Rungis",0
+94065,La Bigouden,ChIJW4mUe_Z35kcRuX-398ijgu0,"Restaurant, Café, Crêperie, Bar À Tapas","13 Rue Notre Dame, Rungis",0
+94065,Le Notre Dame Café,ChIJ74RUkZt25kcRJdjNaWKyqiM,"Restaurant, Restaurant Français","17 Rue Notre Dame, Rungis",0
+94065,Pho 66,ChIJh1xkGJp25kcRJLwfdjUjJxs,"Restaurant Vietnamien, Restaurant","17 Av. Lucien Grelinger, Rungis",2
+94065,Chez Bibi,ChIJo_sUlJp25kcRtrhkJCX15tU,"Restaurant De Sushis, Restaurant Fusion","9 Rue De L'abreuvoir, Rungis",2
+94065,Casinath,ChIJqZmjeoN25kcRUBTx99IZmW4,"Restaurant De Pizzas, Bar, Restaurant Indien, Restaurant Italien","21 Bis Rue De Villeneuve, Rungis",2
+94065,Atlantic,ChIJI9BGJwB35kcR7tXefybv4hk,"Restaurant, Restaurant Buffet, Restaurant Japonais","Zone La Cerisaie, Fresnes",2
+94065,Lumières D’asie,ChIJWYytumx35kcRjDh6EXms6xk,Restaurant Chinois,"8bis Av. De Stalingrad, Fresnes",2
+94067,Neko Poke,ChIJQVfsFgdz5kcRwht81Mpm2kU,"Restaurant Coréen, Restaurant Asiatique, Restaurant Halal, Restaurant Hawaïen","44 Av. Du Général De Gaulle, Saint-Mandé",1
+94067,Jounieh,ChIJ5b1aIo9y5kcRouxOcwsTAWg,Restaurant Libanais,"46 Av. Du Général De Gaulle, Saint-Mandé",1
+94067,Mostaza - Restaurant Saint Mandé,ChIJoxOjI49y5kcRaVWUr93Z0rc,"Restaurant De Restauration Rapide, Traiteur, Restaurant Familial, Restaurant De Hamburgers, Kebab, Restaurant À Emporter, Restaurant De Pizzas, Restaurant","46 Av. Du Général De Gaulle, Saint-Mandé",1
+94067,Imzad,ChIJ-_o1Mopz5kcRBX1HhZPhgik,Restaurant Algérien,"14 Av. Du Général De Gaulle, Saint-Mandé",1
+94067,En Faim!,ChIJC2wXakdz5kcRC_7wrBPnkOs,Restaurant Libanais,"2 Av. Foch, Saint-Mandé",1
+94067,La Brasserie 1901,ChIJBWM6mY9y5kcRUwotVIPiPAw,"Brasserie, Restaurant Français","7 Pl. Charles Digeon, Saint-Mandé",0
+94067,Restaurant Le Trouville Saint-Mandé,ChIJjSXwyPxz5kcRETnwZyvcVYw,"Restaurant, Bar, Café, Brasserie","1 Pl. Charles Digeon, Saint-Mandé",0
+94067,Cuisine De Perle.,ChIJ-aBY0o1y5kcRLaXSKDUEyGg,"Restaurant Français, Bar","1 Rue Grandville, Saint-Mandé",0
+94067,La Fraternité,ChIJByZhRI9y5kcRd_5KrMeCBpU,"Brasserie, Café, Restaurant Français, Restaurant","2 Av. Victor Hugo, Saint-Mandé",0
+94067,L'atelier Burger - Saint-Mandé,ChIJaUmnI49y5kcRYP-iE0MYFUc,"Restaurant De Hamburgers, Restaurant Américain, Restaurant De Plats De Viande, Restaurant","46 Av. Du Général De Gaulle, Saint-Mandé",0
+94067,Tomo,ChIJUe74wI5y5kcRyUOJzaMyJJk,"Restaurant Japonais, Restaurant De Sushis","70 Av. Du Général De Gaulle, Saint-Mandé",2
+94067,Nina Sushi,ChIJB7OM245y5kcR15GAo3IGQdQ,"Restaurant De Sushis, Restaurant Japonais, Restaurant","60 Av. Du Général De Gaulle, Saint-Mandé",2
+94067,Côté Sushi Saint-Mandé,ChIJO3a5cwNz5kcRcTcojwNhzzQ,"Restaurant, Restaurant De Fusion Asiatique, Restaurant Fusion, Restaurant Japonais, Restaurant De Livraison, Restaurant À Emporter, Restaurant Péruvien, Restaurant De Sushis, Sushis À Emporter","8 Av. Du Général De Gaulle, Saint-Mandé",2
+94067,Gourmet D'asie,ChIJj9Eq74Vy5kcRrI1ehM3a5K4,"Restaurant Chinois, Restaurant Asiatique, Restaurant Panasiatique","8 Av. Du Général De Gaulle, Saint-Mandé",2
+94067,Sushi Daily Saint Mande,ChIJZTNw9HBz5kcRs-LUEX3IUrc,"Sushis À Emporter, Kiosque","2 Av. Foch, Saint-Mandé",2
+94068,Restaurant Chez Yunus,ChIJdyWWn-4M5kcRH2FnrkQAfag,Restaurant Turc,"74 Bd De Créteil, Saint-Maur-des-Fossés",1
+94068,Rajpoot Saint-Maur - Restaurant Indien & Pakistanais Halal,ChIJaVGOF-UM5kcRwyuNqaIiaig,"Restaurant Indien Musulman, Restaurant Halal, Plats Indiens À Emporter, Restaurant Pakistanais","84 Av. Joffre, Saint-Maur-des-Fossés",1
+94068,Soleil De Marrakech,ChIJN8gB_VcM5kcRF_E3UjI1NKw,Restaurant Marocain,"35 Av. Joffre, Saint-Maur-des-Fossés",1
+94068,Restaurant Riad Salam,ChIJXwxFVjgM5kcR4D3wF8U-2cw,"Restaurant Marocain, Restaurant Arabe, Restaurant Halal, Restaurant, Salon De Thé","101 Quai Winston Churchill, Saint-Maur-des-Fossés",1
+94068,13 Original,ChIJ712SNa0N5kcRl5lA83eHRBA,"Restaurant, Restaurant De Restauration Rapide, Restaurant Halal, Restaurant De Hamburgers, Sandwicherie","13 Bd De La Marne, Saint-Maur-des-Fossés",1
+94068,Restaurant Le Garden,ChIJ6SJzLY8M5kcRI_IKpvLBR0o,"Restaurant Haut De Gamme Français, Restaurant Français","29 Quai De Bonneuil, Saint-Maur-des-Fossés",0
+94068,Le Petit Gourmet,ChIJ3yH86yDmC0ER3LadG1L2KRY,"Restaurant, Restaurant Français, Restaurant Haut De Gamme Français","59 Bis Av. Du Bac, Saint-Maur-des-Fossés",0
+94068,Eden Sens,ChIJ6zB8ySkN5kcRW_aXl7UnWtQ,Restaurant Haut De Gamme Français,"143 Quai De Bonneuil, Saint-Maur-des-Fossés",0
+94068,Buçaco,ChIJ7YBBSYgM5kcRN7TKZYXOgSg,"Restaurant Portugais, Café, Restaurant Français, Restaurant","67 Quai De Bonneuil, Saint-Maur-des-Fossés",0
+94068,Restaurant La Cassolette,ChIJk52XLEEM5kcRLc2QUEIusKw,Restaurant Français,"44 Av. Du Mesnil, Saint-Maur-des-Fossés",0
+94068,Restaurant Prince,ChIJf7yIn5YN5kcRn7WVN4pLnL0,Restaurant Indien,"84 Av. Joffre, Saint-Maur-des-Fossés",2
+94068,Palais Du Prince,ChIJoRDozGgM5kcRXhAdnZOOPrw,Restaurant Indien,"64 Rue Saint-Hilaire, Saint-Maur-des-Fossés",2
+94068,Maison Nouilles,ChIJKaHNWmsN5kcRpPenzyPbptY,Restaurant Asiatique,"Fr, Saint-Maur-des-Fossés",2
+94068,Chang,ChIJS7Y8lEEM5kcRfKSxiEbsBRE,"Restaurant Chinois, Restaurant","5 Bis Av. Balzac, Saint-Maur-des-Fossés",2
+94068,Carnot Thaï,ChIJ42SlUkAN5kcRP_j4tggdavQ,Restaurant Thaïlandais,"83 Av. Carnot, Saint-Maur-des-Fossés",2
+94069,Au Libanais De Saint-Maurice.,ChIJmas7svxy5kcRQooxaO-YCj0,Restaurant Libanais,"8 Av. Du Maréchal De Lattre De Tassigny, Saint-Maurice",1
+94069,La Petite Terrasse,ChIJgRK5vfxy5kcRLVsOYxKe5lY,"Kebab, Restaurant","16 Rue De Paris, Charenton-le-Pont",1
+94069,Boulangerie Pâtisserie Breads Paradise,ChIJD1gaN7Vz5kcRhSTaeQawIks,"Boulangerie, Pâtisserie, Traiteur, Restaurant De Restauration Rapide, Restaurant Français, Restaurant Halal, Pâtisserie, Sandwicherie, Restaurant Végétarien","24 Rue Eugène Renault, Maisons-Alfort",1
+94069,O'malo Alfortville,ChIJXbVaCQJz5kcRMwxSviO_xLw,"Restaurant De Restauration Rapide, Restaurant De Hamburgers, Kebab, Restaurant À Emporter, Restaurant, Sandwicherie","28 Rue Charles De Gaulle, Alfortville",1
+94069,Cappadoce,ChIJsdcpcgNz5kcR5fAeLoksKss,"Restaurant Turc, Kebab","89 Rue Paul Vaillant Couturier, Alfortville",1
+94069,Bar Tabac Fdj Le Village,ChIJv6p75uRy5kcRXGoCFiHPofc,"Bar, Brasserie, Bureau De Tabac","18 Rue Adrien Damalix, Saint-Maurice",0
+94069,Tupinambá,ChIJeYHInrhz5kcR_0BKBpTIlWc,"Restaurant Brésilien, Restaurant Français, Restaurant Méditerranéen","37 Rue Gabriel Péri, Charenton-le-Pont",0
+94069,Chez Beberthe,ChIJHxJXDmxz5kcRst3PP0AB1zs,"Restaurant, Bar, Restaurant Barbecue, Restaurant Familial, Restaurant Français, Restaurant De Plats De Viande","2 Quai Fernand Saguet, Maisons-Alfort",0
+94069,Gentiane,ChIJJdKP4Qtz5kcRF02I5nO2KPA,Restaurant Français,"11 Av. Du Général Leclerc, Maisons-Alfort",0
+94069,Bar Du Metro Brasserie Restaurant,ChIJ40CbluJy5kcRGRAF1EDaypg,"Bar, Brasserie","7 Av. Du Général Leclerc, Maisons-Alfort",0
+94069,Tandem Saveurs Nomades,ChIJcW2cX-dz5kcRsRMiJnCqgGY,"Restaurant, Restaurant De Fusion Asiatique, Restaurant Fusion, Restaurant Européen Moderne, Restaurant Nuevo Latino","50 Av. Du Maréchal De Lattre De Tassigny, Saint-Maurice",2
+94069,La Maison De Diep,ChIJIwptvfxy5kcRw7viFPkxgwQ,"Restaurant Vietnamien, Restaurant","18 Rue De Paris, Charenton-le-Pont",2
+94069,Jasuko,ChIJOa2ZN-By5kcRCmIIIGsPd_M,"Restaurant Japonais, Restaurant Asiatique","Fr, Maisons-Alfort",2
+94069,Susheat,ChIJJ0ilbpNz5kcRkALwfVujWtQ,Restaurant Japonais,"20 Av. Du Général De Gaulle, Maisons-Alfort",2
+94069,Aux Délices D'alfort,ChIJUbZJpeJy5kcR58E7_RkEdHo,Restaurant Chinois,"22 Av. Du Général De Gaulle, Maisons-Alfort",2
+94070,Le Domaine Libanais,ChIJdy-0OXsJ5kcROmpoGHS7ybM,Restaurant Libanais,"Centre Commercial Du Domaine, Santeny",1
+94070,Nuri Doner Kebab,ChIJqxIMmpIJ5kcRPVei7vyyf7E,Restaurant,"Centre Commercial Eden, Servon",1
+94070,O'tacos - Servon,ChIJparLuokJ5kcRSO-K2R8AYaM,"Restaurant De Tacos, Restaurant De Restauration Rapide","1 Rue D'iverny, Servon",1
+94070,Anatol’s,ChIJheXn3dQJ5kcRxWRr5lUQcvE,"Restaurant De Restauration Rapide, Restaurant Halal","Zac Du, Servon",1
+94070,Obrigado Rodizio Servon,ChIJa4TmuyEJ5kcRbsK-gJ-msRQ,"Restaurant Brésilien, Restaurant Barbecue, Rôtisserie, Restaurant Chophouse, Restaurant Halal, Steak House, Restaurant Yakiniku","Centre Commercial Eden, Servon",1
+94070,"Restaurant ""Clepsydre""",ChIJ___PIrsJ5kcR9gAXWU50zuw,"Restaurant, Restaurant Français","4 Rue Du Noyer-Saint-Germain, Santeny",0
+94070,Del Arte,ChIJC4gqvqsJ5kcR6QzjF5zXt0I,"Restaurant, Restaurant Familial, Restaurant Français, Restaurant Italien, Restaurant Du Déjeuner, Restaurant À Emporter, Restaurant Méditerranéen, Restaurant Du Nord De L'italie, Restaurant De Pizzas, Restaurant Du Sud De L'italie","Lieu Dit ""Le, Santeny",0
+94070,Le Farmer,ChIJv98kHQEJ5kcRSnNM0W_2yxE,Restaurant Français,"9 Av. Des Érables, Santeny",0
+94070,Léon - Servon,ChIJn5g9i0oI5kcRG3ybV-VXJ9E,"Restaurant, Restaurant Belge, Restaurant De Fruits De Mer","Route Nationale, Servon",0
+94070,Le Bistrot La Criée Servon,ChIJ1f2hnBkI5kcRw_eZXVpo1ME,"Restaurant, Bistro, Restaurant Chophouse, Restaurant De Poisson-Frites, Restaurant De Poissons, Restaurant De Livraison, Restaurant De Fruits De Mer","4 Rue Georges Truffaut, Servon",0
+94070,Saigon,ChIJF77W2a4J5kcRQXZpa_qbSDk,Restaurant Vietnamien,"5 Pl. Du Village, Santeny",2
+94070,Restau Japonais,ChIJNa_0OQAJ5kcRx3vyCP1QuUk,Restaurant Japonais,"132 Rue Des Roses, Servon",2
+94070,Sushi Grill Servon,ChIJN2_g40oI5kcRJdhnCs9NY34,"Restaurant Japonais, Salle De Banquet, Restaurant Chinois, Restaurant De Sushis","132 Rue Des Roses, Servon",2
+94070,Royal Grill,ChIJjaEBqUsI5kcRJFL8rOhI-h0,"Restaurant Asiatique, Restaurant Chinois, Restaurant Chinois De Livraison, Restaurant Japonais, Restaurant Panasiatique, Restaurant De Sushis, Restaurant De Wok","99 Rue Des Roses, Servon",2
+94070,Meilleur Sushi,ChIJOwQ38lgJ5kcRaWMEygYLd-k,Restaurant Japonais,"France, Marolles-en-Brie",2
+94071,Min's,ChIJoShDUYgL5kcRgIYMzLtf7-U,"Kebab, Restaurant De Restauration Rapide, Restaurant Halal, Restaurant De Hamburgers","2 Rue De Villeneuve, Sucy-en-Brie",1
+94071,Libane Fresh Foods,ChIJO3jJgAgL5kcRNEIHrxROfJk,"Restaurant Libanais, Traiteur","16 Rue Du Moutier, Sucy-en-Brie",1
+94071,Sweet Food,ChIJAQAEs4kL5kcRIcjWKcDl7qM,"Sandwicherie, Restaurant De Restauration Rapide, Kebab","11 Pl. De La Gare, Sucy-en-Brie",1
+94071,L’univers De Serenay,ChIJRdmvcNEN5kcRrzTilYGSpzQ,"Restaurant Brunch, Crêperie, Restaurant De Kebab Doner, Restaurant Halal, Restaurant De Hamburgers, Kebab, Restaurant, Sandwicherie, Salon De Thé, Restaurant Turc","Av. Olivier D'ormesson, Ormesson-sur-Marne",1
+94071,Les Jardins De Majorelle,ChIJw9efLAUM5kcRvoGNLGMfBzc,"Restaurant, Restaurant Marocain","164 Av. Olivier D'ormesson, Ormesson-sur-Marne",1
+94071,Le Sixieme Sens,ChIJP-icE7wL5kcRlo7MS1BDUGQ,Restaurant Français,"6 Rue Pierre Semard, Sucy-en-Brie",0
+94071,Le Quercy,ChIJVYRDvvUL5kcRtOfOdz6n4bE,"Brasserie, Bar, Restaurant Français","8 Rue Du Temple, Sucy-en-Brie",0
+94071,Trois B,ChIJWzMcU_kL5kcRV_qQ7qIWsqQ,"Restaurant De Hamburgers, Restaurant Américain, Magasin De Bière, Restaurant De Restauration Rapide, Restaurant D'aliments Sains, Glacier, Restaurant Bio, Pâtisserie, Restaurant Végétarien","21 Pl. Sainte-Bernadette, Sucy-en-Brie",0
+94071,Eden Crêpe,ChIJ2XEB3PUL5kcRIMbLy80Y5-0,"Crêperie, Restaurant Français","18 Av. Winston Churchill, Sucy-en-Brie",0
+94071,La Ferme Des Mélèzes,ChIJTzSRUqsO5kcRM6sdChj0ZJg,"Restaurant, Restaurant Barbecue, Magasin De Bière, Fromagerie, Bar À Cocktails, Glacier, Restaurant Du Déjeuner, Restaurant De Crêpes, Bar À Vin","46 Av. Pierre Mendès-France, Noiseau",0
+94071,Yama Yen,ChIJO-6tyPUL5kcRHUkA5ahPtI0,"Restaurant Japonais, Restaurant Coréen","12 Rue Guy Moquet, Sucy-en-Brie",2
+94071,Palais Du Prince,ChIJoRDozGgM5kcRXhAdnZOOPrw,Restaurant Indien,"64 Rue Saint-Hilaire, Saint-Maur-des-Fossés",2
+94071,Best Thai Kitchen,ChIJqen2tScL5kcRcFw0uEwaMB4,Restaurant Thaïlandais,"28 Rue De Sucy, Boissy-Saint-Léger",2
+94071,Papylee,ChIJda-WUX0L5kcRtphAlEbEKd8,Restaurant Asiatique,"1-3 Av. Du Bicentenaire 1789-1989 À E.leclerc, Bonneuil-sur-Marne",2
+94071,Dragonking,ChIJAQDsbYIM5kcRbbtr2G8k9sQ,Restaurant Asiatique,"Av. Du Colonel Fabien 11, Bonneuil-sur-Marne",2
+94073,Khao Thaï,ChIJ3eP0v2J05kcRrsJ173as_Mk,"Restaurant Thaïlandais, Restaurant Halal, Restaurant","31 Av. Gambetta, Choisy-le-Roi",1
+94073,Abi Kebab,ChIJdx5DkeR15kcRbursSwn3cPk,Restaurant,"29 Av. Gambetta, Choisy-le-Roi",1
+94073,Le Sultan,ChIJS3vpTHd05kcRYkNPmZF0rq4,"Restaurant, Restaurant Marocain","55 Rue Jean Jaurès, Thiais",1
+94073,Clems'd,ChIJrYWLFhV15kcRzVpGgny4JeQ,"Traiteur, Restaurant Africain, Restaurant Barbecue, Magasin De Bière, Restaurant Halal, Magasin De Salades, Restaurant De Fruits De Mer, Bar À Vin","6 Rue Hélène Muller, Thiais",1
+94073,Burn In Box,ChIJCXeeJAx15kcRYvc267ODTYc,"Restaurant, Restaurant Halal","105 Bd De Stalingrad, Thiais",1
+94073,L'osteria-Ciociara,ChIJ5Y6CKm505kcRtKjBCRh6H6Y,"Restaurant Italien, Restaurant Haut De Gamme Français, Restaurant De Pizzas","2-4 Rue Du Perreux, Thiais",0
+94073,Le Trisk'l,ChIJ2Wg2K2p05kcRjHU1_GDF_-s,Crêperie,"Rue De La Résistance, Thiais",0
+94073,L'espérance,ChIJ0S1xvnF05kcRBjZAFWtr_io,"Bar Et Grill, Bar","2 Rue De L'égalité, Thiais",0
+94073,La Cantine Corse,ChIJeykK5up15kcRGFey7yctQPc,"Restaurant De Pizzas, Magasin De Bière, Bistro, Brasserie, Café, Restaurant De Hamburgers, Restaurant Méditerranéen","3 Rue De La Résistance, Thiais",0
+94073,Planète Pizza Thiais,ChIJP-Dn3H505kcR6wXDuAeMuO8,"Restaurant De Pizzas, Restaurant De Restauration Rapide, Restaurant Français, Restaurant Italien, Restaurant De Livraison, Livraison De Pizzas, Pizza À Emporter, Restaurant","59 Bd De Stalingrad, Thiais",0
+94073,Pum Thaï,ChIJ____3mt05kcRwGlD1e0JdD0,"Restaurant, Restaurant Du Déjeuner, Restaurant À Emporter, Restaurant Thaïlandais","Rue De La Résistance, Thiais",2
+94073,Le Palais De Thiais,ChIJZ5J9KW505kcRPt75nfUdk38,Restaurant Asiatique,"7 Rue Robert Laporte, Thiais",2
+94073,Sushi Kyo,ChIJDSVD1Wt05kcRwtZOGUUWl5U,"Restaurant Japonais, Restaurant De Sushis","3 Rue De La Résistance, Thiais",2
+94073,Restaurant Japonais Okayama,ChIJs97zamN05kcRr4wxIhXoURI,Restaurant Japonais,"11 Av. René Panhard, Thiais",2
+94073,Restaurant Kin,ChIJ4RomD4p05kcRuFsN83tpWn8,"Restaurant, Restaurant Chinois, Restaurant De Fondue Chinoise, Restaurant De Livraison, Restaurant D'asie Du Sud-Est, Restaurant Thaïlandais","29 Av. Du Maréchal De Lattre De Tassigny, Choisy-le-Roi",2
+94074,Pizza Di Napoli Valenton,ChIJ2REhrjoL5kcRHyy0hI7Q5u8,"Restaurant De Pizzas, Restaurant De Restauration Rapide, Restaurant Halal, Livraison De Pizzas, Pizza À Emporter, Restaurant","160 Av. De La Division Du General Leclerc, Valenton",1
+94074,Resto Halal Karien Livraison Et À Emporter,ChIJw3AVVG4L5kcRCvW5eBwYeHo,Restaurant,"Imp. Guérin, Valenton",1
+94074,Home Kebab,ChIJRZVCA-IL5kcRmEIk3jpiqiQ,Restaurant Turc,"2 Rue Fernand Pelloutier, Villeneuve-Saint-Georges",1
+94074,Ali Baba,ChIJu_T6hTYL5kcR59AlknLYPjI,Kebab,"34 Rue De La Sablonnière, Valenton",1
+94074,Nefis Kebab & Grillades,ChIJBfFv2RQL5kcRNN6w1cetIp0,Restaurant,"4 Pl. Arthur Rimbaud, Limeil-Brévannes",1
+94074,Aux Deux Colonnes,ChIJofgFez4L5kcR0qgFrWc9Ms4,Restaurant Français,"1 Rue Gabriel Péri, Valenton",0
+94074,Auberge De Limeil,ChIJM305YBoL5kcRfiXpj9Ejoc8,Restaurant Français,"12 Rue Georges Clemenceau, Limeil-Brévannes",0
+94074,L'arène Des Poulets,ChIJF8aycEcL5kcRykRg9rKe-LM,"Bistro, Restaurant Du Déjeuner","4 All. Léopold Sédar Senghor, Limeil-Brévannes",0
+94074,Jall Candy Paris,ChIJ2wLCK9sL5kcRmrA2XS2b6U4,"Traiteur, Chocolaterie, Restaurant Français","Rue Albert Camus, Villeneuve-Saint-Georges",0
+94074,Ren,ChIJyVwgMM105kcRSYlGqPIXkoI,Brasserie,"278 Pass. Chazal, Villeneuve-Saint-Georges",0
+94074,Ak Sushi,ChIJz6t45xQL5kcRn5Rl5xAcSQc,"Restaurant Japonais, Restaurant De Sushis","11-13 Pl. Louis Aragon, Limeil-Brévannes",2
+94074,Mak Thaï,ChIJ81I7VaEL5kcRn4sWTm__Qq4,"Restaurant Thaïlandais, Restaurant Japonais","25 Rue Raymond De La Grange, Villeneuve-Saint-Georges",2
+94074,Out Fry Korean Fried Chicken,ChIJX8OwGwB15kcRY_yluX2dflw,Restaurant Coréen,"264 Rue De Paris, Villeneuve-Saint-Georges",2
+94074,Régal Thaï,ChIJhQGWclwL5kcRo4kl7SQyaW8,Restaurant Thaïlandais,"132 Rue De Paris, Villeneuve-Saint-Georges",2
+94074,Fast Fried Chicken(Indian),ChIJ2RHvENUK5kcRBhwmecXQm9E,"Restaurant De Restauration Rapide, Restaurant Indien","10 Rue Henri Leduc, Villeneuve-Saint-Georges",2
+94075,Kebab Villecresnes - Aylin,ChIJNU94XigK5kcRTanHuw8TK1Y,Kebab,"56 Rue Du Lieutenant Dagorno, Villecresnes",1
+94075,Pizza Liva,ChIJI8KcciwK5kcRtEby2B_t6X4,"Restaurant De Pizzas, Restaurant Italien, Kebab, Livraison De Pizzas, Pizza À Emporter, Restaurant De Tacos","55 Av. Du Maréchal De Lattre De Tassigny, Villecresnes",1
+94075,Grill Istanbul,ChIJT61ODfYJ5kcR1_8Mtkky2pA,"Kebab, Restaurant De Kebab Doner","12 Rue De Brie, Mandres-les-Roses",1
+94075,Restaurant Chez Dada,ChIJl4jV03MK5kcR46kSKcPHe6w,"Restaurant Turc, Restaurant","19 Rue De La République, Brunoy",1
+94075,Le Régal,ChIJybrJ2nMK5kcRfQ2-kVt6nqo,Restaurant Turc,"6 Pl. De La Gare, Brunoy",1
+94075,L'inattendu Villecresnes Emilien Rouable,ChIJdXIUN90L5kcRBsDpA9R1nxk,Restaurant Haut De Gamme Français,"36 Rue Du Général Leclerc, Villecresnes",0
+94075,Le Sunset,ChIJH2NUaAAL5kcRAIfrtJjYSOA,Restaurant Brunch,"44 Rue Du Général Leclerc, Villecresnes",0
+94075,Juste - La Brasserie,ChIJf9tSq29z5kcRx0PWSbMoc_8,"Brasserie, Restaurant Brunch, Bar À Cocktails, Restaurant De Cuisine Campagnarde, Glacier, Restaurant Français Moderne, Magasin De Pâtes, Restaurant De Pizzas, Salon De Thé, Bar À Vin","73 Rue Du Lieutenant Dagorno, Villecresnes",0
+94075,Mcdonald's,ChIJuyzAaSwK5kcRbWi45I5O-nY,"Restaurant De Restauration Rapide, Restaurant Américain, Restaurant De Hamburgers, Restaurant De Pizzas, Restaurant, Sandwicherie","61 Av. Du Maréchal De Lattre De Tassigny, Villecresnes",0
+94075,Poulet D2s,ChIJjzRFctsL5kcRz0cIZE4Asgk,"Restaurant, Restaurant De Restauration Rapide, Restaurant Français, Restaurant Du Déjeuner","61 Rue De Brunoy, Villecresnes",0
+94075,Les Merveilles De Chine,ChIJn_s_oYAJ5kcREyEDez14-6U,"Restaurant Chinois, Restaurant Asiatique","2 Av. Du Maréchal De Lattre De Tassigny, Villecresnes",2
+94075,Sushiman Intermaché Villecresnes,ChIJa4HzwoIL5kcRYErReFTb5iA,"Sushis À Emporter, Restaurant Asiatique, Restaurant De Restauration Rapide, Restaurant À Emporter, Restaurant D'asie Du Sud-Est, Restaurant De Sushis","Intermarché, Villecresnes",2
+94075,Ban Buriram,ChIJqYKXCQAL5kcRFz9c9UIwVEg,Restaurant Thaïlandais,"23 Rue De Cerçay, Villecresnes",2
+94075,Sushi You,ChIJJd1UtScK5kcRMOgoFR3SZMY,"Restaurant Japonais, Restaurant","45 Bis Av. Du Maréchal De Lattre De Tassigny, Villecresnes",2
+94075,Sushi Grill Marolles En Brie,ChIJReGrHIEJ5kcRV1YJ0hqh-p0,"Restaurant Japonais, Restaurant Chinois, Restaurant De Sushis","9 Rue De La Tuilerie, Marolles-en-Brie",2
+94076,Le Majestic,ChIJBegga5Zz5kcR9e_-lxLyPvY,"Restaurant, Restaurant Halal, Restaurant De Hamburgers, Brasserie, Magasin De Salades, Sandwicherie, Restaurant De Tacos, Restaurant De Wok","49 Av. De Paris, Villejuif",1
+94076,Amaya Paris Restaurant Lounge,ChIJ86ZJOcxz5kcRspevkpm6qQ8,Restaurant Halal,"84 Bd Maxime Gorki, Villejuif",1
+94076,Tassili Restaurant,ChIJ-aOdk9tz5kcRO5UMSo-UPM4,"Restaurant Algérien, Restaurant Halal, Restaurant Marocain","85 Rue Jean Jaurès, Villejuif",1
+94076,Restaurant Beyti Villejuif,ChIJZ4x8huNz5kcRlM2JHu5_NCU,Restaurant Turc,"Restaurant Beyti, Villejuif",1
+94076,New Wai,ChIJ9U4JFpBz5kcRByBW3ATOPlw,Restaurant Halal,"1 Av. Louis Aragon, Villejuif",1
+94076,Creperie L'hirondelle,ChIJETfVTTJz5kcR9SQ-KdUcrck,"Crêperie, Restaurant Familial, Restaurant, Salon De Thé","32 Rue Georges Lebigot, Villejuif",0
+94076,Le Saint-Maurice,ChIJzyjqJeFz5kcRWvv0fQdN1qM,Restaurant Français,"48 Rue Jean Jaurès, Villejuif",0
+94076,Le Médaillon,ChIJ2SlR-lhx5kcRXviKBUE1MDc,"Restaurant Gastronomique, Restaurant Français, Restaurant Méditerranéen, Restaurant Bio","85 Av. De La République, Villejuif",0
+94076,Show Devant(Bistrot).,ChIJOTNct-Fz5kcR5BKLx1oWPHg,"Bistro, Restaurant Italien, Brasserie","38 Rue Georges Lebigot, Villejuif",0
+94076,Le Kuzu Restaurant Steakhouse,ChIJy1f88dJz5kcRaqV50FuZnLc,"Restaurant, Traiteur, Restaurant Français, Salle De Réception, Restaurant De Plats De Viande","3 Bis Av. De Stalingrad, Villejuif",0
+94076,Gin'ro,ChIJj6ga7ddz5kcRBxqOz-oy2xw,Restaurant Coréen,"21 Av. De Paris, Villejuif",2
+94076,Khankluay,ChIJPZO-UeFz5kcRWbuuo9PgqMM,Restaurant Thaïlandais,"125 Rue Jean Jaurès, Villejuif",2
+94076,Maihak Chez Babou,ChIJ54pK_ONz5kcRaapl4rvUMVw,Restaurant Indien,"102 Rue Jean Jaurès, Villejuif",2
+94076,Bashô,ChIJAeNnJIZz5kcR0hR1LBQj1ws,Restaurant Japonais,"110 Rue Jean Jaurès, Villejuif",2
+94076,Chez Lili,ChIJlQn1HQVz5kcREIdIWkEHFlo,"Restaurant Asiatique, Restaurant Chinois, Restaurant Japonais","104 Av. De Paris, Villejuif",2
+94077,Au Palmier D'agadir,ChIJ89nKmx515kcR1RIWOnwZ6go,Restaurant Marocain,"18 Rue Du Maréchal Lyautey, Villeneuve-le-Roi",1
+94077,Bombay´S,ChIJaTsDtHx15kcRhtTcxjmFaKY,"Restaurant Indien, Restaurant Halal, Restaurant De Livraison, Restaurant À Emporter, Restaurant Indien Moderne, Service D'expédition, Restaurant Végétarien","8 Rue Hippolyte Caillat, Villeneuve-le-Roi",1
+94077,L'epicuroi,ChIJq6qV8d105kcR-x2X9zyBOFU,"Restaurant De Pizzas, Restaurant Halal, Livraison De Pizzas, Pizza À Emporter, Restaurant De Tacos","2 Rue Hippolyte Caillat, Villeneuve-le-Roi",1
+94077,Grillade Dorée,ChIJLQeunyRt5kcRcIc8bEbf41I,"Restaurant Halal, Restaurant Barbecue, Restaurant De Kebab Doner","4 Rue Elsa Triolet, Orly",1
+94077,Kebab Deniz,ChIJoQncXPd05kcRi3lsqD49Sh0,"Kebab, Restaurant De Restauration Rapide","67 Av. Adrien Raynal, Orly",1
+94077,Oh Kiosque Des Saveurs,ChIJM4DmauB05kcR3gBKIhw6iXs,"Restaurant, Restaurant Français","38 Rue Du Général De Gaulle, Villeneuve-le-Roi",0
+94077,Le Palace,ChIJp3flyyF15kcRAhj7JjfrdyA,"Restaurant Français, Bar, Bar Sportif","2 Av. De La République, Villeneuve-le-Roi",0
+94077,Le Faisan Doré,ChIJdRH1PSB15kcRCjAovMmco8Q,Restaurant Français,"5 Pl. Jeanne D'arc, Villeneuve-le-Roi",0
+94077,Bistrot Du Marché Villeneuve Le Roi,ChIJHVablJJ15kcRnLicCseroSo,"Restaurant, Bar Et Grill, Restaurant De Petit-Déjeuner, Restaurant Familial, Restaurant De Restauration Rapide, Marché De Produits Frais, Restaurant Du Déjeuner, Restaurant À Emporter, Restaurant De Plats De Viande, Restaurant Traditionnel","32-38 Av. Le Foll, Villeneuve-le-Roi",0
+94077,La Crêperie Du Roi,ChIJNaCu4Z115kcRH2Jcd4Op06M,Crêperie,"32 Rue Du Général De Gaulle, Villeneuve-le-Roi",0
+94077,Restaurant Shahi (Ex-Shiva),ChIJ5SyEmB515kcRNcdIF1r-beM,"Restaurant Pakistanais, Restaurant Indien Musulman, Restaurant Indien","18 Rue Du Maréchal Lyautey, Villeneuve-le-Roi",2
+94077,Auberge D'asie,ChIJEc1ihB515kcRTDgXJ01flYk,"Restaurant Mandarin, Restaurant Asiatique, Bar, Restaurant Chinois","47 Av. De La République, Villeneuve-le-Roi",2
+94077,Maÿ Thaï,ChIJp8nIDvt15kcRmBJUDz9WLKM,Restaurant Thaïlandais,"6 Pl. Jeanne D'arc, Villeneuve-le-Roi",2
+94077,Sushi Land,ChIJBzLZzSF15kcRvsvwx2bp-Pg,Restaurant Japonais,"4 Av. De La République, Villeneuve-le-Roi",2
+94077,La Rizière,ChIJrY9jryF15kcRnzl3zMius2o,"Restaurant Vietnamien, Bar, Salle Des Fêtes, Restaurant","2 Rue Jean Pierre Timbaud, Villeneuve-le-Roi",2
+94078,Ali Baba,ChIJu_T6hTYL5kcR59AlknLYPjI,Kebab,"34 Rue De La Sablonnière, Valenton",1
+94078,Pizza Di Napoli Valenton,ChIJ2REhrjoL5kcRHyy0hI7Q5u8,"Restaurant De Pizzas, Restaurant De Restauration Rapide, Restaurant Halal, Livraison De Pizzas, Pizza À Emporter, Restaurant","160 Av. De La Division Du General Leclerc, Valenton",1
+94078,Le Barbeuk,ChIJES5yxxEL5kcROCyZQvKzplg,Restaurant Turc,"17 Av. Carnot, Villeneuve-Saint-Georges",1
+94078,Testi,ChIJ0XEtUdMK5kcRHB8vr3uZoxE,Restaurant Turc,"55 Rue De Paris, Villeneuve-Saint-Georges",1
+94078,Home Kebab,ChIJRZVCA-IL5kcRmEIk3jpiqiQ,Restaurant Turc,"2 Rue Fernand Pelloutier, Villeneuve-Saint-Georges",1
+94078,Oceana,ChIJL22fHysL5kcRCW_Bx4Zkobg,"Bar, Brasserie","9 Rue Émile Zola, Villeneuve-Saint-Georges",0
+94078,Ren,ChIJyVwgMM105kcRSYlGqPIXkoI,Brasserie,"278 Pass. Chazal, Villeneuve-Saint-Georges",0
+94078,Jall Candy Paris,ChIJ2wLCK9sL5kcRmrA2XS2b6U4,"Traiteur, Chocolaterie, Restaurant Français","Rue Albert Camus, Villeneuve-Saint-Georges",0
+94078,La Guinguette Auvergnate,ChIJ1Xxbns905kcR8h7uSoUKhUo,Restaurant Français,"19 Av. De Choisy, Villeneuve-Saint-Georges",0
+94078,Aux Deux Colonnes,ChIJofgFez4L5kcR0qgFrWc9Ms4,Restaurant Français,"1 Rue Gabriel Péri, Valenton",0
+94078,Mak Thaï,ChIJ81I7VaEL5kcRn4sWTm__Qq4,"Restaurant Thaïlandais, Restaurant Japonais","25 Rue Raymond De La Grange, Villeneuve-Saint-Georges",2
+94078,Fast Fried Chicken(Indian),ChIJ2RHvENUK5kcRBhwmecXQm9E,"Restaurant De Restauration Rapide, Restaurant Indien","10 Rue Henri Leduc, Villeneuve-Saint-Georges",2
+94078,Out Fry Korean Fried Chicken,ChIJX8OwGwB15kcRY_yluX2dflw,Restaurant Coréen,"264 Rue De Paris, Villeneuve-Saint-Georges",2
+94078,Régal Thaï,ChIJhQGWclwL5kcRo4kl7SQyaW8,Restaurant Thaïlandais,"132 Rue De Paris, Villeneuve-Saint-Georges",2
+94078,Le Riyad,ChIJ437IgCl15kcRjT2iqONSbU8,"Restaurant, Traiteur, Restaurant Chinois, Restaurant Indien","52 Rue Raoul Delattre, Villeneuve-le-Roi",2
+94079,Cheese Naan,ChIJbbe9T4cN5kcRvZyV-Awc5_0,"Restaurant De Pizzas, Pizza À Emporter, Sandwicherie, Restaurant De Tacos","8 Rue Louis Lenoir, Villiers-sur-Marne",1
+94079,Restaurant La Santa Cruz,ChIJr11e45MN5kcRb8Q2BAMHYzc,"Restaurant Mexicain, Magasin De Bière, Restaurant Sans Gluten, Restaurant Halal, Glacier, Pâtisserie, Restaurant Végétalien, Restaurant Végétarien","83 Rue Du Général De Gaulle, Villiers-sur-Marne",1
+94079,Friday Food,ChIJj8FpRd0N5kcRJZAJTCfaiKs,"Restaurant De Restauration Rapide, Restaurant À Emporter, Restaurant Pakistanais, Restaurant De Pizzas, Restaurant, Restaurant Turc","35 Rte De Bry, Villiers-sur-Marne",1
+94079,G La Dalle - Villiers-Sur-Marne,ChIJ98J7MkAN5kcR7XXyHwZDUHU,"Restaurant De Hamburgers, Restaurant De Restauration Rapide, Restaurant Halal","4 Rue Louis Lenoir, Villiers-sur-Marne",1
+94079,Restaurant Kebab Le Villiers,ChIJCaE70N4N5kcRf0Cc3pDHQyk,"Restaurant, Restaurant Barbecue, Kebab","Rue Des Ecoles, Villiers-sur-Marne",1
+94079,Buffalo Grill Noisy-Le-Grand,ChIJYxJMUwoO5kcRrDa2cJP-TMQ,"Restaurant, Restaurant Américain, Bar Et Grill, Restaurant Barbecue, Restaurant Familial, Restaurant De Hamburgers, Restaurant À Emporter, Steak House","Rue Auguste Rodin, Noisy-le-Grand",0
+94079,Les Mignardises,ChIJ8xOVj9AN5kcRVJRhXyB30fA,"Restaurant, Restaurant Gastronomique, Restaurant Français","1 Rue Du Progrès, Villiers-sur-Marne",0
+94079,Léon - Villiers Sur Marne,ChIJLe5OKOMP5kcRUjmCzSN77t0,"Restaurant, Restaurant Belge, Restaurant De Fruits De Mer","Zac Des Portes De Ancien, Villiers-sur-Marne",0
+94079,Newdelice,ChIJTWnXT98N5kcR1KXqZwVxf0Y,"Restaurant De Restauration Rapide, Restaurant Américain, Restaurant De Hamburgers, Restaurant De Pizzas","68 Rue Du Général De Gaulle, Villiers-sur-Marne",0
+94079,1.2.3 Poulet,ChIJRVbMo9wN5kcRLFM9xXR_XTw,"Restaurant De Restauration Rapide, Restaurant Américain, Restaurant D'ailes De Poulet, Restaurant Portugais, Restaurant","55 Bis Rue Jean Jaurès, Villiers-sur-Marne",0
+94079,Le Saigonnais,ChIJP5Nvax8N5kcR8g5BfbhcP1w,Restaurant Vietnamien,"2 Pl. Pierre Semard, Villiers-sur-Marne",2
+94079,Didi Saigon - Restaurant Vietnamien - Karaoké & Live Music,ChIJd44SPHsN5kcRxUWF4H0lnSA,"Restaurant Vietnamien, Bar Karaoké","Parking Bricorama, Villiers-sur-Marne",2
+94079,Moon Thai « Restaurant »,ChIJvzJJqsIN5kcRIvCMmIBYRpM,Restaurant Thaïlandais,"Parking Bricorama (Au Fond, Villiers-sur-Marne",2
+94079,Saveur D' Asie,ChIJS7iYNt8N5kcRvMT1KY5eVNE,"Restaurant Chinois, Traiteur, Plats Chinois À Emporter","81 Rue Du Général De Gaulle, Villiers-sur-Marne",2
+94079,Aïko Restaurant,ChIJzdVvMAAN5kcRdWDxoUla3gU,Restaurant Japonais,"1 Pl. Des Tilleuls, Villiers-sur-Marne",2
+94080,Restaurant Titan- Artisan Kebabier,ChIJXSXoBwZz5kcRnbUXhgtkwJA,Restaurant,"184 Rue De Fontenay, Vincennes",1
+94080,Beitna,ChIJM2J2Oqxy5kcR6NIjqJv_6Gs,Restaurant Libanais,"17 Rue Clément Vienot, Vincennes",1
+94080,Les Saveurs De Djerba,ChIJrRk931xz5kcRcHwthZxxuto,"Restaurant, Restaurant Tunisien","14 Rue Robert Giraudineau, Vincennes",1
+94080,Cheese Naan Vincennes,ChIJU2YG1gNz5kcRbZX_81JYYVI,"Restaurant, Restaurant Halal, Kebab, Pizza À Emporter, Sandwicherie","31 Av. De La République, Vincennes",1
+94080,Miam Miam Libanais,ChIJL0Z6lKJy5kcRlXliavK-HvQ,"Restaurant Libanais, Restaurant Méditerranéen","18 Rue De Montreuil, Vincennes",1
+94080,L’assiette Voyageuse,ChIJ4c2kgZxy5kcRlJsghwYk0Xw,"Restaurant, Magasin De Bière, Pâtisserie, Bar À Cocktails, Restaurant Français, Restaurant De Fruits De Mer, Restaurant Traditionnel, Restaurant Végétarien, Bar À Vin","50 Rue De Lagny, Montreuil",0
+94080,M I M,ChIJEXu6dpxy5kcRJB3SZoWej-0,"Bistro, Brasserie, Café, Bar De Musique Live, Brasserie, Salon De Thé","113 Rue Marceau, Montreuil",0
+94080,La Cantine,ChIJJT2wKppy5kcRvQ4scwr-QzM,"Restaurant Français, Bar","10 Rue Victor Basch, Vincennes",0
+94080,Le Marigny,ChIJVU6D7KNy5kcRuT7Wd0nvtHg,"Brasserie, Bar, Restaurant Français, Restaurant Végétalien, Restaurant Végétarien, Bar À Vin","65 Rue De Fontenay, Vincennes",0
+94080,La Table Des Troys,ChIJA4HeSKNy5kcRMuMj-CDC3S4,"Restaurant, Restaurant Barbecue","2 Av. De Paris, Vincennes",0
+94080,L'atelier Du Naan,ChIJk1smWUJz5kcR-YTcoh8VIg8,"Restaurant Indien, Restaurant De Restauration Rapide","36 Rue De Lagny, Montreuil",2
+94080,Ichikawa,ChIJqw_iGJpy5kcRNUFZT3YFjvU,"Restaurant Japonais, Restaurant De Sushis","67 Av. De Paris, Saint-Mandé",2
+94080,Au Bol De Riz,ChIJR3THyZpy5kcR9NtEqEs62ks,"Restaurant Asiatique, Restaurant Chinois, Restaurant Thaïlandais","87 Av. De Paris, Saint-Mandé",2
+94080,Kintaro,ChIJkTWAw5py5kcR3B1qc1v556c,"Restaurant Japonais, Restaurant De Fondue Chinoise, Restaurant Végétarien","136 Av. De Paris, Vincennes",2
+94080,Mây Bay - Restaurant Vietnamien Vegan Végétarien,ChIJI4tHr7xz5kcR4DOVb1kw8PU,Restaurant Vietnamien,"33 Rue Des Laitières, Vincennes",2
+94081,Orientale Saveur,ChIJJ8amd6Jz5kcRK-SksnFE1Mw,"Traiteur, Restaurant Halal, Buffet De Mariage","24 Rue De La Ferme, Vitry-sur-Seine",1
+94081,Times Square Vitry,ChIJCXnPlz1z5kcRk-2xK4ecPzA,"Restaurant, Restaurant Américain, Restaurant Halal","18 Av. De L'abbé Roger Derry, Vitry-sur-Seine",1
+94081,Restaurant L’atlas,ChIJ365uBq5z5kcRaeyEz-xG4gY,Restaurant Marocain,"159 Av. Paul Vaillant Couturier, Vitry-sur-Seine",1
+94081,Le Mistral - Vitry Sur Seine,ChIJwXAToxFz5kcRnOSFkNUHgXI,Restaurant Halal,"129 Bd De Stalingrad, Vitry-sur-Seine",1
+94081,T9 Foodies & Grill,ChIJma2vCCNz5kcRJHwwMcQUx9c,"Restaurant, Restaurant De Hamburgers, Kebab, Restaurant De Pizzas, Pizza À Emporter","42 Av. Henri Barbusse, Vitry-sur-Seine",1
+94081,Bistrot À L’angle,ChIJkwuaI29z5kcRK9NrG31LURo,Restaurant Français,"53 Rue Charles Fourier, Vitry-sur-Seine",0
+94081,L'imprévu,ChIJX3am-ahz5kcRvhSoFbLWrAo,"Restaurant, Restaurant Français","94 Av. Anatole France, Vitry-sur-Seine",0
+94081,Le Casanova Vitry Sur Seine,ChIJx312wJlz5kcR3KHBLHUp-vQ,Restaurant Français,"57 Av. Danielle Casanova, Vitry-sur-Seine",0
+94081,Le P'tit Bistrot,ChIJ1-APEwtz5kcRo65RwYy81Bs,"Restaurant, Restaurant Français","18 Av. Du Président Salvador Allende, Vitry-sur-Seine",0
+94081,Grill Garden,ChIJXdIJVTNz5kcRbjzRBHwunkI,"Restaurant, Brasserie, Restaurant Français Moderne","10 Pl. De L'église, Vitry-sur-Seine",0
+94081,Le Jardin Des Phenix,ChIJiZQCW6Zz5kcRcrvsK5bmiLg,Restaurant Chinois,"24 Av. Anatole France, Vitry-sur-Seine",2
+94081,Rajpoot,ChIJ6Tp2c5lz5kcRwIpRSzzooXo,Restaurant Indien,"37 Av. Danielle Casanova, Vitry-sur-Seine",2
+94081,Le Phénix D'or,ChIJBVhDYJhz5kcRLBN1ZK4ZPcY,Restaurant Vietnamien,"81 Av. Jean Jaurès, Vitry-sur-Seine",2
+94081,Laxmy,ChIJj_NXUQBz5kcRC6f6QUjdicw,Restaurant Indien,"56 Av. Anatole France, Vitry-sur-Seine",2
+94081,Au Bon Coin,ChIJE4VywLJz5kcRrHtPgOFyzzQ,"Brasserie, Restaurant Asiatique, Restaurant Français, Sandwicherie","98 Av. Anatole France, Vitry-sur-Seine",2
